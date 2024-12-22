@@ -188,6 +188,8 @@ class BLEManager: ObservableObject {
         setupSubscriber()
     }
     
+    
+    
     private func setupSubscriber() {
         $wifiListString
             .sink { wifiListString in
