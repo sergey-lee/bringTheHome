@@ -103,6 +103,7 @@ struct NewBleView: View {
                         .font(bold30Font)
                 }
                 .onChange(of: bleManager.deviceData) { deviceData in
+                    print("ON CHANGE: \(deviceData)")
                     if let deviceData {
                         let api = ApiNodeServer()
                         // TODO: fixme
@@ -183,6 +184,10 @@ class BLEManager: ObservableObject {
         }
     }
     
+    init() {
+        setupSubscriber()
+    }
+    
     private func setupSubscriber() {
         $wifiListString
             .sink { wifiListString in
@@ -248,6 +253,12 @@ class BLEManager: ObservableObject {
                 }
             }) { (value: readResponse) in
                 // handling
+                if let wifiListString = value.list {
+                    self.wifiListString = wifiListString
+                }
+                if let deviceData = value.deviceData {
+                    self.deviceData = deviceData
+                }
             }
             .store(in: &disposeBag)
     }
@@ -393,8 +404,8 @@ struct readResponse: Readable {
         //        self.data = [UInt8](data)
         command = data[0]
         success = data[1]
-        list = bytesToWifiList(data: [UInt8](data))
-        deviceData = bytesToDeviceData(data: [UInt8](data))
+//        list = bytesToWifiList(data: [UInt8](data))
+//        deviceData = bytesToDeviceData(data: [UInt8](data))
         
         switch command {
         case 0x12:
