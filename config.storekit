@@ -1,0 +1,129 @@
+{
+  "identifier" : "D26DD9B0",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+
+  ],
+  "settings" : {
+    "_applicationInternalID" : "1670785596",
+    "_developerTeamID" : "6S83TJN3P8",
+    "_failTransactionsEnabled" : false,
+    "_lastSynchronizedDate" : 707189032.32803905,
+    "_locale" : "en_US",
+    "_storefront" : "USA",
+    "_storeKitErrors" : [
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Load Products"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Purchase"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Verification"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Store Sync"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Subscription Status"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Transaction"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Manage Subscriptions Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Refund Request Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Offer Code Redeem Sheet"
+      }
+    ]
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "21214105",
+      "localizations" : [
+
+      ],
+      "name" : "family",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "7.99",
+          "familyShareable" : false,
+          "groupNumber" : 4,
+          "internalID" : "6449723240",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "10 members, all access for 1 month",
+              "displayName" : "Monthly, Extended",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "wethm_799_1m_extended",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Extended $ 7.99",
+          "subscriptionGroupID" : "21214105",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "3.99",
+          "familyShareable" : false,
+          "groupNumber" : 3,
+          "internalID" : "6449722864",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "4 members, detailed info for 1 month",
+              "displayName" : "Monthly, Standard",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "wethm_399_1m_standard",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Standard $ 3.99",
+          "subscriptionGroupID" : "21214105",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}

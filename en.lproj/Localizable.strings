@@ -1,0 +1,914 @@
+/*
+  Localizable.strings
+  mellowing-factory
+
+  Created by Florian Topf on 08.02.22.
+  Updated by 이준녕 on 13.07.22.
+  
+*/
+
+// Shared
+"EMAIL" = "Email";
+"PASSWORD" = "Password";
+"CONFIRM_PASSWORD" = "Confirm Password";
+"SIGNIN" = "Sign in";
+"SURNAME" = "Surname";
+"NAME" = "Name";
+"NEXT" = "Next";
+"VERIFY" = "Verify";
+"EMAIL_ENTER" = "Please enter your email";
+"CREATE_PASSWORD" = "Create password";
+"SKIP" = "Skip";
+"SKIP_C" = "SKIP";
+"STOP_C" = "STOP";
+"TERMS_AND_CONDITIONS" = "Terms and Conditions";
+"PRIVACY_POLICY" = "Privacy Policy";
+"AGREE" = "Agree";
+"SIGNOUT" = "sign out";
+"SLOGAN" = "Better Night, Better Life";
+"BIRTH_YEAR" = "Birth year";
+"WEIGHT" = "Weight";
+"KG" = "kg";
+"HEIGHT" = "Height";
+"GENDER" = "Gender";
+"MALE" = "Male";
+"FEMALE" = "Female";
+"OTHER" = "Other";
+"CONFIRM" = "Confirm";
+"NO" = "No";
+"YES" = "Yes";
+"PURCHASE" = "Purchase";
+"CANCEL" = "Cancel";
+"CONNECT" = "Connect";
+"DEBT" = "Debt";
+"SURPLUS" = "Surplus";
+"OPTIMAL" = "Optimal";
+"OPTIMAL_ZONE" = "Optimal zone";
+"WARNING" = "Warning";
+"SUBOPTIMAL" = "Suboptimal";
+"REMOVE" = "Remove";
+"DONE" = "Done";
+"DELETE" = "Delete";
+"MEMBERS" = "Members";
+"SUBSCRIBE" = "Subscribe";
+"BACK" = "Back";
+"HEART_RATE" = "Heart Rate";
+"BREATHING_RATE" = "Breathing Rate";
+"SLEEP_QUALITY" = "Sleep Quality";
+"CUMULATIVE" = "Cumulative";
+"TEMPERATURE" = "Temperature";
+"HUMIDITY" = "Humidity";
+"NOISE" = "Noise";
+"ME_SUFIX" = "me";
+"DASHBOARD" = "Dashboard";
+"ADMIN" = "Admin";
+"HARMONY" = "Harmony";
+"OK" = "Ok";
+"ALBUM" = "Album";
+"VIEW" = "View";
+"READY" = "READY";
+"LIGHT_SLEEP" = "Light Sleep";
+"DEEP_SLEEP" = "Deep sleep";
+"EFFICIENCY" = "Efficiency";
+"LATENCY" = "Latency";
+"WAKEUP" = "Wake-up";
+"SLEEP_LATENCY" = "Sleep Latency";
+"DURATION" = "Duration";
+"TODAY" = "Today";
+"MON" = "Mon";
+"TUE" = "Tue";
+"WED" = "Wed";
+"THU" = "Thu";
+"FRI" = "Fri";
+"SAT" = "Sat";
+"SUN" = "Sun";
+"Mon" = "Mon";
+"Tue" = "Tue";
+"Wed" = "Wed";
+"Thu" = "Thu";
+"Fri" = "Fri";
+"Sat" = "Sat";
+"Sun" = "Sun";
+"Sun.SHORT" = "S";
+"Mon.SHORT" = "M";
+"Tue.SHORT" = "T";
+"Wed.SHORT" = "W";
+"Thu.SHORT" = "T";
+"Fri.SHORT" = "F";
+"Sat.SHORT" = "S";
+"SUGGESTIONS" = "Suggestions";
+"MEDITATION" = "Meditation";
+"DEEP_BREATHING" = "Deep\nBreathing";
+"SLEEP_EARLY" = "Sleep\nEarly";
+"AVOID_SCREENS" = "Avoid\nScreens";
+"BAD" = "Bad";
+"NORMAL" = "Normal";
+"GOOD" = "Good";
+"SLOW" = "Slow";
+"FAST" = "Fast";
+"AWAKE" = "Awake";
+"REM" = "REM";
+"SLEEP_STAGES" = "Sleep Stages";
+"UNDETECTED" = "Undetected";
+"BENCHMARK" = "Benchmark";
+"MIN" = "min";
+"HOURS" = " hours";
+"MINUTES" = " minutes";
+"SECONDS" = " seconds";
+"ON_BED" = "On bed";
+"OUT_BED" = "Out of bed";
+"SLEEP_VITAL" = "Sleep Vital";
+"SLEEP_ENV" = "Sleep Environment";
+"AVERAGE" = "Average";
+"COACH_COMMENT" = "Coach Comment";
+"SLEEP_TREND" = "Sleep Trend";
+"CUMULATIVE_SLEEP" = "Cumulative Sleep";
+"ENVIRONMENT" = "Environment";
+"ON" = "ON";
+"OFF" = "OFF";
+"STOP" = "Stop";
+"START" = "Start";
+"START_SLEEP" = "Start";
+"END" = "End";
+"PERSONALIZED" = "Personalized";
+"DEFAULT" = "Default";
+"MANUAL" = "Manual";
+"AUTO" = "Auto";
+"SMART_ALARM" = "Smart Alarm";
+"ALARM" = "Alarm";
+"SAVE" = "Save";
+"TIME" = "Time";
+"EDIT" = "Edit";
+"PATTERNS" = "Patterns";
+"SNOOZE" = "Snooze";
+"NOTICES" = "Notices";
+"NOTICE" = "Notice";
+"SETTINGS" = "Settings";
+"ABOUT" = "About";
+"LOGOUT" = "Logout";
+"JOIN" = "Join";
+"CREATE" = "Create";
+"MY_PROFILE" = "My Profile";
+"FEATURES" = "Features";
+"CONGRATULATIONS" = "Congratulations!";
+"LANGUAGE" = "Language";
+"UNIT" = "Unit";
+"SLEEP_ENHANCER" = "Sleep Enhancer";
+"PROBLEM" = "Problem";
+"FINISH" = "Finish";
+"SORTING" = "Sorting";
+"NEWEST" = "Newest";
+"OLDEST" = "Oldest";
+"TERMS_OF_SERVICE" = "Terms of Service";
+"SHOW" = "show";
+"HIDE" = "hide";
+"CLOSE" = "Close";
+"SLEEP" = "Sleep";
+"SLEEP_C" = "SLEEP";
+"READ_MORE" = "Read more";
+"WELCOME" = "Welcome";
+"WEEKDAYS" = "Weekdays";
+"WEEKENDS" = "Weekends";
+"AM" = "AM";
+"PM" = "PM";
+"ADD" = "Add";
+
+// Bottom Menu
+"BOTTOM.TODAY" = "TODAY";
+"BOTTOM.REPORT" = "REPORT";
+"BOTTOM.ENHANCE" = "ENHANCE";
+
+// Sign in
+"REMEMBER_ME" = "Remember me";
+"AUTO_SIGN_IN" = "Auto sign in";
+"FORGOT_PASSWORD" = "Forgot password?";
+"THIRD_PARTY" = "Or sign in with";
+"SIGNUP_Q" = "Don't have an account?";
+"SIGNUP_B" = "Sign Up";
+
+// Sign up
+"SIGNUP.WELCOME" = "Welcome to";
+"SIGNUP.SUBTITLE" = "Create an account\nand improve your mornings.";
+"SIGNUP.SURNAME_E" = "Please enter your surname";
+"SIGNUP.NAME_E" = "Please enter your name";
+
+"SIGNUP.EMAIL_V" = "A verification code will be sent to your email.";
+"SIGNUP.TITLE" = "Create account";
+"SIGNUP.PASSWORD_SET" = "Create a password\nPlease set your password next.";
+"SIGNUP.PASSWORD_E" = "Please enter a new password";
+"SIGNUP.PASSWORD_C" = "Please confirm password";
+"SIGNUP.PASSWORD_DESC" = "For your security, please create a password that is 8-16 characters long and includes a combination of numbers, uppercase letters, lowercase letters, and special characters.";
+"SIGNUP.SYMBOLS_COUNT" = "8~16 characters";
+"SIGNUP.SYMBOLS_CAPITAL" = "Uppercase letters";
+"SIGNUP.SYMBOLS_LOWERCASE" = "Lowercase letters";
+"SIGNUP.NUMBERS" = "Numbers";
+"SIGNUP.SPECIAL" = "Special characters";
+
+// Verification
+"VERIFICATION.TITLE" = "Verification";
+"VERIFICATION.TITLE2" = "Please check your e-mail\nfor a confirmation code.";
+"VERIFICATION.CODE_R" = "Re-send code";
+
+// Forgot Password
+"FORGOT_P.TITLE" = "Password Reset";
+"FORGOT_P.TITLE2" = "Resetting your password?\nPlease enter the e-mail address\nyou used to sign up for ";
+"FORGOT_P.TITLE2.2" = ".";
+"FORGOT_P.HINT" = "Please enter the e-mail address you used during sign up. A confirmation code will be sent to the e-mail provided.";
+"FORGOT_P.TITLE3" = "Create a Password\nPlease set your password next.";
+"FORGOT_P.HINT2" = "For your security, please create a password that is 8-16 characters long and includes a combination of numbers, uppercase letters, lowercase letters, and special characters.";
+"FORGOT_P.TITLE4" = "Please check your e-mail\nfor a confirmation code.";
+"FORGOT_P.UPDATE" = "Update Password";
+
+// App Onboarding
+"EFFORTLESS" = "Effortless";
+"GAIN_INSIGHTS" = "Gain Insights";
+"INTO_YOUR_SLEEP" = "Into Your Sleep";
+"APP_ONB.TITLE3" = "Wake Up\nEnergized";
+"APP_ONB.DESC1" = "Having trouble falling asleep?\nOur Sleep Enhancer by Wethm™ has a feature to help you doze off more easily.";
+"APP_ONB.DESC2" = "Receive detailed sleep reports\nanalyzing sleep stages, heart rate,\nrespiration, awakenings, and more.\n";
+"APP_ONB.DESC3" = "With the Sleep Enhancer by Wethm™,\nyou'll wake up at the most suitable\nstage for a refreshed start.\n";
+
+// TermsView
+"TERMS.HINT" = "Tap the links below to read\nour service policies.";
+"TERMS.DESC" = "By checking the boxes, you acknowledge that you have read and agree to the following terms.";
+"TERMS.ALL" = "I agree to all";
+"TERMS.PRIVACY" = "Wethm Privacy Policy";
+"TERMS.DATA" = "User Data Policy";
+"TERMS.DATA_DESC" = "I wish to receive customized services.";
+"TERMS.MARKETING" = "Marketing Policy";
+"TERMS.MARKETING_DESC" = "I would like to receive marketing notifications.";
+
+// UserOnboarding
+"USER_ONB.HINT" = "Please provide us with additional health details\nabout yourself for improved services.";
+"USER_ONB.DESC" = "By providing additional information, users can help Wethm provide better statistics and recommendations. Wethm is committed to protecting your information, and your information will not be used for any marketing purposes.";
+
+// DeviceOnboarding
+"DEVCICE_ONB.TITLE" = "Would you like to\nRegister your ";
+"DEVCICE_ONB.TITLE0" = " device now?";
+"DEVCICE_ONB.SUBTITLE" = "Most app functionalities require a device.";
+"DEVCICE_ONB.HINT" = "Please connect one device at a time, the registration process assumes only one device is being setup on near you.";
+"DEVCICE_ONB.TITLE2" = "You have a **Sleep Enhancer**!\nLet us help you with the registration.";
+"DEVCICE_ONB.TITLE3" = "Please unpack your **Sleep Enhancer**\nand connect the power.\n The light on the device should be solidly lit.";
+"DEVCICE_ONB.HINT2" = "After powering on,\nit may require about **5-15 seconds** to boot up.";
+"DEVCICE_ONB.TITLE4" = "Place the **Sleep Enhancer** directly on\nyour mattress, at your heart level, and\ncover with a mattress cover.";
+"DEVCICE_ONB.HINT3" = "We recommend installing it\nunder the mattress cover, as the device may slip out of position during use.";
+"DEVCICE_ONB.TITLE5" = "Next, please check the following\non your smartphone\n➊ Bluetooth is turned on\n➋ Internet is connected";
+"DEVCICE_ONB.HINT4" = "Before proceeding,\nthe device's blue light should be turned on.";
+"DEVCICE_ONB.TITLE6" = "Checking the connection, please make sure the **Sleep Enhancer**'s light is turned on Blue.";
+"DEVCICE_ONB.HINT5" = "The light on the **Sleep Enhancer** should be blinking faster after pressing Confirm.";
+"DEVCICE_ONB.TITLE7" = "Searching for your ";
+"DEVCICE_ONB.TITLE7.0" = " device,\nplease wait a moment...";
+"DEVCICE_ONB.TITLE7.1" = "After connecting to Bluetooth,\nthe light on the device should blink slowly.";
+"DEVCICE_ONB.TITLE8" = "Unable to find a 2.4GHz Wi-Fi network.\nPlease make sure that your Wi-Fi router\nprovides a 2.4GHz network.";
+"DEVCICE_ONB.TITLE9" = "Please select a Wi-Fi network.\nTo use the **Sleep Enhancer**,\na 2.4GHz Wi-Fi connection is required.";
+"DEVCICE_ONB.WIFI" = "Select Wi-Fi";
+"DEVCICE_ONB.PASS" = "Enter your password";
+"DEVCICE_ONB.HINT6" = "If your desired network is not listed, please move your Device closer to the Wi-Fi router for the onboarding process.";
+"DEVCICE_ONB.TRY" = "Try Again";
+"DEVCICE_ONB.SSID" = "Enter your Wi-Fi";
+"DEVCICE_ONB.SHOW_LIST" = "Show Wi-Fi list";
+"DEVCICE_ONB.MANUAL_WIFI" = "Enter your own Wi-Fi";
+"DEVCICE_ONB.SEARCH" = "Search for Wi-Fi Again?";
+"DEVCICE_ONB.TITLE10" = "Your device is being connected,\nplease wait a moment...";
+"DEVCICE_ONB.TITLE10-1" = "The device is rebooting,\nplease wait a moment...";
+"DEVCICE_ONB.HINT7" = "The light on the device\nshould be blinking faster now.";
+"DEVCICE_ONB.HINT7-1" = "The light on the device\nshould be blinking slowly now.";
+"DEVCICE_ONB.TITLE11" = "Unable to connect Device.";
+"DEVCICE_ONB.TITLE12" = "Unable to connect to the server\nat this moment.";
+"DEVCICE_ONB.TEXT1" = "Please make sure the **Sleep Enhancer**'s light is turned on";
+"DEVCICE_ONB.TEXT2" = "Please try again, and make sure to follow the guidelines carefully.";
+"DEVCICE_ONB.HINT8" = "If the issue persists, try to restart your Device. Please provide a feedback to our customer support center.";
+"DEVCICE_ONB.ERROR1" = "Incorrect SSID or password for:\n";
+"DEVCICE_ONB.TEXT3" = "Please retry";
+"DEVCICE_ONB.HINT9" = "If the issue persists, please provide feedback to our customer service center.";
+"DEVCICE_ONB.TITLE13" = "Registration successful!\nYour **Sleep Enhancer** is now connected.";
+"DEVCICE_ONB.TEXT4" = "Would you like to verify\nif the **Sleep Enhancer** is accurately\nmeasuring your ";
+"DEVCICE_ONB.TEXT5" = "biosignals";
+"DEVCICE_ONB.TEXT5.2" = "?";
+"DEVCICE_ONB.TITLE13.1" = "Before measuring biosignals,\nplease verify that the device setup is complete and the measurement preparation is finished.";
+"DEVCICE_ONB.HINT9.1" = "The measurement is ready,\na pale blue light will be dimly lit.";
+"DEVCICE_ONB.TITLE14" = "Lie down on your bed,\nand press the '";
+"DEVCICE_ONB.TITLE15" = "' button below.\nMake sure that the sensor is\nunderneath your heart level.";
+"DEVCICE_ONB.HINT10" = "The measurement process takes\napproximately 1 minute.";
+"DEVCICE_ONB.TITLE16" = "The **Sleep Enhancer** is\nmeasuring your Biosignals.\nPlease wait a moment... ";
+"DEVCICE_ONB.TITLE17" = "Unable to detect your biosignals.";
+"DEVCICE_ONB.TEXT6" = "➊\nEnsure the device is placed between the chest and abdomen. Moving the sensor towards the abdomen improves accuracy.\n\n➋\nCheck the thickness of the layers on top of the device. Thick covers or mattress toppers can interfere with proper biosignal measurment.";
+"DEVCICE_ONB.TITLE19" = "Your device is setup properly,\nand is ready for analyzing yours sleep.";
+"DEVCICE_ONB.TITLE20" = "Your **Sleep Enhancer** can help you\nfall asleep using gentle vibrations.";
+"DEVCICE_ONB.TEXT7" = "Would you like to optimize\nthis functionality,\nby running an ";
+"DEVCICE_ONB.TEXT8" = "intensity";
+"DEVCICE_ONB.TEXT9" = " test.";
+"DEVCICE_ONB.TITLE21" = "The **Sleep Enhancer** uses a principle called cardiovascular synchronization vibrations to induce sleep.";
+"DEVCICE_ONB.TEXT10" = "The intensity settings process is simple.";
+"DEVCICE_ONB.TEXT11" = "➊\nWhen you press the Start button, vibration will be provided in a sequence from strong to gentle intensity.";
+"DEVCICE_ONB.TEXT12" = "➋\nIt is crucial to stop at the right time,\nas excessive vibration can weaken the induction effect and disrupt sleep.";
+"DEVCICE_ONB.TITLE22" = "Once you are lying down on top of\nthe **Sleep Enhancer**\nplease press the '";
+"DEVCICE_ONB.TITLE23" = "' button below.";
+"DEVCICE_ONB.HINT11" = "Stay still and pay close attention to\nthe vibration for the best results.";
+"DEVCICE_ONB.TITLE24" = "Would you like to save\nthe current vibration strength?";
+"DEVCICE_ONB.TITLE25" = "Press the Stop button\nwhen you can barely feel the vibration.";
+"DEVCICE_ONB.STOP" = "STOP";
+"DEVCICE_ONB.SAVE" = "SAVE";
+"DEVCICE_ONB.TITLE26" = "To experience the best mornings,\ntry using ";
+"DEVCICE_ONB.TITLE26.1" = "'s alarm.";
+"DEVCICE_ONB.TEXT13" = "The Sleep Enhancer leads you to\na light sleep state\nbefore ";
+"DEVCICE_ONB.TEXT14" = "gently waking you up";
+"DEVCICE_ONB.TEXT15" = ",\nso you feel refreshed when you get up";
+"DEVCICE_ONB.TITLE27" = "If the device LED is not solidly lit as shown below or is unchanging, please unplug and replug the power cable.";
+"DEVCICE_ONB.TITLE28" = "Your device is being updated. This may take up to 5 minutes.";
+"DEVCICE_ONB.TITLE29" = "Do not turn off the device or pull out the power.";
+
+// Advert
+"ADV.T1" = "Sleep Inducing Vibrations";
+"ADV.T2" = "Monitor Sleep & Vital Signs";
+"ADV.T3" = "Smart Vibration Alarm";
+"ADV.T4" = "Simple and easy to use\nDiscover the benefits of quality sleep\nEnhance your life";
+"ADV.T4.TITLE" = "SLEEP";
+"ADV.T4.TITLE2" = "ENHANCER";
+
+// TodayScreen
+"MY_SLEEP" = "My sleep";
+"MY_HARMONY" = "My Harmony";
+"TODAY.REMOVED1" = "You’ve been redmoved from\n";
+"TODAY.REMOVED2" = "'s **Harmony**";
+"TODAY.HINT1" = "Join the harmony or create your own to share sleep information with other members.";
+"TODAY.ATTRIBUTES" = "Attributes";
+"TODAY.DEBT_SUR" = "Cumulative Debt/Surplus";
+"TODAY.LAST7" = "last 7 days";
+"TODAY.ALL_MEMBERS" = "All Members";
+"TODAY.ADD_MEMBER" = "Add a member";
+"TODAY.REMOVE_MEMBER" = "Remove a member";
+"TODAY.DISBAND" = "Disband Harmony";
+"TODAY.LEAVE" = "Leaving Harmony";
+"TODAY.MESSAGE1" = "If choosing to disband, all members will be dissolved.";
+"TODAY.MESSAGE2" = "Leaving the harmony means no more sharing sleep data with other members.";
+"TODAY.MANAGE" = "Manage your Harmony";
+"TODAY.ADD.TITLE" = "Add your loved ones\nas Wethm Harmony Member";
+"TODAY.ADD.HINT" = "And share sleep data within your Harmony, enabling you to sleep soundly with peace of mind.";
+"TODAY.LIMIT.TITLE" = "You need to be subscribed\nto Wethm Harmony\nto add more people to your group";
+"WETHM_HARMONY" = "Wethm Harmony";
+"ISSUES" = "Issues";
+"CHOOSE_IMAGE" = "Choose image";
+"DELETE_IMAGE" = "Delete image";
+"TODAY.DETAILED_VIEW" = "Detailed View";
+"TODAY.DETAILED_VIEW.HINT" = "You can see in-depth details about a member's sleep\nfrom last night.\nInformation on sleep quality,\nduration, and abnormal biosignals\ncan be checked.";
+"TODAY.QR_WRONG" = "Wrong QR code!";
+"TODAY.QR_EXP" = "Expired QR code!";
+"TODAY.QR_HINT" = "Please scan the QR code or\nselect an QR image from your album.";
+"TODAY.QR_HINT2" = "How to verify the QR code of the other person In the app menu of the other person > My Account > Join";
+"TODAY.QR_TITLE" = "Scan QR Code";
+"TODAY.ADD.Q" = "Add to\nyour Harmony?";
+"TODAY.ADD.SUCESS_HINT" = "Now you can share sleep data.\n";
+"TODAY.ADD.SUCESS_REMAIN" = " spots remaining";
+"TODAY.ADD.VIEW.HINT" = " Adding the user as a Harmony member. Even after adding, you can edit members on the 'My Harmony' page.";
+"TODAY.TIME_N_TOKENS.TITLE" = "Detected sleep";
+"TODAY.TIME_N_TOKENS.INFO" = "Your sensor may be off position,\nplease re-adjust the position,\nand make sure it is connected.";
+"TODAY.TIME_N_TOKENS.TITLE2" = "Welcome to wethm";
+"TODAY.TIME_N_TOKENS.INFO2" = "Your device is connected!\nWe'll have your first sleep data tomorrow.";
+"TODAY.TIME_N_TOKENS.INFO3" = "At least 2hrs of sleep is needed for analysis.\nPlease try to sleep longer.";
+"TODAY.TIME_N_TOKENS.INFO4" = "Your sleep is being analyzed,\nplease come back in 10 minutes.";
+"TOO_SHORT" = "TOO SHORT";
+"ANALYZING" = "ANALYZING...";
+"TOTAL_DURATION" = "Total Duration";
+"TODAY.VIT_N_ENV" = "Vitals and Environment";
+"TODAY.LAST_SLEEP" = "last sleep";
+"TIME.MERIDIAN.AM" = " AM";
+"TIME.MERIDIAN.PM" = " PM";
+"END_SLEEP" = "End sleep";
+
+// ReportScreen
+"REPORT_OF" = "Report of";
+"REPORT.PER_DAY" = " / Day";
+"REPORT.AVG_Q" = "Avg. Quality";
+"REPORT.OOPS" = "OOPS!";
+"REPORT.COACH" = "COACH";
+"REPORT.ERROR" = "ERROR";
+"REPORT.LAST_UPDATE" = "last updated,";
+"REPORT.ERROR_TEXT" = "Something went wrong.";
+"REPORT.ERROR_TEXT2" = "An error occurred\nwhile fetching the data.\nPlease pull the page down and refresh it.";
+"REPORT.NO_DATA" = "No data to display";
+"REPORT.NO_DATA_TEXT" = "There is no sleep data for the previous days. Please check you device and make sure the device is connected.";
+"REPORT.WELCOME" = "Welcome to";
+"REPORT.WELCOME_TEXT" = "Before we can create any Report,\nWe’ll first need to get some sleep Data!";
+"REPORT.TOTAL_DEBT" = "Total Debt";
+"REPORT.TOTAL_SURPLUS" = "Total Surplus";
+"REPORT.AVERAGE_ON_BED" = "Average On bed";
+"REPORT.AVERAGE_OUT_BED" = "Average Out of bed";
+"REPORT.VIT_AND_ENV.HINT" = "The above summarizes your sleep duration this week. The horizontal bar across the graph represents your personal optimum, and bars below or above this range are shown as sleep debt or surplus.";
+"REPORT.TODAYS" = "TODAY'S";
+"REPORT.NOT_ENOUGH" = "Not enough time to sleep.";
+"REPORT.NOT_ENOUGH.HINT" = "If you toss and turn a lot or wake up often,\nstress may be the problem.\nCalm your mind with meditation\nor deep breathing before going to bed.";
+"REPORT.DETAILED_INFO" = "Detailed information";
+"REPORT.DETAILED_INFO.TITLE" = "Detailed info";
+"REPORT.STAGES.CUMULATIVE" = "Stages %\n(Cumulative)";
+"REPORT.30DAY" = "30 Day Avg";
+"REPORT.GLOBAL" = "Comparison to global average";
+"REPORT.TIME_SPENT" = "";  // TODO: Joon
+"TYPICAL_RANGE" = "Typical Range";
+"REPORT.BR_M" = "breaths/\nmin";
+"REPORT.BPM" = " (bpm)";
+"REPORT.FAH" = " (°F)";
+"REPORT.PER" = " (%)";
+"REPORT.DB" = " (dB)";
+"REPORT.B_M" = "beats/\nmin";
+"REPORT.TIME" = "(time)";
+"REPORT.MONTH" = "(month)";
+"REPORT.DAY" = "(day)";
+"REPORT.BY_HOUR" = "by hour\nin sleep";
+"REPORT.BY_DAY.Y" = "by day\nin year";
+"REPORT.BY_DAY.W" = "by day\nin week";
+"REPORT.AVERAGE_HR" = "Average HR";
+"REPORT.AVERAGE_BR" = "Average BR";
+
+// EnhanceScreen
+"ENH.DESC2" = "Try to:\navoid screens, minimize moving\nand listen to the vibrations.";
+"ENH.DESC1" = "Minute vibrations are used to induce your body to relax and to increase your alpha waves,\nso that you can fall asleep easier.";
+"SLEEP_INDUCTION" = "Sleep Induction";
+"SMART_ACTIVATION" = "Smart Activation";
+"BUTTON_ACTIVATION" = "Button Activation";
+"VIBRATION" = "Vibration";
+"VIBRATION_INTENSITY" = "Vibration intensity";
+"VIBRATION_FREQUENCY" = "Vibration frequency";
+"SLEEP_INDUCTION1" = "Sleep";
+"SLEEP_INDUCTION2" = "Induction";
+"ENH.AUTO.DESC" = "Automatically turn on Sleep Induction when you lie down after 9PM or near your normal sleeping hours. This time will be updated as you use Wethm.";
+"ENH.BTN.DESC" = "Use the button on the Wethm Sleep Enhancer to activate the Sleep Induction. The button can be pressed again to turn off the Sleep Induction vibrations.";
+"ENH.VIBRO.DESC" = "Adjust the strength Sleep Induction so that you can barely feel it. To test this, lie down and adjust the intensity manually.";
+"ENH.VIBRO.DESC2" = "Default frequency for Sleep Induction is set to induce most people to sleep. Personalized option changes the frequency based on your baseline heart rate, and may work better for you.";
+"DAYS_ACTIVE" = "Days Active";
+"ENH.ALARM.DESC" = "Please set your wake-up time.\nWe will wake you up\ngently at the optimal state";
+"ENH.ALARM.DESC2" = "wethm uses minute vibrations to bring you\nup to light sleep state, then wakes you up.";
+"ENH.ADD_ALARM" = "Add alarm";
+"ENH.ALARM.DESC3" = "Wethm will use gentle vibrations to bring you up to optimal wake up state at your set alarm time.";
+"ENH.ALARM.HINT" = "Select the days\nfor your alarm settings";
+"ENH.ALARM.HINT2" = "wethm will gently bring you to the best wake-up state, then vibrate at the set pattern to wake you up.";
+"ENH.CURRENT_TIME" = "Current time";
+"ENH.ALARM_TIME" = "Alarm time";
+"ENH.ALARM_SETTINGS" = "Alarm settings";
+"ENH.PATTERNS.HINT" = "To test the pattern, lie down and tap a name. The device will vibrate for 15 seconds in the clicked pattern.";
+"RAILWAY" = "Railway (Default)";
+"ROCK-A-BYE" = "Rock-a-Bye Baby";
+"WAVE" = "Wave";
+
+"SIDE.MY_ACC" = "My Account";
+"SIDE.MY_ACC.HINT1" = "By sharing limited health-related data, users can help ‘Wethm’ provide sleep statistics and recommendations. ‘Wethm’ is committed to protecting your personal information. About ";
+"SIDE.MY_ACC.HINT2" = "Wethm privacy policy";
+"ACCOUNT_SETTINGS" = "Account Settings";
+"RESET_PASSWORD" = "Reset password";
+"DELETE_ACCOUNT" = "Delete Account";
+"HARMONY_PLAN" = "Harmony Plan";
+"SIDE.HARMONY_ADMIN %@" = "%@'s Harmony";
+"SIDE.HARMONY.WARNING1" = "You're not in a **Wethm Harmony** group yet";
+"SIDE.QR.EXP" = "Oops,\nThe QR code has expired.";
+"SIDE.QR.JOIN" = "Join to\nsomeone's Harmony?";
+"SIDE.QR.VALID" = "The QR is valid for 5 minutes.\nPlease refresh to regenerate a new QR";
+"SIDE.QR.TIMER" = "QR code valid for:\n";
+"SIDE.QR.HINT" = "Registering as a Harmony member using the QR code. Even after being added, you can withdraw from the registered Harmony on the 'My Harmony' page.";
+"SHARE_QR" = "Share QR Code";
+"SHARE_QR_CODE" = "Your loved one wants to be with you.";
+"SIDE.WH.TITLE" = "Plan and Payment";
+"PLAN" = "Plan";
+"CANCELED" = "Canceled";
+"BILLING" = "Billing";
+"RENEWAL_DETAILS" = "Renewal details";
+"EXPIRES_ON" = "Expires on";
+"AUTO_RENEWS_ON" = "Auto renews on";
+"SIDE.WH.HINT" = "Change Wethm Harmony Plan or Update payment method: Visit Settings > Apple ID on your phone or tablet.";
+"SIDE.SUBS.HINT" = "Wethm Harmony allows sharing of data between you and your loved ones, so you can sleep soundly with peace of mind.";
+"SIDE.SUBS.EMPTY" = "No Subscribtions available at this moment...";
+"SIDE.SUBS.HINT2 %@" = "• The monthly subscription is %@ and it will automatically renew each month with the payment charged to your current iTunes account.\n\n\• You can manage your subscription and view payment details through Apple.\n\n\• For inquiries regarding payment confirmation and refunds, please contact the Apple Customer Support.";
+"NUMBER_OF_MEMBERS" = "Number of\nmembers";
+"DETAILED_VIEW" = "Detailed View";
+"PERIOD" = "Period";
+"NEXT_PAYMENT_DATE" = "Next payment date";
+"SIDE.ACC.NAME" = "Please choose a name that is easy for others to recognize. If you are using Wethm Harmony, the name you set will be shared with Harmony members as well.";
+"SIDE.ACC.HINT" = "The provided information will be used to create and analyze personalized algorithms for the user.";
+"SIDE.ACC.JOIN_SUCCESS" = "You’ve Joined!\nNow you can share sleep data.";
+"SIDE.ACC.ADMIN %@" = "%@'s Harmony";
+"NO_SETTINGS" = "No settings";
+"DEVICE_SETTINGS" = "Device Settings";
+"DEVICE_INFORMATION" = "My Device";
+"HOW_TO_USE" = "How to use";
+"NOTIFICATIONS_SETTINGS" = "Notifications Settings";
+"ALLOW_NOTIFICATIONS" = "Allow Notifications";
+"NOTIFICATIONS" = "Notifications";
+"SIDE.SET.HINT" = "If you're not receiving notifications, please enable notifications for the Wethm app in iPhone > Settings > Notifications.";
+"APPLICATION_SETTINGS" = "Application Settings";
+"APPLICATION_GUIDE" = "Application Guide";
+"VERSION" = "Version";
+"DEVICE_NAME" = "Device Name";
+"SERIAL_NUMBER" = "Serial Number";
+"CONNECTION_DATE" = "Connection Date";
+"UPDATE_WIFI_C" = "Update Wi-Fi Configuration";
+"CONNECTION_TERMINATION" = "Connection Termination";
+"SIDE.SET.DIS.HINT" = "Please review the precautions below.";
+"SIDE.SET.DIS.HINT2" = "➊\nDisconnecting removes registered devices.\n\n➋\nPlease disconnect before transferring to another person.\n\n❸\nReconnecting is possible after disconnecting, but previous settings may not be retained.";
+"SETUP_GUIDE" = "Setup Guide";
+"SETUP_GUIDE.HINT" = "Explains how to install it correctly.";
+"V.BASIC" = "Basic";
+"V.SLOW_PULSE" = "Slow Pulse";
+"V.HEARTBEAT" = "Heartbeat";
+"V.TICKTOCK" = "Ticktock";
+"V.ZIG" = "Zig-zig-zig";
+"V.RAPID" = "Rapid";
+"V.STACCATO" = "Staccato";
+"PAYMENT.MONTH" = "/ Month";
+"MAX" = "Max";
+
+// SETUP GUIDE
+"SETUP_GUIDE.T1" = "Set up guide";
+"SETUP_GUIDE.T2" = "Our Sleep Enhancer is behind all the magic, it's a culmination of years of research into biosignal instrumentation and signal processing A.I. get started. ";
+"SETUP_GUIDE.T3" = "Let's see";
+"SETUP_GUIDE.T4" = "how to set it up";
+"COMPONENT" = "Component";
+"SETUP_GUIDE.T5" = "The Sleep Enhancer package includes the Sleep Enhancer pad with the controller, a USB-C power cable, and an adapter.";
+"CONTROLLER" = "Controller";
+"SETUP_GUIDE.T6" = "USB-C power cable\n / Adapter";
+"SETUP_GUIDE.T7" = "Sleep Enhancer pad";
+"STEP_01" = "STEP 01";
+"SETUP_GUIDE.T8" = "Please unpack your Sleep Enhancer\nand connect the power.\nThe light on the device should be solidly lit.";
+"SETUP_GUIDE.T9" = "After powering on,";
+"SETUP_GUIDE.T10" = "it may require about 10 seconds to boot up.";
+"STEP_02" = "STEP 02";
+"SETUP_GUIDE.T11" = "Place the Sleep Enhancer directly on your mattress, at your heart level, and cover with a mattress cover.";
+"SETUP_GUIDE.T12" = "For more comfortable use, we recommend installing it under your mattress cover.";
+"STEP_03" = "STEP 03";
+"SETUP_GUIDE.T13" = "Next, please check the following on your smartphone.\n➊ Bluetooth is turned on.\n➋ Internet is connected.";
+"SETUP_GUIDE.T14" = "The device light should be turned on before preceding.";
+"STEP_04" = "STEP 04";
+"SETUP_GUIDE.T15" = "After the device and app are connected, please check if the light on the controller stops blinking.";
+"SETUP_GUIDE.T16" = "The light on the controller should be blinking slowly  after pressing confirm.";
+
+// LIFESTYLE
+"LIFESTYLE" = "Lifestyle";
+"LIFESTYLE.T1" = "Experience Better Sleep\nwith Wethm™'s Daily Routine!";
+"LIFESTYLE.T2" = "In the evening, have you returned home and prepared for a relaxing rest?\nWethm™ is here to help enhance your sleep. Now, let's explore the various features, effects, and benefits it offers.";
+"LIFESTYLE.T3" = "Let's see";
+"LIFESTYLE.T4" = "how it works";
+"EVENING" = "Evening";
+"LIFESTYLE.T5" = "Unwinding for Better Sleep";
+"LIFESTYLE.T6" = "Enhance Your Sleep Environment";
+"LIFESTYLE.T7" = "As the evening approaches, it's time to unwind and prepare for a restful night's sleep. With Wethm™, you can create a tranquil sleep atmosphere in your sanctuary. Adjust the lighting, temperature, and ambient sounds to promote relaxation and calmness, allowing you to let go of the day's stress and prepare your mind and body for rejuvenating sleep.";
+"LIFESTYLE.T8" = "Preparation for Bed";
+"LIFESTYLE.T9" = "Personalized Bedtime Routine";
+"LIFESTYLE.T10" = "Discover Your Ideal Bedtime Routine";
+"LIFESTYLE.T11" = "Just like athletes have their own routines to perform at their best, you can create your own bedtime routine for a restful sleep. Based on your sleep data, Wethm™ can suggest a personalized bedtime routine that includes meditation, breathing exercises, avoiding blue screens, and more.";
+"LIFESTYLE.T12" = "Getting into Bed";
+"LIFESTYLE.T13" = "Seamless Bedtime Experience";
+"LIFESTYLE.T14" = "Uninterrupted Sleep Comfort";
+"LIFESTYLE.T15" = "Have you hesitated in gathering sleep information due to concerns or discomfort from wearing something? With Wethm™'s Sleep Enhancer, there's no need to wear or activate any devices that can interfere with your sleep. Simply fall asleep as usual and let the Sleep Enhancer handle the rest.";
+"LIFESTYLE.T16" = "Effortless Sleep Induction";
+"LIFESTYLE.T17" = "Having trouble falling asleep? With our Sleep induction feature, you can induce sleep more easily. The Sleep Enhancer utilizes subtle vibration technology to assist with sleep. You can also control these features and adjust the vibration intensity through the Wethm™ app.";
+"LIFESTYLE.T18" = "During Sleep";
+"LIFESTYLE.T19" = "Precise Sleep Monitoring\nand Analysis";
+"LIFESTYLE.T20" = "Gain Insights Into Your Sleep";
+"LIFESTYLE.T21" = "Now, enjoy a peaceful and deep sleep with the Sleep Enhancer by Wethm™. Benefit from accurate sleep monitoring and analysis based on extensive clinical research data. Receive detailed sleep reports that analyze sleep stages, heart rate, respiration, awakenings, and other sleep metrics. Utilize this comprehensive understanding of sleep quality to enhance your health and well-being.";
+"MORNING" = "Morning";
+"LIFESTYLE.T22" = "Refreshing\nWake-Up Experience";
+"LIFESTYLE.T23" = "Wake Up Energized";
+"LIFESTYLE.T24" = "Even with sufficient sleep, do you struggle to wake up in the morning? Have you experienced ruined mornings due to intrusive alarms? It’s time to embrace a refreshing wake-up experience. The Sleep Enhancer by Wethm™ analyzes your sleep stages from the moment you fall asleep and wakes you up at the most suitable stage for a refreshed start. Rise and shine with renewed energy, improved focus, productivity, and overall well-being.";
+"LIFESTYLE.T25" = "to start the day";
+"LIFESTYLE.T26" = "Personalized Morning Insights";
+"LIFESTYLE.T27" = "Harness the Power of Morning Insights";
+"LIFESTYLE.T28" = "Receive personalized sleep insights every morning through the Wethm™ app. Gain valuable insights into what happened during your sleep and evaluate your sleep quality. Optimize your mornings with valuable tips. As Wethm™ becomes your sleep companion, you can start your day with enhanced focus, productivity, and overall health.";
+"LIFESTYLE.T29" = "Improving Your Life";
+"LIFESTYLE.T30" = "Better Night, Better Life\nwith Wethm™";
+"LIFESTYLE.T31" = "Embrace a Better Life with Quality Sleep";
+"LIFESTYLE.T32" = "With the comfort of quality sleep and the insights provided by Wethm™, make the most of every moment. Experience increased productivity, improved mood, and enhanced cognitive abilities throughout your daily activities. Wethm™, by delivering high-quality sleep, becomes the key to your success, leading you toward a better life.";
+"LIFESTYLE.T33" = "Relationship and Companionship";
+"LIFESTYLE.T34" = "Wethm™ Harmony";
+"LIFESTYLE.T35" = "Protect the Health of Your Loved Ones";
+"LIFESTYLE.T36" = "Wethm™ is dedicated to ensuring the well-being of both you and your loved ones. Enroll in the Wethm™ Harmony Plan together with your loved ones. Wethm™ Harmony promotes mutual care by allowing the sharing of sleep data among members. Furthermore, Wethm™ actively monitors the health status of Harmony members to prevent emergencies and offers continuous support for maintaining an active lifestyle.";
+
+"SETUP_GUIDE.LIFE" = "Sleep Enhancer in Lifestyle";
+"SETUP_GUIDE.LIFE.HINT" = "Seamlessly blended into your lifestyle.";
+"SETUP_GUIDE.BED.TITLE" = "Guide of installation on the bed.";
+"SETUP_GUIDE.BED.HINT" = "We will provide installation instructions based on the size of your bed. Please reference to install the pad to fit your body and bed.";
+"SETUP_GUIDE.BED.SIZE" = "Size : Dimensions (WxH)";
+"SMALL_SINGLE" = "Small single";
+"TWIN" = "Twin";
+"QUEEN" = "Queen";
+"KING" = "King";
+"SINGLE" = "Single";
+"COUPLE" = "Couple";
+"SLEEP_REPORT" = "Sleep Report";
+"N.SLEEP_REPORT.DESC" = "Notification for weekly/monthly sleep summaries.";
+"MAIN_STATUS" = "Main Status";
+"N.MAIN_STATUS.DESC" = "Device error and abnormal status notification.";
+"N.NOTICE.DESC" = "Server maintenance and Notice notifications";
+"MARKETING_INFO" = "Marketing information";
+"N.MARKETING_INFO.DESC %@" = "Consent to receive from %@";
+
+// ALERTS
+"ALERT.LOGOUT" = "Are you sure you want to log out?";
+"ALERT.DELETE_USER" = "Are you sure you want to delete user?";
+"ALERT.DELETE_ALARM" = "Are you sure you want to delete the alarm?";
+"ALERT.BLUETOOTH" = "Please turn on your Bluetooth to continue";
+"ALERT.SELECT_DAY" = "Please Select a Day of Week";
+"ALERT.RESET_PASSWORD_SUCCESS" = "Successfully reset password";
+"ALERT.REMOVE_MEMBER" = "Remove a member";
+"ALERT.REMOVE_MEMBER1" = "Remove ";
+"ALERT.REMOVE_MEMBER2" = " from your Harmony?";
+"ALERT.REMOVE_MEMBER3" = "Removed";
+"ALERT.REMOVE_MEMBER4" = " has been removed from your Harmony";
+"ALERT.DELETE" = "Are you sure you want to delete your Harmony?";
+"ALERT.REMOVE_Y" = "You are about to remove yourself from this Harmony.";
+"ALERT.ADD_ALARM" = "To optimize your sleep, only 1 alarm can be assigned per day.";
+"ALERT.ADD_ALARM.ALERT_QUESTION" = "Are you sure you want to change it?";
+"ALERT.ADD_ALARM.BUTTON" = "Yes, change";
+"ALERT.DELETE_ALARM.TITLE" = "Delete Alarm";
+"ALERT.JOIN.WARNING" = "You're currently subscribed, if you join a group, you won't be able to create your own group until you exit.";
+"ALERT.JOIN.WARNING_Q" = "Are you sure?";
+"ALERT.JOIN.QUES" = "You want to share of data between you and your loved ones yourself? Let’s create new harmony on yourself.";
+"ALERT.DEVICE.UNREG" = "Are your sure you want to Unregister your device?";
+"UNREGISTER" = "Unregister";
+"ALERT.ENDSLEEP" = "Are you sure you want to end your sleep?";
+
+"PUSH.TITLE" = "Wethm Smart Alarm";
+"PUSH.BODY" = "Good morning, soon it's time to wake up!";
+"GENERAL_ERROR.TITLE" = "Something went wrong while retrieving your information. Please pull the page to refresh.";
+
+//TOKENS
+"TOKEN.REGULAR" = "Regular";
+"TOKEN.IRREGULAR" = "Irregular";
+"TOKEN.WELL_BALANCED" = "Well-balanced";
+"TOKEN.POOR_BALANCE" = "Poor balance";
+"TOKEN.RESTORATIVE" = "Restorative";
+"TOKEN.LOW_DEEP_SLEEP" = "Low deep sleep";
+"TOKEN.TOO_MUCH_LS" = "Barely asleep";
+"TOKEN.WOKEN_TOO_MUCH" = "Woken frequently";
+"TOKEN.EFFICIENT" = "Efficient";
+"TOKEN.INEFFICIENT" = "Inefficient";
+"TOKEN.NOT_ENOUGH_REM" = "Low REM";
+"TOKEN.FAST_TO_SLEEP" = "Fast-to-sleep";
+"TOKEN.SLOW_TO_SLEEP" = "Slow-to-sleep";
+"TOKEN.GOOD_WAKE_UP" = "Good wake-up";
+"TOKEN.BAD_WAKE_UP" = "Bad wake-up";
+"TOKEN.SUFFICIENT" = "Sufficient";
+"TOKEN.INSUFFICIENT" = "Insufficient";
+"TOKEN.NO_DATA" = "No data";
+"TOKEN.EXCELLENT" = "Excellent";
+"TOKEN.NORMAL" = "Normal";
+"TOKEN.SOME_DEBT" = "Some debt";
+
+"TOKEN.BAD_SQ" = "Poor quality";
+"TOKEN.NORMAL_SQ" = "Normal quality";
+"TOKEN.GOOD_SQ" = "Good quality";
+"TOKEN.NO_DATA_SQ" = "No data";
+"TOKEN.HIGH_LS" = "Light sleep";
+"TOKEN.LOW_REM" = "Low REM sleep";
+"TOKEN.BAD_DS" = "Low deep sleep";
+"TOKEN.NORMAL_SE" = "Low efficiency";
+"TOKEN.BAD_SE" = "Poor efficiency";
+"TOKEN.NORMAL_SL" = "Slow latency";
+"TOKEN.BAD_SL" = "Poor latency";
+"TOKEN.NORMAL_WS" = "Poor wake-up";
+"TOKEN.BAD_WS" = "Poor wake-up";
+"TOKEN.NORMAL_SD" = "Low duration";
+"TOKEN.BAD_SD" = "Poor duration";
+"TOKEN.LOUD" = "Loud";
+"TOKEN.WARM" = "Warm";
+"TOKEN.HOT" = "Hot";
+"TOKEN.COLD" = "Cold";
+"TOKEN.DRY" = "Dry";
+"TOKEN.HUMID" = "Humid";
+"TOKEN.NORMAL_HR" = "Normal heart rate";
+"TOKEN.HIGH_HR" = "High heart rate";
+"TOKEN.LOW_HR" = "Low heart rate";
+"TOKEN.EXTREMELY_LOW_HR" = "Very low heart rate";
+"TOKEN.NORMAL_BR" = "Normal breathing";
+"TOKEN.HIGH_BR" = "Fast breathing";
+"TOKEN.LOW_BR" = "Slow breathing";
+"TOKEN.EXTREMELY_LOW_BR" = "Very slow breathing";
+"TOKEN.STRESSED" = "Stressed";
+"TOKEN.NORMAL_BIOSIGNAL" = "Normal heart and breathing";
+"TOKEN.MISSING_DATA" = "Missing data";
+"TOKEN.BAD_DEBT" = "Bad sleep debt";
+"TOKEN.GOOD_BALANCE" = "Good balance";
+"TOKEN.HR_JUMP" = "Heart rate spikes";
+
+// reccomendations
+"REC.TITLE.CHECK_ENV" = "Check Environment";
+"REC.TITLE.MEDITATION" = "Meditation";
+"REC.TITLE.NO_TV" = "Avoid Screens";
+"REC.TITLE.REG_WAKETIME" = "Regular Wake Up";
+"REC.TITLE.REG_SLEEP" = "Regular Sleep";
+"REC.TITLE.REMOVE_NOISE" = "Quiet Please";
+"REC.TITLE.ADJUST_TEMP" = "Adjust Temperature";
+"REC.TITLE.ADJUST_HUMIDITY" = "Adjust Humidity";
+"REC.TITLE.EXERCISE" = "Exercise";
+"REC.TITLE.SEE_DOCTOR" = "See doctor";
+"REC.TITLE.RELAX" = "Relaxation Needed";
+"REC.TITLE.NORMAL_BIOSIGNAL_RANGE" = "You're Healthy";
+"REC.TITLE.ADJUST_SENSOR" = "Adjust Sensor";
+"REC.TITLE.SLEEP_MORE" = "More Sleep";
+"REC.TITLE.SLEEP_ALOT_MORE" = "A Lot More Sleep";
+"REC.TITLE.LIFESTYLE" = "Poor Lifestyle";
+
+"REC.CHECK_ENV" = "Poor environment for sleeping can result in shallow sleep, unbalanced sleep, or being unable to sleep - adjust the temperature and humidity in your room to improve your sleep.";
+"REC.MEDITATION" = "Bad sleep can be in many forms, but breathing exercises can help in many cases. Try relaxing your body with breathing exercises before sleeping.";
+"REC.NO_TV" = "Using smartphones or watching TV prior to sleeping can make it harder to fall asleep, refrain from screens prior to sleeping to fall asleep faster.";
+"REC.REG_WAKETIME" = "Waking up at inconsistent times can lead to poor wake up and affect your overall sleep quality, try setting your alarm at regular times to improve your mornings.";
+"REC.REG_SLEEP" = "Sleeping at regular hours is the best way to improve your sleep quality, as well as to fall asleep faster and wake up feeling better.";
+"REC.REMOVE_NOISE" = "Something in your room is causing alot of noise, try removing it or wear ear plugs to achieve better sleep.";
+"REC.ADJUST_TEMP" = "Your room may be too hot or cold causing poor sleep, ideal temperature depends on the person, but statistically is around 23*C (73*F).";
+"REC.ADJUST_HUMIDITY" = "Humidity can affect your rest, use your air conditioner or humidifier to adjust it between 30-50%";
+"REC.EXERCISE" = "Exercising can improve your vital signs and your sleep quality, while partying can elevate your vital signs resulting in poor rest. Decision is yours.";
+"REC.SEE_DOCTOR" = "Very low heart or breathing rates can be a good thing but can also be a warning sign, consult with your doctor to make sure you're all good.";
+"REC.RELAX" = "Wethm detected unusually high variability in your heart or breathing rates. Stressful minds can cause high fluctuations in your vital signs, causing you to sleep poorer. Try relaxing your mind prior to sleeping.";
+"REC.NORMAL_BIOSIGNAL_RANGE" = "Both your heart and breathing rates are in great shape 👏!";
+"REC.ADJUST_SENSOR" = "Wethm was unable to detect you at some points, this may be because your sensor is off place. Please readjust the sensor to your chest level.";
+
+"REC.SLEEP_MORE" = "Accumulating sleep debt can cause serious harm to your health, sleep more consistently to rid of excess sleep debt.";
+"REC.SLEEP_ALOT_MORE" = "You have acute sleep debt, meaning serious health issues. It is crucial to change your daily sleep schedule to fix this now.";
+"REC.LIFESTYLE" = "Sudden spikes in heart rate may indicate lifestyle changes on some weekdays. Irregular lifestyle patterns can affect your sleep, so be aware!";
+
+"REC.TITLE2.CHECK_ENV" = "Check\nEnvironment";
+"REC.TITLE2.MEDITATION" = "Meditation";
+"REC.TITLE2.NO_TV" = "Avoid\nScreens";
+"REC.TITLE2.REG_WAKETIME" = "Regular\nWake Up";
+"REC.TITLE2.REG_SLEEP" = "Regular\nSleep";
+"REC.TITLE2.REMOVE_NOISE" = "Quiet\nPlease";
+"REC.TITLE2.ADJUST_TEMP" = "Adjust\nTemperature";
+"REC.TITLE2.ADJUST_HUMIDITY" = "Adjust\nHumidity";
+"REC.TITLE2.EXERCISE" = "Exercise";
+"REC.TITLE2.SEE_DOCTOR" = "See\nDoctor";
+"REC.TITLE2.RELAX" = "Relaxation\nNeeded";
+"REC.TITLE2.NORMAL_BIOSIGNAL_RANGE" = "You're\nHealthy";
+"REC.TITLE2.ADJUST_SENSOR" = "Adjust\nSensor";
+"REC.TITLE2.SLEEP_MORE" = "More Sleep";
+"REC.TITLE2.SLEEP_ALOT_MORE" = "A Lot More\nSleep";
+"REC.TITLE2.LIFESTYLE" = "Poor\nLifestyle";
+
+//FAQ
+"FAQ.Q1" = "Is the Wethm app free?";
+"FAQ.T1" = "• The Wethm app is free.";
+"FAQ.A1" = "The Wethm app is free to use for most parts except for Wethm Harmony. However, the Wethm app does require a Wethm device for most functionalities. You can find a link to purchase a Wethm device at https://wethm.com";
+"FAQ.Q2" = "How does the smart alarm work?";
+"FAQ.A2" = "When the human body goes to sleep, it repeats multiple sleep cycles (or sleep stages) throughout the night. The best time to wake up is at light sleep stage, and it is statistically hard to land at this stage every time you wake up. Wethm uses vibrations to bring you to a light sleep stage, then wakes you up, making sure you feel great in the mornings.";
+"FAQ.Q3" = "How does sleep induction work?";
+"FAQ.A3" = "The sleep induction function uses vibrations to relax your body and mind, just as the gentle vibrations of a train carriage lulls you to sleep. To maximize the results, turn off all other devices and focus on the vibrations once you start the induction.";
+"FAQ.Q4" = "What is Wethm Harmony";
+"FAQ.T4" = "• Wethm Harmony is the data sharing service of Wethm.";
+"FAQ.A4" = "You can see how people in your group has slept last night. It is free for a group of two without detailed information, and you can purchase a subscription to view detailed data in groups of 4 or 10.";
+"FAQ.Q5" = "What does it track when I’m sleeping?";
+"FAQ.A5" = "The wethm tracks your overall sleep, your sleep debt to estimate your optimal sleep duration, your heart and breathing rate and your sleep environment, including temperature, humidity and noise level.";
+"FAQ.Q6" = "Do I have to connect it to a watch to see the data?";
+"FAQ.T6" = "• No, just lie down as you normally do.";
+"FAQ.A6" = "The beauty of this device is that it’s contactless and there’s nothing to wear. Releasing you from having to sleep with a watch on to be able to monitor your sleep.";
+"FAQ.Q7" = "Where does the sensor go?";
+"FAQ.A7" = "The sensor lies across the bed, at chest height, under the sheet. The sensor is made with a non-slip material so it’ll stay in place even if you’re moving in your sleep.";
+"FAQ.Q8" = "How does the sensor connect to the app?";
+"FAQ.A8" = "Through a wi-fi connection the sensor connects directly to the app, which can be installed on your smartphone.";
+
+// INFO SHEETS
+"INFO.attributes.TEXT" =
+"• Additional details about last night’s sleep can be seen here.
+
+• If your biosignals are beyond normal range or if your sleep environment is not optimal for quality sleep, these will be marked red.
+
+• You may also track your cumulative sleep debt for the last 7 days – optimal sleep is set as 8 hours and 10 minutes, and anything above or below is cumulated.
+";
+
+"INFO.attributes.TITLE" = "Attributes";
+
+"INFO.harmony.TEXT" =
+"• Wethm Harmony page shows all the members in your group.
+
+• You can see their basic sleep information on a list below, and you may click on each member to see details if you have a subscription.
+
+• If there are any sleep issues with the members in your group, these issues will be shown at the top of the page with a red mark, indicating the number of issues per member.
+
+• Members may opt out of showing some information based on their preferences.
+";
+
+"INFO.harmony.TITLE" = "My Harmony";
+
+"INFO.qrcode.TEXT" =
+"• Wethm uses QR codes to connect members of a Wethm Harmony group.
+
+• Potential members can generate their QR codes in the Harmony page under settings.
+
+• Group admins can either scan the QR code directly from the image generated on the phone, or upload the image by clicking on the Album button.
+";
+
+"INFO.qrcode.TITLE" = "Scan QR Code";
+
+"INFO.radar.TEXT" =
+"• The radar graph shows the 5 points we deem contributes to a good night’s rest.
+
+• Deep sleep indicates the amount of deep sleep: greater 8% of your total duration in this sleep is considered excellent
+
+• Efficiency indicates how much you’re asleep once you’re in bed: greater than 80% is considered excellent
+
+• Sleep latency indicates how fast you fell asleep once you’ve actively tried to sleep: less than 5 minutes is considered excellent
+
+• Wake-up state indicates the stage at which you were woken: more than 80% of your last 5 minutes of sleep in light sleep stage is considered excellent
+
+• Duration indicates the total amount of sleep: greater than 7 hours and 30 minutes is considered excellent
+";
+
+"INFO.radar.TITLE" = "Sleep Qualtity";
+
+"INFO.stages.TEXT" =
+"• This page shows the hypnogram, or detailed sleep stages, of your sleep.
+- REM: During this stage, heart rate, respiration, and brain activity all increase. It is the dreaming stage of sleep, so the brain becomes active.
+- Light Sleep: Body temperature drops, brain waves slow down, and respiration and heart rate decrease while muscles relax.
+- Deep Sleep: Deep sleep stages are associated with the recovery of bodily functions and immune system strengthening that occurs during the day.
+- Dotted Line: If data goes beyond the sensor's range, it may be missing and will be indicated by a dotted line.
+
+• The top graph shows how the stages changes over time in reference to 24 hours of your day.
+
+• The middle graph shows the traditional hypnogram format, where you can see how your sleep cycles changed over the night.
+
+• Your sleep stages are cumulated as percentages of the total, and you can compare your sleep to average ranges. Being above or below the normal range for certain sleep stages may be indicative of poor quality sleep.
+
+• Data may be missing if you have moved beyond the range of the sensor, and is indicated with dashed lines.
+";
+
+"INFO.stages.TITLE" = "Sleep Stages";
+
+"INFO.vital.TEXT" =
+"• Sleep vitals refers to your heart rate and breathing rate measured by Wethm during your sleep.
+
+• If your vitals go beyond the normal ranges, these will be marked in red.
+
+• For heart rate, normal ranges are between 45 to 120BPM.
+
+• For breathing rate, normal ranges are between 5 to 25BPM.
+";
+
+"INFO.vital.TITLE" = "Sleep Vital";
+
+"INFO.env.TEXT" =
+"• Wethm measures temperature, noise, and humidity of your sleep environment.
+
+• These factors can play an important role in achieving quality sleep.
+
+• For optimal sleep, temperature should be between 16-22degree Celsius, humidity should be between 30 to 50%, and noise should be less than 40dB.
+
+• If environmental factors are beyond the optimal ranges, these will be marked in red.
+";
+
+"INFO.env.TITLE" = "Sleep Environment";
+
+"INFO.alarm.TEXT" = "The alarm will gradually increase in strength over 5 minutes. If the user is in bed 10 minutes after the alarm, another alarm will ring, up to two times.";
+"INFO.alarm.TITLE" = "Alarm settings";
+
+"INFO.suggestions.TEXT" = "Suggestions for improving your night are summarized in icons for easy interpretation.";
+"INFO.suggestions.TITLE" = "Suggestions";
+
+// main view greetings logic
+"GREETINGS_LOGIC.GOOD" = "Good";
+"GREETINGS_LOGIC.BAD" = "Bad";
+"GREETINGS_LOGIC.NORMAL" = "Normal";
+"MAIN_VIEW.GREETINGS_LOGIC.ENOUGH" = "Sufficient";
+"MAIN_VIEW.GREETINGS_LOGIC.NOT_ENOUGH" = "Insufficient";
+"MAIN_VIEW.GREETINGS_LOGIC.SHORT" = "Short";
+"MAIN_VIEW.GREETINGS_LOGIC.LONG" = "Long";
+
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_REGULAR" = "Regular";
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_IRREGULAR" = "Irregular";
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_WELL_BALANCED" = "Well-balanced";
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_POOR_BALANCE" = "Poor balance";
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_RESTORATIVE" = "Restorative";
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_LOW_DEEP_SLEEP" = "Low deep sleep";
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_TOO_MUCH_LS" = "Barely asleep";
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_WOKEN_TOO_MUCH" = "Woken frequently";
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_EFFICIENT" = "Efficient";
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_INEFFICIENT" = "Inefficient";
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_NOT_ENOUGH_REM" = "Low REM";
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_FAST_TO_SLEEP" = "Fast-to-sleep";
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_SLOW_TO_SLEEP" = "Slow-to-sleep";
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_GOOD_WAKE_UP" = "Good wake-up";
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_BAD_WAKE_UP" = "Bad wake-up";
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_SUFFICIENT" = "Sufficient";
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_INSUFFICIENT" = "Insufficient";
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_NO_DATA" = "No data";
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_EXCELLENT" = "Excellent";
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_NORMAL" = "Normal";
+
+// Auth Errors
+"EMPTY_NAME" = "Empty name.";
+"EMPTY_EMAIL" = "Empty Email.";
+"INVALID_EMAIL" = "Invalid email.";
+"EMAIL_REGISTERED" = "Email already registered.";
+"EMPTY_PASSWORD" = "Empty Password.";
+"PASSWORD_WARNING" = "Invalid password.\nMinimum 8 characters including number, uppercase, lowercase and special characters.";
+"PASSWORD_MISMATCH" = "Passwords don't match";
+"EMPTY_CODE" = "Empty code.";
+"WRONG_CODE" = "Wrong code. Please try again.";
+"EXPIRED_CODE" = "Expired code. Please try again.";
+"WRONG_USERNAME_OR_PASSWORD" = "Incorrect username or password.";
+"GENERAL_ERROR" = "General Error.";
+
+"SETTINGS_HUMIDITY_DESC" = "Globally, relative humidity (%RH) is commonly used to express the amount of water vapor in the air relative to its maximum capacity. In the United States, absolute humidity (g/m³) is primarily used to indicate the actual amount of water vapor in the atmosphere.";
+"EDIT_ALARM" = "Edit alarm";
+"REGISTRATION_SUCCESS" = "Registration successfully completed!";
+"WEEK1" = "Week1 ";
+"WEEK2" = "Week2 ";
+"WEEK3" = "Week3 ";
+"WEEK4" = "Week4 ";
+"WEEK5" = "Week5 ";
+"WEEK6" = "Week6 ";
+"TODAY.MY.OPTIMIZING_WARNING" = "Wethm is optimizing to your bed for the next 3 nights.";

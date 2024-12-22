@@ -1,0 +1,61 @@
+{
+    "auth": {
+        "plugins": {
+            "awsCognitoAuthPlugin": {
+                "IdentityManager": {
+                    "Default": {}
+                },
+                "CredentialsProvider": {
+                    "CognitoIdentity": {
+                        "Default": {
+                            "PoolId": "ap-northeast-2:59c837d9-ca14-4909-858d-9427ae05b066",
+                            "Region": "ap-northeast-2"
+                        }
+                    }
+                },
+                "CognitoUserPool": {
+                    "Default": {
+                        "PoolId": "ap-northeast-2_6ex76R3yA",
+                        "AppClientId": "7qv7949ikd698mttf7507hqlme",
+                        "AppClientSecret": "8meou7n5ubnlf536r1v5khega20s8rg3pb82sbjgqkfpmc79f35",
+                        "Region": "ap-northeast-2"
+                    }
+                },
+                "Auth": {
+                    "Default": {
+                        "authenticationFlowType": "USER_SRP_AUTH",
+                        "OAuth": {
+                            "WebDomain": "ap-northeast-26ex76r3ya.auth.ap-northeast-2.amazoncognito.com",
+                            "AppClientId": "7qv7949ikd698mttf7507hqlme",
+                            "AppClientSecret": "8meou7n5ubnlf536r1v5khega20s8rg3pb82sbjgqkfpmc79f35",
+                            "SignInRedirectURI": "myapp://",
+                            "SignOutRedirectURI": "myapp://",
+                            "Scopes": [
+                                "email",
+                                "openid"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "api": {
+        "plugins": {
+            "awsAPIPlugin": {
+                "DeviceApi": {
+                    "endpointType": "REST",
+                    "endpoint": "https://klmujas3kk.execute-api.ap-northeast-2.amazonaws.com/dev",
+                    "region": "ap-northeast-2",
+                    "authorizationType": "AMAZON_COGNITO_USER_POOLS"
+                },
+                "SoundApi": {
+                    "endpointType": "REST",
+                    "endpoint": "https:/frontend-api-prod.wethmfactory.com",
+                    "region": "ap-northeast-2",
+                    "authorizationType": "AMAZON_COGNITO_USER_POOLS"
+                }
+            }
+        }
+    }
+}

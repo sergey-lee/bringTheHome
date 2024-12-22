@@ -1,0 +1,914 @@
+/*
+  Localizable.strings
+  mellowing-factory
+
+  Created by Florian Topf on 08.02.22.
+  Updated by 이준녕 on 13.07.22.
+  
+*/
+
+// shared
+"EMAIL" = "이메일";
+"PASSWORD" = "비밀번호";
+"CONFIRM_PASSWORD" = "비밀번호 확인";
+"SIGNIN" = "로그인";
+"SURNAME" = "성";
+"NAME" = "이름";
+"NEXT" = "다음";
+"VERIFY" = "확인";
+"EMAIL_ENTER" = "이메일을 입력하세요";
+"CREATE_PASSWORD" = "비밀번호 생성";
+"SKIP" = "건너뛰기";
+"SKIP_C" = "건너뛰기";
+"STOP_C" = "중지";
+"TERMS_AND_CONDITIONS" = "이용 약관";
+"PRIVACY_POLICY" = "개인 정보 보호 정책";
+"AGREE" = "동의";
+"SIGNOUT" = "로그아웃";
+"SLOGAN" = "Better Night, Better Life";
+"BIRTH_YEAR" = "출생 연도";
+"WEIGHT" = "체중";
+"KG" = "킬로그램";
+"HEIGHT" = "신장";
+"GENDER" = "성별";
+"MALE" = "남성";
+"FEMALE" = "여성";
+"OTHER" = "기타";
+"CONFIRM" = "확인";
+"NO" = "아니요";
+"YES" = "네";
+"PURCHASE" = "구매";
+"CANCEL" = "취소";
+"CONNECT" = "연결";
+"DEBT" = "부족";
+"SURPLUS" = "과잉"; // 바꿈
+"OPTIMAL" = "최적";
+"OPTIMAL_ZONE" = "최적 영역";
+"WARNING" = "경고";
+"SUBOPTIMAL" = "부적절";
+"REMOVE" = "제거";
+"DONE" = "완료";
+"DELETE" = "삭제";
+"MEMBERS" = "구성원"; // 바꿈
+"SUBSCRIBE" = "구독";
+"BACK" = "뒤로";
+"HEART_RATE" = "심박수";
+"BREATHING_RATE" = "호흡수";
+"SLEEP_QUALITY" = "수면 품질";
+"CUMULATIVE" = "누적";
+"TEMPERATURE" = "온도";
+"HUMIDITY" = "습도";
+"NOISE" = "소음";
+"ME_SUFIX" = "나";
+"DASHBOARD" = "수면정보";
+"ADMIN" = "관리자";
+"HARMONY" = "Harmony";
+"OK" = "확인";
+"ALBUM" = "앨범";
+"VIEW" = "보기";
+"READY" = "준비됨";
+"LIGHT_SLEEP" = "얕은 수면";
+"DEEP_SLEEP" = "깊은 수면";
+"EFFICIENCY" = "효율성";
+"LATENCY" = "수면지연\n시간"; // 바꿈
+"WAKEUP" = "기상 상태"; // 바꿈
+"SLEEP_LATENCY" = "수면지연 시간"; // 바꿈
+"DURATION" = "수면 시간";
+"TODAY" = "오늘";
+"MON" = "월";
+"TUE" = "화";
+"WED" = "수";
+"THU" = "목";
+"FRI" = "금";
+"SAT" = "토";
+"SUN" = "일";
+"Mon" = "월";
+"Tue" = "화";
+"Wed" = "수";
+"Thu" = "목";
+"Fri" = "금";
+"Sat" = "토";
+"Sun" = "일";
+"Sun.SHORT" = "일";
+"Mon.SHORT" = "월";
+"Tue.SHORT" = "화";
+"Wed.SHORT" = "수";
+"Thu.SHORT" = "목";
+"Fri.SHORT" = "금";
+"Sat.SHORT" = "토";
+"SUGGESTIONS" = "제안";
+"MEDITATION" = "명상";
+"DEEP_BREATHING" = "깊은\n호흡";
+"SLEEP_EARLY" = "일찍 자기";
+"AVOID_SCREENS" = "스크린 피하기";
+"BAD" = "나쁨";
+"NORMAL" = "보통";
+"GOOD" = "좋음";
+"SLOW" = "느림";
+"FAST" = "빠름";
+"AWAKE" = "깨어 있음";
+"REM" = "REM";
+"SLEEP_STAGES" = "수면 단계";
+"UNDETECTED" = "감지되지 않음";
+"BENCHMARK" = "기준";
+"MIN" = "분";
+"HOURS" = " 시간";
+"MINUTES" = " 분";
+"SECONDS" = " 초";
+"ON_BED" = "침대 오름";
+"OUT_BED" = "침대 떠남";
+"SLEEP_VITAL" = "수면 생체신호";
+"SLEEP_ENV" = "수면 환경";
+"AVERAGE" = "평균";
+"COACH_COMMENT" = "코치 코멘트";
+"SLEEP_TREND" = "수면 추이";
+"CUMULATIVE_SLEEP" = "누적 수면";
+"ENVIRONMENT" = "환경";
+"ON" = "ON";
+"OFF" = "OFF";
+"STOP" = "정지";
+"START" = "시작하기";
+"START_SLEEP" = "시작";
+"END" = "끝";
+"PERSONALIZED" = "개인화";
+"DEFAULT" = "기본";
+"MANUAL" = "수동";
+"AUTO" = "자동";
+"SMART_ALARM" = "스마트 알람";
+"ALARM" = "알람";
+"SAVE" = "저장";
+"TIME" = "시간";
+"EDIT" = "편집";
+"PATTERNS" = "패턴";
+"SNOOZE" = "다시 알림";
+"NOTICES" = "공지사항"; // 바꿈
+"NOTICE" = "공지사항"; // 바꿈
+"SETTINGS" = "기기 및 앱 설정";
+"ABOUT" = "소개";
+"LOGOUT" = "로그아웃";
+"JOIN" = "가입";
+"CREATE" = "생성";
+"MY_PROFILE" = "내 프로필";
+"FEATURES" = "기능";
+"CONGRATULATIONS" = "축하합니다!";
+"LANGUAGE" = "언어";
+"UNIT" = "단위";
+"SLEEP_ENHANCER" = "Sleep Enhancer";
+"PROBLEM" = "문제있음";
+"FINISH" = "완료";
+"SORTING" = "정렬";
+"NEWEST" = "최신";
+"OLDEST" = "오래된";
+"TERMS_OF_SERVICE" = "서비스 약관";
+"SHOW" = "보기";
+"HIDE" = "숨기기";
+"CLOSE" = "닫기";
+"SLEEP" = "수면";
+"SLEEP_C" = "수면";
+"READ_MORE" = "더 읽기";
+"WELCOME" = "환영합니다";
+"WEEKDAYS" = "평일";
+"WEEKENDS" = "주말";
+"AM" = "오전";
+"PM" = "오후";
+"ADD" = "추가하기";
+
+// Bottom Menu
+"BOTTOM.TODAY" = "TODAY"; //"오늘";
+"BOTTOM.REPORT" = "REPORT"; //"리포트";
+"BOTTOM.ENHANCE" = "ENHANCE"; //"향상";
+
+// Sign in
+"REMEMBER_ME" = "아이디 기억하기";
+"AUTO_SIGN_IN" = "자동 로그인";
+"FORGOT_PASSWORD" = "비밀번호를 잊으셨나요?";
+"THIRD_PARTY" = "또는 다음으로 로그인";
+"SIGNUP_Q" = "계정이 없으신가요?";
+"SIGNUP_B" = "가입하기";
+
+// Sign up
+"SIGNUP.WELCOME" = "환영합니다";
+"SIGNUP.SUBTITLE" = "계정을 생성하고 수면을 개선하세요.";
+"SIGNUP.SURNAME_E" = "성을 입력하세요";
+"SIGNUP.NAME_E" = "이름을 입력하세요";
+
+"SIGNUP.EMAIL_V" = "인증 코드가 이메일로 전송됩니다.";
+"SIGNUP.TITLE" = "계정 생성";
+"SIGNUP.PASSWORD_SET" = "비밀번호 설정\n다음으로 비밀번호를 설정해주세요."; // 바꿈
+"SIGNUP.PASSWORD_E" = "새 비밀번호를 입력해주세요"; // 바꿈
+"SIGNUP.PASSWORD_C" = "비밀번호 확인";
+"SIGNUP.PASSWORD_DESC" = "보안을 위해 8-16자의 숫자, 대문자, 소문자 및 특수 문자 조합을 포함한 비밀번호를 설정해주세요.";
+"SIGNUP.SYMBOLS_COUNT" = "8~16자";
+"SIGNUP.SYMBOLS_CAPITAL" = "대문자";
+"SIGNUP.SYMBOLS_LOWERCASE" = "소문자";
+"SIGNUP.NUMBERS" = "숫자";
+"SIGNUP.SPECIAL" = "특수 문자";
+
+// Verification
+"VERIFICATION.TITLE" = "인증";
+"VERIFICATION.TITLE2" = "이메일에서 인증 코드를 확인해주세요."; // 바꿈
+"VERIFICATION.CODE_R" = "코드 다시 전송";
+
+// Forgot Password
+"FORGOT_P.TITLE" = "비밀번호 재설정";
+"FORGOT_P.TITLE2" = "비밀번호 재설정 중인가요?\n";
+"FORGOT_P.TITLE2.2" = "에 가입할 때 사용한 이메일 주소를 입력하세요.";
+"FORGOT_P.HINT" = "가입 시 사용한 이메일 주소를 입력하세요. 인증 코드가 해당 이메일로 전송됩니다.";
+"FORGOT_P.TITLE3" = "비밀번호 설정\n다음으로 비밀번호를 설정해주세요."; // 바꿈
+"FORGOT_P.HINT2" = "보안을 위해 8-16자의 숫자, 대문자, 소문자 및 특수 문자 조합을 포함한 비밀번호를 설정해주세요.";
+"FORGOT_P.TITLE4" = "이메일에서 인증 코드를 확인해주세요."; // 바꿈
+"FORGOT_P.UPDATE" = "비밀번호 업데이트";
+
+// App Onboarding
+"EFFORTLESS" = "불편함 없이";
+"GAIN_INSIGHTS" = "수면에 대한"; // 바꿈
+"INTO_YOUR_SLEEP" = "통찰력을 얻으세요"; // 바꿈
+"APP_ONB.TITLE3" = "활기찬 아침을\n맞이하세요"; // 바꿈
+"APP_ONB.DESC1" = "잠이 들기까지 힘든가요?\n우리의 Wethm Sleep Enhancer에는\n사용자의 수면을 유도하여 빠르게 잠들 수 있도록\n돕는 진동기능이 있습니다."; // 바꿈
+"APP_ONB.DESC2" = "수면 단계, 심박수, 호흡, 기상상태 등을 분석한\n상세 수면 보고서를 통해\n수면에 대한 통찰력을 얻으세요.\n"; // 바꿈
+"APP_ONB.DESC3" = "Wethm Sleep Enhancer와 함께하면\n가장 적합한 단계에서 깨어나\n상쾌한 하루를 시작할 수 있습니다.\n"; // 바꿈
+
+// TermsView
+"TERMS.HINT" = "마지막으로 가입완료를 위해\n가입 및 정보제공에 동의해주세요.";// 바꿈
+"TERMS.DESC" = "wethm의 원활한 서비스 이용을 위하여 아래의 약관 동의가 필요합니다. 서비스 정책을 읽으려면 아래의 링크를 탭하세요.";// 바꿈
+"TERMS.ALL" = "모두 동의";
+"TERMS.PRIVACY" = "개인정보 취급 및 보호 정책";// 바꿈
+"TERMS.DATA" = "사용자 데이터 정책";
+"TERMS.DATA_DESC" = "맞춤형 서비스를 받고 싶습니다.";
+"TERMS.MARKETING" = "마케팅 정보 수신 동의";// 바꿈
+"TERMS.MARKETING_DESC" = "마케팅 알림을 받고 싶습니다.";
+
+// UserOnboarding
+"USER_ONB.HINT" = "더 나은 사용자 맞춤 서비스 제공을 위해 개인 정보를 추가로 제공해주세요.";// 바꿈
+"USER_ONB.DESC" = "추가 정보를 제공함으로써 사용자는 Wethm이 더 나은 통계와 추천을 제공하는 데 도움을 줄 수 있습니다. Wethm은 정보를 보호하는데 헌신하며 정보는 어떠한 마케팅 목적으로도 사용되지 않습니다.";
+
+// DeviceOnboarding
+"DEVCICE_ONB.TITLE" = " ";
+"DEVCICE_ONB.TITLE0" = " 기기를 등록하시겠습니까?";
+"DEVCICE_ONB.SUBTITLE" = "대부분의 앱 기능을 활용하기 위해서는 기기가 필요합니다.";// 바꿈
+"DEVCICE_ONB.HINT" = "한번에 하나의 기기만 연결할 수 있습니다. 가장 가까운 기기중 하나를 우선적으로 등록합니다.";// 바꿈
+"DEVCICE_ONB.TITLE2" = "Sleep Enhancer를 가지고 계시군요!\n등록을 도와드리겠습니다.";
+"DEVCICE_ONB.TITLE3" = "Wethm Sleep Enhancer를\n풀어서 전원을 연결하세요.\n연결 후 기기에 불빛이 들어와야 합니다.";// 바꿈
+"DEVCICE_ONB.HINT2" = "전원을 연결 한 후,\n기기가 켜지기까지 약 5-15초가량 소요될 수 있습니다.";// 바꿈
+"DEVCICE_ONB.TITLE4" = "Sleep Enhancer를\n매트리스와 매트리스 커버 사이에 놓고\n가슴 위치에 오도록 위치를 조정해주세요.";// 바꿈
+"DEVCICE_ONB.HINT3" = "기기의 위치 밀림 방지를 위해,\n매트리스 커버 아래 설치하는 것이 좋습니다.";// 바꿈
+"DEVCICE_ONB.TITLE5" = "다음으로 사용자의 스마트폰에서\n아래의 사항을 확인해주세요.\n➊ 블루투스가 켜져 있습니다.\n➋ 인터넷에 연결되어 있습니다.";// 바꿈
+"DEVCICE_ONB.HINT4" = "다음 단계로 넘어가기 전,\n기기의 불빛이 파란색으로 깜빡여야 합니다.";// 바꿈
+"DEVCICE_ONB.TITLE6" = "기기의 빛이 파란색으로 깜빡이고 있다면,\n연결이 준비된 상태입니다.";// 바꿈
+"DEVCICE_ONB.HINT5" = "아래의 확인 버튼을 누르면,\n기기의 불빛이 빠르게 깜빡일 것 입니다.";// 바꿈
+"DEVCICE_ONB.TITLE7" = " ";
+"DEVCICE_ONB.TITLE7.0" = " 기기를 찾고있습니다, 잠시만 기다려주세요.";
+"DEVCICE_ONB.TITLE7.1" = "블루투스 연결이 완료되면,\n기기의 불빛이 천천히 깜빡입니다.";
+"DEVCICE_ONB.TITLE8" = "2.4GHz Wi-Fi 네트워크를 찾을 수 없습니다.\nWi-Fi 라우터가 2.4GHz 네트워크를 제공하는지 확인해주세요.";// 바꿈
+"DEVCICE_ONB.TITLE9" = "Wi-Fi 네트워크를 선택해주세요.\nSleep Enhancer를 사용하려면\n2.4GHz Wi-Fi 연결이 필요합니다.";// 바꿈
+"DEVCICE_ONB.WIFI" = "Wi-Fi 선택";
+"DEVCICE_ONB.PASS" = "비밀번호 입력";
+"DEVCICE_ONB.HINT6" = "원하는 네트워크가 나타나지 않는다면, 기기를 Wi-Fi 라우터 가까이 이동하여 등록을 진행해주세요.";// 바꿈
+"DEVCICE_ONB.TRY" = "다시 시도";
+"DEVCICE_ONB.SEARCH" = "Wi-Fi 다시 찾기";// 바꿈
+"DEVCICE_ONB.SSID" = "와이파이명 직접 입력하기";
+"DEVCICE_ONB.SHOW_LIST" = "와이파이 리스트 보기";
+"DEVCICE_ONB.MANUAL_WIFI" = "와이파이명 직접 입력하기";
+"DEVCICE_ONB.TITLE10" = "기기가 연결 중입니다.\n잠시 기다려 주세요...";
+"DEVCICE_ONB.TITLE10-1" = "장치를 재부팅 중입니다.\n잠시 기다려 주세요...";
+"DEVCICE_ONB.HINT7" = "연결중에는 기기의 불빛이 빠르게 깜빡입니다.";// 바꿈
+"DEVCICE_ONB.HINT7-1" = "이제 거의 다 되었습니다.\n연결이 완료되면 불빛은 천천히 깜빡입니다.";// 바꿈
+"DEVCICE_ONB.TITLE11" = "기기에 연결할 수 없습니다.";
+"DEVCICE_ONB.TITLE12" = "현재 서버에 연결할 수 없습니다.";
+"DEVCICE_ONB.TEXT1" = "Sleep Enhancer의 빛이 켜져 있는지 확인하세요.";
+"DEVCICE_ONB.TEXT2" = "기기 설치 가이드라인을 다시 확인한 후 연결을 시도해주세요.";// 바꿈
+"DEVCICE_ONB.HINT8" = "문제가 계속되면 기기의 측면의 'RESET' 버튼을 7초가량 누른 뒤 다시 시도해주세요. 그래도 문제가 지속된다면 고객 서비스 센터로 연락주시기 바랍니다.";// 바꿈
+"DEVCICE_ONB.ERROR1" = "정확하지 않은 와이파이 또는 비밀번호입니다:\n";// 바꿈
+"DEVCICE_ONB.TEXT3" = "비밀번호를 확인 후 다시 시도해주세요.";// 바꿈
+"DEVCICE_ONB.HINT9" = "문제가 지속되는 경우 고객 서비스 센터로 연락주세요.";// 바꿈
+"DEVCICE_ONB.TITLE13" = "등록이 성공했습니다!\nSleep Enhancer가 연결되었습니다.";
+"DEVCICE_ONB.TEXT4" = "Sleep Enhancer가 생체신호를\n잘 측정하는지 확인하시겠습니까?\n";// 바꿈
+"DEVCICE_ONB.TEXT5" = "생체 신호 확인하기";// 바꿈
+"DEVCICE_ONB.TEXT5.2" = " ";
+"DEVCICE_ONB.TITLE13.1" = "생체 신호를 측정하기 전,\n기기의 설치가 모두 완료되었고 측정 준비가\n완료되었는지 확인해주세요.";// 바꿈
+"DEVCICE_ONB.HINT9.1" = "측정준비가 완료되면,\n희미한 푸른 불빛이 켜지게 됩니다.";// 바꿈
+"DEVCICE_ONB.TITLE14" = "침대에 누워서 아래 '";// 바꿈
+"DEVCICE_ONB.TITLE15" = "' 버튼을 눌러주세요. 누웠을 때 기기가 가슴(심장) 위치 아래에 있는지 확인해주세요.";// 바꿈
+"DEVCICE_ONB.HINT10" = "생체신호를 측정하는데에는\n약 1분정도 소요됩니다.";// 바꿈
+"DEVCICE_ONB.TITLE16" = "Sleep Enhancer가\n생체 신호를 측정 중입니다.\n잠시만 기다려 주세요...";
+"DEVCICE_ONB.TITLE17" = "생체 신호를 감지할 수 없습니다.";
+"DEVCICE_ONB.TEXT6" = "➊\n기기가 가슴과 배 사이에 위치해 있는지 확인해주세요. 기기를 심장위치 아래에 배치하면 정확도가 향상됩니다.\n\n➋\n기기 위에 매트리스 커버의 두께를 확인해주세요. 너무 두꺼운 매트리스 커버는 정확한 측정에 방해될 수 있습니다.";// 바꿈
+"DEVCICE_ONB.TITLE19" = "기기가 정상적으로 설치되었고\n수면을 분석할 준비가 되었습니다.";// 바꿈
+"DEVCICE_ONB.TITLE20" = "Sleep Enhancer는 부드러운 진동을 사용하여 잠들 수 있도록 도와줍니다.";
+"DEVCICE_ONB.TEXT7" = "이 기능을 최적화할 수 있는\n";
+"DEVCICE_ONB.TEXT8" = "강도";
+"DEVCICE_ONB.TEXT9" = " 테스트를 실행하시겠습니까?";
+"DEVCICE_ONB.TITLE21" = "Sleep Enhancer는 수면을 유도하기 위해 진동을 사용합니다.";
+"DEVCICE_ONB.TEXT10" = "강도 설정 프로세스는 간단합니다.";
+"DEVCICE_ONB.TEXT11" = "➊\n시작 버튼을 누르면 강도가 강한 진동에서 부드러운 진동으로 순차적으로 제공됩니다.";
+"DEVCICE_ONB.TEXT12" = "➋\n적절한 시간에 중지하는 것이 중요합니다. 과한 진동은 유도 효과를 약화시킬 수 있고 수면을 방해할 수 있습니다.";
+"DEVCICE_ONB.TITLE22" = "침대 위에 누워서 \n아래 '";
+"DEVCICE_ONB.TITLE23" = "' 버튼을 누르세요.";
+"DEVCICE_ONB.HINT11" = "가만히 있고 진동에 집중하세요.";
+"DEVCICE_ONB.TITLE24" = "현재 진동 강도를 저장하시겠습니까?";
+"DEVCICE_ONB.TITLE25" = "진동을 거의 느끼지 못할 때\n중지 버튼을 누르세요.";
+"DEVCICE_ONB.STOP" = "중지";
+"DEVCICE_ONB.SAVE" = "저장";
+"DEVCICE_ONB.TITLE26" = "최상의 아침을 경험하려면\n";
+"DEVCICE_ONB.TITLE26.1" = "의 알람을 사용해 보세요.";
+"DEVCICE_ONB.TEXT13" = "Sleep Enhancer는\n부드러운 진동을 사용하여\n";// 바꿈
+"DEVCICE_ONB.TEXT14" = "얕은 수면 단계에서 깨도록 돕습니다.";// 바꿈
+"DEVCICE_ONB.TEXT15" = ",\n보다 상쾌한 아침을 경험해보세요.";// 바꿈
+"DEVCICE_ONB.TITLE27" = "아래와 같이 기기 LED 불빛이 안정된 상태로 지속되지 않는 경우 전원 케이블을 뽑고 다시 연결해 주세요.";
+"DEVCICE_ONB.TITLE28" = "기기가 업데이트 중입니다. 약 5분정도 소요될 예정입니다.";
+"DEVCICE_ONB.TITLE29" = "업데이트중 기기를 끄거나 전원을 뽑지 말아주세요.";
+
+// Advert
+"ADV.T1" = "수면을 유도하는 진동";
+"ADV.T2" = "수면정보 생체신호 보기";
+"ADV.T3" = "스마트 진동 알람";
+"ADV.T4" = "남녀노소 누구나 손쉽게 사용할 수 있습니다.\n향상된 수면을 경험하고 삶의 질을 높여보세요.";
+"ADV.T4.TITLE" = "SLEEP";
+"ADV.T4.TITLE2" = "ENHANCER";
+
+// TodayScreen
+"MY_SLEEP" = "My Sleep";
+"MY_HARMONY" = "My Harmony";
+"TODAY.REMOVED1" = "당신은 \n";
+"TODAY.REMOVED2" = "의 **Harmony**에서 제거되었습니다";
+"TODAY.HINT1" = "Harmony에 참여하거나 자신의 Harmony를 만들어 당신의 구성원들과 수면 정보를 공유하세요.";//바꿈
+"TODAY.ATTRIBUTES" = "추가정보"; //바꿈
+"TODAY.DEBT_SUR" = "누적된 수면 부족/과잉"; //바꿈
+"TODAY.LAST7" = "지난 7일";
+"TODAY.ALL_MEMBERS" = "모든 구성원";
+"TODAY.ADD_MEMBER" = "구성원 추가";
+"TODAY.REMOVE_MEMBER" = "구성원 삭제";
+"TODAY.DISBAND" = "Harmony 해체";
+"TODAY.LEAVE" = "Harmony 나가기";
+"TODAY.MESSAGE1" = "Harmony 해체를 선택하면 모든 구성원들이 해산됩니다.";
+"TODAY.MESSAGE2" = "Harmony를 나가면 더 이상 다른 구성원들과 수면 데이터를 공유할 수 없습니다.";
+"TODAY.MANAGE" = "Harmony 관리";
+"TODAY.ADD.TITLE" = "Wethm Harmony\n구성원 추가하기";
+"TODAY.ADD.HINT" = "Harmony 내에서 수면 데이터를 서로 공유하고 마음 편히 주무세요.";
+"TODAY.LIMIT.TITLE" = "Wethm Harmony를\n구독해야 더 많은 구성원을 추가할 수 있습니다.";
+"WETHM_HARMONY" = "Wethm Harmony";
+"ISSUES" = "문제";
+"CHOOSE_IMAGE" = "이미지 선택";
+"DELETE_IMAGE" = "이미지 삭제";
+"TODAY.DETAILED_VIEW" = "자세히 보기";
+"TODAY.DETAILED_VIEW.HINT" = "어젯밤 구성원들의 수면상태에 대해\n다음과 같은 자세한 내용을 볼 수 있습니다.\n수면품질, 수면시간 및 비정상 생체 신호 등\n확인할 수 있습니다.";
+"TODAY.QR_WRONG" = "잠시만요!\n잘못된 QR 코드입니다";
+"TODAY.QR_EXP" = "잠시만요!\n만료된 QR 코드입니다";
+"TODAY.QR_HINT" = "QR 코드를 스캔하거나 앨범에서 QR 이미지를 선택하세요.";
+"TODAY.QR_HINT2" = "상대방의 QR코드 확인하는 방법:\nToday > 우측상단 메뉴 > 내 계정 > 가입";
+"TODAY.QR_TITLE" = "QR 코드 스캔";
+"TODAY.ADD.Q" = "당신의 Harmony에\n추가하시겠습니까?";
+"TODAY.ADD.SUCESS_HINT" = "이제 수면 데이터를 공유할 수 있습니다.\n";
+"TODAY.ADD.SUCESS_REMAIN" = "개 남음";
+"TODAY.ADD.VIEW.HINT" = "사용자를 Harmony 구성원으로 추가합니다. 추가 후 'My Harmony' 페이지에서 나의 구성원들을 추가/빼기 등 관리할 수 있습니다.";
+"TODAY.TIME_N_TOKENS.TITLE" = "감지된 수면 상태";
+"TODAY.TIME_N_TOKENS.INFO" = "센서가 잘못된 위치에 있을 수 있으므로 위치를 다시 조정하고 전원에 올바르게 연결되었는지 확인해주세요.";
+"TODAY.TIME_N_TOKENS.TITLE2" = "wethm에 오신 것을 환영합니다";
+"TODAY.TIME_N_TOKENS.INFO2" = "기기가 연결되었습니다! 첫 수면 데이터를 내일 확인하세요.";
+"TODAY.TIME_N_TOKENS.INFO3" = "분석에는 최소 2시간의 수면시간이 필요합니다.";
+"TODAY.TIME_N_TOKENS.INFO4" = "수면을 분석 중입니다, 10분 후에 다시 확인해주세요.";
+"TOO_SHORT" = "너무 짧음";
+"ANALYZING" = "분석 중...";
+"TOTAL_DURATION" = "총 수면 시간";
+"TODAY.VIT_N_ENV" = "생체신호와 수면환경";
+"TODAY.LAST_SLEEP" = "지난 수면";
+"TIME.MERIDIAN.AM" = "오전 ";
+"TIME.MERIDIAN.PM" = "오후 ";
+"END_SLEEP" = "수면 끝내기";
+
+// ReportScreen
+"REPORT_OF" = "보고서";
+"REPORT.PER_DAY" = " / 일";
+"REPORT.AVG_Q" = "평균 품질";
+"REPORT.OOPS" = "OOPS!";
+"REPORT.COACH" = "COACH";
+"REPORT.ERROR" = "ERROR";
+"REPORT.LAST_UPDATE" = "최근 업데이트,";
+"REPORT.ERROR_TEXT" = "문제가 발생했습니다.";
+"REPORT.ERROR_TEXT2" = "데이터를 가져오는 동안 오류가 발생했습니다. 페이지를 아래로 당겨 페이지를 새로고침 해주세요.";
+"REPORT.NO_DATA" = "표시할 데이터가 없습니다.";
+"REPORT.NO_DATA_TEXT" = "이전 날짜의 수면 데이터가 없습니다.\n수면 후 데이터가 보이지 않는다면,\n기기가 잘 연결되어 있는지 확인해주세요.";
+"REPORT.WELCOME" = "환영합니다!";
+"REPORT.WELCOME_TEXT" = "보고서를 생성하기 위해서는\n사용자의 수면 데이터가 필요합니다!";
+"REPORT.TOTAL_DEBT" = "총 수면 부족";
+"REPORT.TOTAL_SURPLUS" = "총 수면 과잉";
+"REPORT.AVERAGE_ON_BED" = "평균 잠든 시간";
+"REPORT.AVERAGE_OUT_BED" = "평균 기상 시간";
+"REPORT.VIT_AND_ENV.HINT" = "위의 그래프는 한 주 동안의 수면 정보를 요약합니다. 그래프에 가로로 지나가는 영역은 사용자의 최적 수면시간을 나타내며, 이 범위 아래나 위에 위치하는 수면 막대는 수면 부족 또는 과잉으로 표시됩니다.";
+"REPORT.TODAYS" = "오늘";
+"REPORT.NOT_ENOUGH" = "수면 시간이 충분하지 않습니다.";
+"REPORT.NOT_ENOUGH.HINT" = "수면 중 자주 깬다면 일상 속 스트레스가 문제일 수 있습니다. 잠들기 전, 명상이나 깊은 호흡을 들이마셔 일상의 스트레스를 관리하고 몸과 마음의 긴장을 풀어보세요.";
+"REPORT.DETAILED_INFO" = "상세정보";
+"REPORT.DETAILED_INFO.TITLE" = "상세정보";
+"REPORT.STAGES.CUMULATIVE" = "단계 %\n(누적)";
+"REPORT.30DAY" = "30일 평균";
+"REPORT.GLOBAL" = "전 세계 평균과 비교";
+"REPORT.TIME_SPENT" = "수면 각 단계에서 소요된 시간";
+"TYPICAL_RANGE" = "세계 평균 범위";
+"REPORT.BR_M" = "호흡/\n분";
+"REPORT.BPM" = " (bpm)";
+"REPORT.FAH" = " (°F)";
+"REPORT.PER" = " (%)";
+"REPORT.DB" = " (dB)";
+"REPORT.B_M" = "심박/\n분";
+"REPORT.TIME" = "(시간)";
+"REPORT.MONTH" = "(월)";
+"REPORT.DAY" = "(일)";
+"REPORT.BY_HOUR" = "시간대별\n수면";
+"REPORT.BY_DAY.Y" = "월단위\n수면";
+"REPORT.BY_DAY.W" = "일단위\n수면";
+"REPORT.AVERAGE_HR" = "평균 심박수";
+"REPORT.AVERAGE_BR" = "평균 호흡수";
+
+// EnhanceScreen
+"ENH.DESC2" = "스크린 사용을 피하고 움직임을 최소화한 후 진동에 집중해 보세요.";
+"ENH.DESC1" = "미세한 진동은 몸을 이완시키고\n뇌의 알파파를 높임으로\n사용자가 쉽게 잠들 수 있도록 돕습니다.";
+"SLEEP_INDUCTION" = "Sleep Induction";
+"SMART_ACTIVATION" = "스마트 활성화";
+"BUTTON_ACTIVATION" = "버튼 활성화";
+"VIBRATION" = "진동";
+"VIBRATION_INTENSITY" = "진동 강도";
+"VIBRATION_FREQUENCY" = "진동 주파수";
+"SLEEP_INDUCTION1" = "Sleep";
+"SLEEP_INDUCTION2" = "Induction";
+"ENH.AUTO.DESC" = "오후 9시 이후 또는 일반 수면 시간 이후에 사용자가 기기 위에 누우면 자동으로 수면 유도 기능이 활성화 됩니다. 이 시간은 자동으로 업데이트됩니다.";
+"ENH.BTN.DESC" = "Wethm Sleep Enhancer의 버튼을 사용하여 수면 유도를 활성화합니다. 버튼을 다시 눌러 수면 유도 진동을 끌 수 있습니다.";
+"ENH.VIBRO.DESC" = "진동 강도를 거의 느끼지 못할 정도로 위의 슬라이더를 조절해주세요. 이를 테스트하려면 기기 위에 누워서 직접 진동 강도 조절을 통해 수동으로 설정할 수 있습니다.";
+"ENH.VIBRO.DESC2" = "수면을 유도하는 진동 주파수는 대부분의 사람들이 쉽게 잠들수 있도록 설정되어 있습니다. 위의 개인화 옵션은 심박수를 기반으로 변형된 주파수이며, 이를 변경하여 개인에게 더 잘 맞는 주파수를 선택할 수 있습니다.";
+"DAYS_ACTIVE" = "활성된 요일";
+"ENH.ALARM.DESC" = "기상시간을 설정해보세요.\n최적의 상태에 부드럽게 깨워드립니다.";
+"ENH.ALARM.DESC2" = "wethm은 잔잔한 진동을 사용하여\n사용자를 얕은 수면 단계로 이끌어 깨워줍니다.";
+"ENH.ADD_ALARM" = "알람 추가";
+"ENH.ALARM.DESC3" = "Wethm은 사용자가 설정한 기상 시간에 맞춰 부드러운 진동으로 최적의 기상 상태를 유도합니다.";
+"ENH.ALARM.HINT" = "알람 설정을 위한 요일 선택";
+"ENH.ALARM.HINT2" = "wethm은 최적의 기상 상태를 유도한 후 사용자가 설정한 진동 패턴을 통하여 부드러운 기상을 돕습니다.";
+"ENH.CURRENT_TIME" = "현재 시간";
+"ENH.ALARM_TIME" = "알람 시간";
+"ENH.ALARM_SETTINGS" = "알람 설정";
+"ENH.PATTERNS.HINT" = "패턴을 확인하려면 기기 위에 누운 후 패턴의 이름을 선택해 주세요. 기기는 사용자가 선택한 패턴으로 약 15초 동안 진동합니다.";
+"RAILWAY" = "기찻길";
+"ROCK-A-BYE" = "자장가";
+"WAVE" = "파도";
+
+"SIDE.MY_ACC" = "내 계정";
+"SIDE.MY_ACC.HINT1" = "제한된 건강 관련 데이터를 공유함으로써 사용자는 'Wethm'이 수면 통계 및 권장 사항을 제공하는 데 도움을 줄 수 있습니다. 'Wethm'은 사용자에게 개인 맞춤화 경험을 제공하는 동안 사용자의 개인정보를 안전하게 유지하기 위해 최선을 다합니다.";
+"SIDE.MY_ACC.HINT2" = "개인 정보 취급 및 보호 정책";
+"ACCOUNT_SETTINGS" = "계정 설정";
+"RESET_PASSWORD" = "비밀번호 재설정";
+"DELETE_ACCOUNT" = "계정 삭제";
+"HARMONY_PLAN" = "Harmony 플랜";
+"SIDE.HARMONY_ADMIN %@" = "%@의 Harmony";
+"SIDE.HARMONY.WARNING1" = "아직 **Wethm Harmony** 에 가입하지 않았습니다.";
+"SIDE.QR.EXP" = "죄송합니다,\nQR 코드가 만료되었습니다.";
+"SIDE.QR.JOIN" = "다른 사용자의 Harmony\n구성원이 되시겠습니까?";
+"SIDE.QR.VALID" = "QR 코드의 유효 시간은 5분입니다.\n새로운 QR을 생성하려면 새로고침 해주세요.";
+"SIDE.QR.TIMER %@" = "QR 코드 유효 기간:\n %@";
+"SIDE.QR.HINT" = "QR 코드를 사용하여 Harmony의 구성원으로 들어갑니다.\n구성원 등록 후 언제든 'My Harmony' 페이지를 통해 속해있는 Harmony를 나갈 수 있습니다.";
+"SHARE_QR" = "QR 코드 공유";
+"SHARE_QR_CODE" = "당신과 함께하길 원하는 사용자입니다.";
+"SIDE.WH.TITLE" = "플랜 및 결제";
+"PLAN" = "플랜";
+"CANCELED" = "취소됨";
+"BILLING" = "결제";
+"RENEWAL_DETAILS" = "갱신 세부 정보";
+"EXPIRES_ON" = "만료일";
+"AUTO_RENEWS_ON" = "자동 갱신일";
+"SIDE.WH.HINT" = "Wethm Harmony 플랜을 변경하거나 결제 방법을 업데이트하려면 휴대폰 또는 태블릿에서 설정 > Apple ID를 방문하세요.";
+"SIDE.SUBS.HINT" = "Wethm Harmony를 통해 당신과 당신이 사랑하는 사람들간의 수면데이터 공유가 가능합니다. 안심하고 편안하게 주무세요.";
+"SIDE.SUBS.EMPTY" = "현재 확인된 구독정보가 없습니다...";
+"SIDE.SUBS.HINT2 %@" = "• 월 구독료는 %@이며 매달 자동으로 갱신되며 현재 연결된 iTunes 계정을 통해 결제됩니다.\n\n\• 구독을 관리하고 결제 정보를 확인하려면 Apple을 통해 확인할 수 있습니다.\n\n\• 결제 확인 및 환불에 관한 문의 사항은 Apple 고객 지원으로 문의해주세요.";
+"NUMBER_OF_MEMBERS" = "구성원 수";
+"DETAILED_VIEW" = "자세히보기 제공";
+"PERIOD" = "이용기간";
+"NEXT_PAYMENT_DATE" = "다음 결제 예정일";
+"SIDE.ACC.NAME" = "다른 사람들이 쉽게 인식할 수 있는 이름을 사용해주세요. Wethm Harmony를 사용하시는 경우 설정된 이름은 Harmony 구성원들과 공유됩니다.";
+"SIDE.ACC.HINT" = "제공된 정보는 사용자의 개인 맞춤 알고리즘을 구성하고 분석하는 데 사용됩니다.";
+"SIDE.ACC.JOIN_SUCCESS" = "가입되었습니다!\n이제 수면 데이터를 공유할 수 있습니다.";
+"SIDE.ACC.ADMIN %@" = "%@의 Harmony";
+"NO_SETTINGS" = "설정 안됨";
+"DEVICE_SETTINGS" = "기기 설정";
+"DEVICE_INFORMATION" = "내 기기";
+"HOW_TO_USE" = "사용 방법";
+"NOTIFICATIONS_SETTINGS" = "알림 설정";
+"ALLOW_NOTIFICATIONS" = "알림 허용";
+"NOTIFICATIONS" = "알림";
+"SIDE.SET.HINT" = "알림을 받지 못하는 경우 Wethm 앱에 대한 알림을 iPhone > 설정 > 알림에서 활성화해주세요.";
+"APPLICATION_SETTINGS" = "앱 설정";
+"APPLICATION_GUIDE" = "앱 가이드";
+"VERSION" = "버전";
+"DEVICE_NAME" = "기기 이름";
+"SERIAL_NUMBER" = "일련 번호";
+"CONNECTION_DATE" = "연결 날짜";
+"UPDATE_WIFI_C" = "Wi-Fi 재연결";
+"CONNECTION_TERMINATION" = "기기 등록 해제";
+"SIDE.SET.DIS.HINT" = "기기 등록 해제 전\n아래의 주의 사항을 검토해주요.";
+"SIDE.SET.DIS.HINT2" = "➊\n등록 해제는 연결된 기기 해제를 뜻합니다.\n\n➋\n다른 사람에게 기기를 양도하기 전,\n기기 등록을 해제해 주세요.\n\n❸\n등록을 해제한 후\n기기를 다시 재등록할 수 있지만,\n이전 설정이 유지되지 않을 수 있습니다.";
+"SETUP_GUIDE" = "설치 가이드";
+"SETUP_GUIDE.HINT" = "어떻게 기기를 설치해야 하는지 안내합니다.";
+"V.BASIC" = "기본";
+"V.SLOW_PULSE" = "느린 심박";
+"V.HEARTBEAT" = "심장박동";
+"V.TICKTOCK" = "틱톡";
+"V.ZIG" = "지그-지그-지그";
+"V.RAPID" = "빠르게";
+"V.STACCATO" = "스타카토";
+"PAYMENT.MONTH" = "/ 한달에";
+"MAX" = "Max";
+
+// SETUP GUIDE
+"SETUP_GUIDE.T1" = "설치 가이드";
+"SETUP_GUIDE.T2" = "Sleep Enhancer는 많은 노력 끝에 등장했습니다. Sleep Enhancer는 수년간의 생체 신호 계측 및 신호 처리 A.I. 연구의 결과입니다.";
+"SETUP_GUIDE.T3" = "어떻게";
+"SETUP_GUIDE.T4" = "설치할까요?";
+"COMPONENT" = "구성 요소";
+"SETUP_GUIDE.T5" = "Sleep Enhancer 패키지에는 컨트롤러와 함께 패드, USB-C 전원 케이블 및 어댑터가 포함되어 있습니다.";
+"CONTROLLER" = "컨트롤러";
+"SETUP_GUIDE.T6" = "USB-C 전원 케이블\n/ 어댑터";
+"SETUP_GUIDE.T7" = "Sleep Enhancer 패드";
+"STEP_01" = "단계 01";
+"SETUP_GUIDE.T8" = "Sleep Enhancer를 꺼내서 전원을 연결하세요.\n연결 후 기기에 불빛이 들어와야 합니다.";
+"SETUP_GUIDE.T9" = "전원을 켠 후에는";
+"SETUP_GUIDE.T10" = "기기가 켜지기까지 약 5-15초가량 시간이 걸릴 수 있습니다.";
+"STEP_02" = "단계 02";
+"SETUP_GUIDE.T11" = "Sleep Enhancer를 매트리스와 매트리스 커버 사이에 놓고 가슴 위치에 오도록 위치를 조정해주세요.";
+"SETUP_GUIDE.T12" = "더 편안한 사용과 기기의 위치 밀림 방지를 위해, 매트리스 커버 아래 설치하는 것이 좋습니다.";
+"STEP_03" = "단계 03";
+"SETUP_GUIDE.T13" = "다음으로 사용자의 스마트폰에서\n아래의 사항을 확인해주세요.\n➊ 블루투스가 켜져 있습니다.\n➋ 인터넷이 연결되어 있습니다.";
+"SETUP_GUIDE.T14" = "이 단계에서 기기의 불빛이 파란색으로 깜빡여야 합니다.";
+"STEP_04" = "단계 04";
+"SETUP_GUIDE.T15" = "기기와 앱이 연결된 후 컨트롤러의 표시등의 깜박임이 멈추는지 확인해주세요.";
+"SETUP_GUIDE.T16" = "모든 설치가 정상적으로 완료되었다면, 컨트롤러의 표시등은 은은하고 연한 파란색 빛으로 전환되어야 합니다.";
+
+// LIFESTYLE
+"LIFESTYLE" = "라이프스타일";
+"LIFESTYLE.T1" = "Wethm의 일상 루틴으로 더 나은 수면을 경험하세요!";
+"LIFESTYLE.T2" = "저녁시간, 지친 당신은 집으로 돌아와 더 나은 내일을 위해 편안한 휴식을 준비하시나요?\n그렇다면, 매일 저녁 Wethm을 만나보세요. 저희가 도울 수 있습니다.\nWethm의 수면 향상 기능, 효과 및 이점을 살펴보세요!";
+"LIFESTYLE.T3" = "일상안에서";
+"LIFESTYLE.T4" = "어떻게 쓸까요?";
+"EVENING" = "저녁";
+"LIFESTYLE.T5" = "더 나은 수면을 위한 긴장 풀기";
+"LIFESTYLE.T6" = "수면 환경 최적화하기";
+"LIFESTYLE.T7" = "저녁이 다가오면 긴장을 풀고 편안한 밤잠을 위해 준비할 때입니다. Wethm을 사용하면 평온한 수면 분위기를 조성할 수 있습니다. 조명, 온도 및 주변 소리를 조절하여 평온한 분위기를 조성해 하루의 스트레스를 풀고 마음과 몸을 회복할 수 있도록 준비하세요.";
+"LIFESTYLE.T8" = "수면 준비";
+"LIFESTYLE.T9" = "개인 맞춤형 수면 루틴";
+"LIFESTYLE.T10" = "이상적인 나만의 수면 루틴 찾기";
+"LIFESTYLE.T11" = "스포츠 선수가 자신만의 루틴으로 최상의 성적을 내기 위해 자신만의 루틴을 만드는 것처럼 자신만의 수면 습관을 만들 수 있습니다. 당신의 수면 데이터를 기반으로 Wethm은 명상, 심호흡, 운동, 블루 스크린 피하기 등을 포함한 맞춤형 수면 습관을 제안합니다.";
+"LIFESTYLE.T12" = "수면 전";
+"LIFESTYLE.T13" = "불편함 없는 수면 경험";
+"LIFESTYLE.T14" = "방해없는 편안한 수면";
+"LIFESTYLE.T15" = "스마트 워치등 무언가를 착용하거나 실행하면서 생기는 불편함으로 인해 수면 정보를 수집하는 데 망설인 적이 있나요? Wethm Sleep Enhancer는 착용하거나 매일밤 기억하고 활성화할 필요가 없습니다.\n그냥 평소처럼 잠드세요.\n나머지는 Sleep Enhancer가 해결할게요.";
+"LIFESTYLE.T16" = "손쉬운 수면 유도";
+"LIFESTYLE.T17" = "혹시, 어떤날은 쉽게 잠이 안오시나요? Wethm 수면 유도 기능을 사용하면 더 쉽게 잠들 수 있습니다. Sleep Enhancer는 미세한 진동을 사용하여 당신의 수면을 돕습니다. 진동 강도, 패턴을 조절하고 이러한 기능은 Wethm 앱을 통해서 제어할 수 있습니다.";
+"LIFESTYLE.T18" = "수면 중";
+"LIFESTYLE.T19" = "정확한 수면 모니터링 및 분석";
+"LIFESTYLE.T20" = "내 수면들 이해하기";
+"LIFESTYLE.T21" = "이제 Wethm Sleep Enhancer로 평화롭고 깊은 수면을 즐기세요. 대량의 임상 연구 데이터를 기반으로 정확한 수면 모니터링 및 분석을 제공합니다. 수면 단계, 심박수, 호흡수, 기상 상태 및 기타 수면 지표등을 사용자가 잠든 동안 정확히 모니터링하여 매일, 매달, 매년 수면 보고서를 준비해 드립니다. 이를 통해 수면 품질에 대해 종합적으로 이해하고 당신의 건강을 향상시켜보세요.";
+"MORNING" = "아침";
+"LIFESTYLE.T22" = "상쾌한 알람";
+"LIFESTYLE.T23" = "활기찬 아침기상";
+"LIFESTYLE.T24" = "충분히 잤음에도 아침에 깨어나기 어려운가요? 시끄러운 알람이 불쾌했던 경험이 있나요? 이제 상쾌한 기상을 경험 할 때입니다. Wethm Sleep Enhancer는 상쾌한 하루 시작을 위해 사용자를 최적의 기상 상태로 유도하여 깨워드립니다. 상쾌함, 향상된 집중력, 생산성 및 전반적인 일상의 건강함을 갖추고 힘찬 아침을 되찾아보세요.";
+"LIFESTYLE.T25" = "새로운 하루의 시작";
+"LIFESTYLE.T26" = "개인 맞춤형 수면 분석";
+"LIFESTYLE.T27" = "아침마다 수면을 확인하세요";
+"LIFESTYLE.T28" = "매일 아침 Wethm 앱을 통해 개인 맞춤형 수면 분석을 받아보세요. 수면 품질을 평가하는 중요한 정보들도 확인해보세요. 맞춤형 조언을 통해 수면을 개선, 최적화할 수 있습니다. Wethm을 통해 향상된 집중력, 생산성 및 전반적으로 개선된 하루를 시작할 수 있습니다.";
+"LIFESTYLE.T29" = "더 나은 당신의 삶";
+"LIFESTYLE.T30" = "Better Night, Better Life\nwith Wethm";
+"LIFESTYLE.T31" = "고품질의 수면으로 더 나은 삶을 경험하세요.";
+"LIFESTYLE.T32" = "고품질 수면이 주는 안락함과 Wethm이 제공하는 정확한 정보를 통해 모든 순간을 최대한 활용해보세요. 일상 중 향상된 생산성, 더 좋은 기분, 개선된 인지 능력을 경험해보세요. Wethm은 고품질 수면 데이터를 제공함으로써 당신의 삶에 성공의 열쇠가 되겠습니다.";
+"LIFESTYLE.T33" = "당신의 소중한 공동체";
+"LIFESTYLE.T34" = "Wethm Harmony";
+"LIFESTYLE.T35" = "사랑하는 사람들의 건강을 보호하세요";
+"LIFESTYLE.T36" = "Wethm은 당신뿐만 아니라 당신이 사랑하는 이들을 보호하기 위해서도 헌신합니다. 여러분의 가족 및 사랑하는 이들과 함께 Wethm Harmony 플랜에 가입해보세요. Wethm Harmony는 구성원들 간의 수면 데이터 공유를 허용하고, 구성원들의 건강 상태를 모니터링하여 수면중 위험한 상황을 예방하고 활발한 생활을 유지하는데 도움이 됩니다.";
+
+"SETUP_GUIDE.LIFE" = "Sleep Enhancer 라이프스타일";
+"SETUP_GUIDE.LIFE.HINT" = "당신의 일상에 자연스럽게 녹아드는 Sleep Enhancer를 소개합니다.";
+"SETUP_GUIDE.BED.TITLE" = "침대에 설치하기";
+"SETUP_GUIDE.BED.HINT" = "침대의 크기에 따라 어떻게 배치하면 좋을지 안내해드립니다. 참조하여 패드를 귀하의 침대에 맞게 배치하세요.";
+"SETUP_GUIDE.BED.SIZE" = "매트리스 규격 : 치수 (가로x세로)\n위의 이미지를 터치하여 크기를 가늠해보세요.";
+"SMALL_SINGLE" = "작은 싱글";
+"TWIN" = "트윈";
+"QUEEN" = "퀸";
+"KING" = "킹";
+"SINGLE" = "혼자 잘 때";
+"COUPLE" = "둘이 잘 때";
+"SLEEP_REPORT" = "수면 보고서";
+"N.SLEEP_REPORT.DESC" = "주간/월간 수면 요약에 대한 알림";
+"MAIN_STATUS" = "기기 상태";
+"N.MAIN_STATUS.DESC" = "기기 오류 및 비정상 상태 알림";
+"N.NOTICE.DESC" = "서버 유지보수 및 공지사항 알림";
+"MARKETING_INFO" = "마케팅 정보";
+"N.MARKETING_INFO.DESC %@" = "%@ 이후로 수신 동의됨";
+
+
+// ALERTS
+"ALERT.LOGOUT" = "로그아웃 하시겠습니까?";
+"ALERT.DELETE_USER" = "계정 삭제하기";
+"ALERT.DELETE_ALARM" = "해당 알람을 삭제하시겠습니까?";
+"ALERT.BLUETOOTH" = "계속하려면 블루투스를 켜주세요.";
+"ALERT.SELECT_DAY" = "요일을 선택해주세요.";
+"ALERT.RESET_PASSWORD_SUCCESS" = "비밀번호가 성공적으로 재설정되었습니다.";
+"ALERT.REMOVE_MEMBER" = "구성원을 내보냅니다.";
+"ALERT.REMOVE_MEMBER1" = "구성원";
+"ALERT.REMOVE_MEMBER2" = "를 Harmony에서 내보내겠습니까?";
+"ALERT.REMOVE_MEMBER3" = "Harmony를 떠남";
+"ALERT.REMOVE_MEMBER4" = " 님이 Harmony에서 내보내졌습니다.";
+"ALERT.DELETE" = "Harmony를 해체하시겠습니까?";
+"ALERT.REMOVE_Y" = "Harmony에서 떠나려고 합니다.";
+"ALERT.ADD_ALARM" = "중복된 요일 선택";
+"ALERT.ADD_ALARM.ALERT_QUESTION" = "올바른 수면습관 위해 하루에 1개의 알람만 설정할 수 있습니다. 변경하시겠습니까?";
+"ALERT.ADD_ALARM.BUTTON" = "변경";
+"ALERT.DELETE_ALARM.TITLE" = "알람 삭제";
+"ALERT.JOIN.WARNING" = "현재 플랜을 구독중 입니다. 만약 다른 Harmony의 구성원이 될 경우 해당 Harmony를 떠나기 전까지 자신의 Harmony는 만들 수 없습니다.";
+"ALERT.JOIN.WARNING_Q" = "계속하시겠습니까?";
+"ALERT.JOIN.QUES" = "당신이 아끼는 사람들과 다양한 수면 데이터를 공유하고 싶으세요? 자신만의 Harmony를 새로 만들어보세요.";
+"ALERT.DEVICE.UNREG" = "기기를 등록 해제하시겠습니까?";
+"UNREGISTER" = "등록 해제";
+"ALERT.ENDSLEEP" = "지금, 분석을 시작하시겠습니까?";
+
+"PUSH.TITLE" = "Wethm 스마트 알람";
+"PUSH.BODY" = "안녕하세요, 곧 깨어날 시간입니다!";
+"GENERAL_ERROR.TITLE" = "정보를 불러오는 동안 문제가 발생했습니다. 새로 고침하여 다시 시도하세요.";
+
+// TOKENS
+"TOKEN.REGULAR" = "규칙적";
+"TOKEN.IRREGULAR" = "불규칙";
+"TOKEN.WELL_BALANCED" = "균형 잡힘";
+"TOKEN.POOR_BALANCE" = "불균형";
+"TOKEN.RESTORATIVE" = "회복적";
+"TOKEN.LOW_DEEP_SLEEP" = "숙면 부족";
+"TOKEN.TOO_MUCH_LS" = "선잠이 많음";
+"TOKEN.WOKEN_TOO_MUCH" = "자주 깸";
+"TOKEN.EFFICIENT" = "효율적";
+"TOKEN.INEFFICIENT" = "비효율적";
+"TOKEN.NOT_ENOUGH_REM" = "REM수면 부족";
+"TOKEN.FAST_TO_SLEEP" = "빨리 잠듦";
+"TOKEN.SLOW_TO_SLEEP" = "느리게 잠듦";
+"TOKEN.GOOD_WAKE_UP" = "좋은 기상";
+"TOKEN.BAD_WAKE_UP" = "나쁜 기상";
+"TOKEN.SUFFICIENT" = "충분함";
+"TOKEN.INSUFFICIENT" = "부족함";
+"TOKEN.NO_DATA" = "데이터 없음";
+"TOKEN.EXCELLENT" = "우수함";
+"TOKEN.NORMAL" = "정상";
+"TOKEN.SOME_DEBT" = "수면 부족";
+
+"TOKEN.BAD_SQ" = "수면의 질 나쁨";
+"TOKEN.NORMAL_SQ" = "수면의 질 보통";
+"TOKEN.GOOD_SQ" = "수면의 질 좋음";
+"TOKEN.NO_DATA_SQ" = "데이터 없음";
+"TOKEN.HIGH_LS" = "선잠 많음";
+"TOKEN.LOW_REM" = "REM 수면 부족";
+"TOKEN.BAD_DS" = "깊은 수면 부족";
+"TOKEN.NORMAL_SE" = "보통 효율";
+"TOKEN.BAD_SE" = "낮은 효율";
+"TOKEN.NORMAL_SL" = "수면대기 보통";
+"TOKEN.BAD_SL" = "수면대기 긺";
+"TOKEN.NORMAL_WS" = "보통 기상";
+"TOKEN.BAD_WS" = "나쁜 기상";
+"TOKEN.NORMAL_SD" = "수면시간 보통";
+"TOKEN.BAD_SD" = "수면시간 부족";
+"TOKEN.LOUD" = "시끄러움";
+"TOKEN.WARM" = "따뜻함";
+"TOKEN.HOT" = "더움";
+"TOKEN.COLD" = "추움";
+"TOKEN.DRY" = "건조함";
+"TOKEN.HUMID" = "습함";
+"TOKEN.NORMAL_HR" = "정상 심박수";
+"TOKEN.HIGH_HR" = "높은 심박수";
+"TOKEN.LOW_HR" = "낮은 심박수";
+"TOKEN.EXTREMELY_LOW_HR" = "매우 낮은 심박수";
+"TOKEN.NORMAL_BR" = "정상 호흡";
+"TOKEN.HIGH_BR" = "빠른 호흡";
+"TOKEN.LOW_BR" = "느린 호흡";
+"TOKEN.EXTREMELY_LOW_BR" = "매우 느린 호흡";
+"TOKEN.STRESSED" = "스트레스";
+"TOKEN.NORMAL_BIOSIGNAL" = "심박 및 호흡 정상";
+"TOKEN.MISSING_DATA" = "데이터 누락";
+"TOKEN.BAD_DEBT" = "심각한 수면 부족";
+"TOKEN.GOOD_BALANCE" = "균형이 잘 잡힘";
+"TOKEN.HR_JUMP" = "심박수 급상승";
+
+// reccomendations
+"REC.TITLE.CHECK_ENV" = "수면환경 확인하기";
+"REC.TITLE.MEDITATION" = "명상하기";
+"REC.TITLE.NO_TV" = "스크린 피하기";
+"REC.TITLE.REG_WAKETIME" = "규칙적인 기상";
+"REC.TITLE.REG_SLEEP" = "규칙적인 수면";
+"REC.TITLE.REMOVE_NOISE" = "소음 줄이기";
+"REC.TITLE.ADJUST_TEMP" = "온도 조절하기";
+"REC.TITLE.ADJUST_HUMIDITY" = "습도 조절하기";
+"REC.TITLE.EXERCISE" = "운동하기";
+"REC.TITLE.SEE_DOCTOR" = "의사와 상담하기";
+"REC.TITLE.RELAX" = "휴식 취하기";
+"REC.TITLE.NORMAL_BIOSIGNAL_RANGE" = "오! 건강함";
+"REC.TITLE.ADJUST_SENSOR" = "기기위치 조절하기";
+"REC.TITLE.SLEEP_MORE" = "좀 더 자기";
+"REC.TITLE.SLEEP_ALOT_MORE" = "충분히 자기";
+"REC.TITLE.LIFESTYLE" = "생활습관 개선필요";
+
+"REC.CHECK_ENV" = "수면 환경이 적절하지 않으면 수면이 어렵거나 불균형이 생길 수 있습니다. 방의 온도와 습도를 조절하여 수면을 개선하세요.";
+"REC.MEDITATION" = "안 좋은 수면은 여러 가지 형태로 나타날 수 있지만, 심호흡 운동이 도움 될 수 있습니다. 수면 전에 길고 천천한 심호흡 운동으로 몸을 편하게 이완해보세요.";
+"REC.NO_TV" = "과도한 스마트폰 사용 또는 TV 시청은 수면에 어려움을 줄 수 있으므로 수면 전에 되도록 스크린을 피해 빨리 잠들 수 있도록 해주세요.";
+"REC.REG_WAKETIME" = "불규칙한 시간에 일어나는 수면 습관은 불쾌한 기상을 유발하고 전반적인 수면 품질에 영향을 줄 수 있으므로 아침에 규칙적으로 일어날 시간을 정해보세요.";
+"REC.REG_SLEEP" = "규칙적인 시간에 잠든다면, 수면의 품질이 향상되며 보다 빨리 잠들고 보다 기분 좋게 일어날 수 있습니다.";
+"REC.REMOVE_NOISE" = "침실에 소음이 많은 경우, 소음의 원인을 찾아 제거하거나 제어하기 힘들다면 이어플러그를 착용함으로 더 나은 수면을 환경을 조성해야합니다.";
+"REC.ADJUST_TEMP" = "방의 온도가 너무 높거나 낮은 경우 수면의 질이 악화 될 수 있습니다. 이상적인 온도는 개인마다 다르지만 보고된 통계에 따르면 약23°C (73°F) 정도입니다.";
+"REC.ADJUST_HUMIDITY" = "습도는 휴식에 영향을 줄 수 있으므로 에어컨이나 가습기를 사용하여 30-50% 정도로 습도를 조절해 보세요.";
+"REC.EXERCISE" = "운동은 건강과 수면 품질을 향상시킬 수 있으며, 과음은 건강과 수면의 품질을 악화시킬 수 있습니다.";
+"REC.SEE_DOCTOR" = "매우 낮은 심박수 또는 호흡수는 긍정적일 수 있지만 경고 신호일 수도 있습니다. 이 부분에 대해 전문 의사와 상담을 통하여 당신의 건강 상태를 확인해보세요.";
+"REC.RELAX" = "Wethm이 심박수 또는 호흡수의 높은 변동성을 감지했습니다. 이는 스트레스로 인해 크게 변동되었을 수 있으며, 나쁜 수면 품질에 영향을 미쳤을 수 있으므로 수면 전에 마음을 편하게 하세요.";
+"REC.NORMAL_BIOSIGNAL_RANGE" = "심박수와 호흡수 모두 좋습니다 👏!";
+"REC.ADJUST_SENSOR" = "Wethm이 데이터를 감지하지 못했을 수 있습니다. 이는 기기의 센서 위치가 잘못되었을 수 있으니 기기를 가슴(심장) 위치에 다시 조절해주세요.";
+"REC.SLEEP_MORE" = "누적된 수면 부족은 당신의 건강에 매우 심각한 영향을 미칠 수 있습니다. 지속적으로 수면의 양을 늘려감으로 수면 부족을 줄여나가야 합니다.";
+"REC.SLEEP_ALOT_MORE" = "당신은 심각한 수면 부족을 겪고 있으며 이는 건강의 큰 문제가 있음을 의미합니다. 지금 이 문제를 해결하기 위해서 매일의 수면 일정을 바꾸는 것이 중요합니다.";
+"REC.LIFESTYLE" = "갑작스런 심박수의 상승은 당신의 생활에 어떠한 변화가 반영된 결과일 수 있습니다. 불규칙한 생활습관은 수면에 영향을 미칠 수 있으므로 주의하세요!";
+
+"REC.TITLE2.CHECK_ENV" = "수면환경\n확인하기";
+"REC.TITLE2.MEDITATION" = "명상하기";
+"REC.TITLE2.NO_TV" = "스크린\n피하기";
+"REC.TITLE2.REG_WAKETIME" = "규칙적인\n기상";
+"REC.TITLE2.REG_SLEEP" = "규칙적인\n수면";
+"REC.TITLE2.REMOVE_NOISE" = "소음\n줄이기";
+"REC.TITLE2.ADJUST_TEMP" = "온도\n조절하기";
+"REC.TITLE2.ADJUST_HUMIDITY" = "습도\n조절하기";
+"REC.TITLE2.EXERCISE" = "운동하기";
+"REC.TITLE2.SEE_DOCTOR" = "의사와\n상담하기";
+"REC.TITLE2.RELAX" = "휴식\n취하기";
+"REC.TITLE2.NORMAL_BIOSIGNAL_RANGE" = "오!\n건강함";
+"REC.TITLE2.ADJUST_SENSOR" = "기기위치\n조절하기";
+"REC.TITLE2.SLEEP_MORE" = "좀 더\n자기";
+"REC.TITLE2.SLEEP_ALOT_MORE" = "충분히\n자기";
+"REC.TITLE2.LIFESTYLE" = "생활습관\n개선필요";
+
+// FAQ
+"FAQ.Q1" = "Wethm 앱은 무료인가요?";
+"FAQ.T1" = "• Wethm 앱은 무료입니다.";
+"FAQ.A1" = "Wethm 앱은 Wethm Harmony 외에 무료로 사용할 수 있습니다. 그러나 대부분의 기능에는 Wethm 기기가 필요합니다. Wethm 기기를 구입할 수 있는 링크는 https://wethm.com에서 찾을 수 있습니다.";
+"FAQ.Q2" = "스마트 알람은 어떻게 작동하나요?";
+"FAQ.A2" = "인체가 수면에 들어갈 때 밤 동안 여러 번 수면 주기(또는 수면 단계)를 반복합니다. 가장 좋게 일어날 수 있는 시간은 얕은 수면 단계이고, 이 단계에 항상 일어나는 것은 통계적으로 어렵습니다. Wethm은 진동을 사용하여 사용자를 얕은 수면 단계로 이끌고 그 단계에서 스마트 알람을 제공함으로 사용자가 보다 상쾌한 기상을 경험하도록 돕습니다.";
+"FAQ.Q3" = "수면 유도는 어떻게 작동하나요?";
+"FAQ.A3" = "수면 유도 기능은 진동을 사용하여 신체와 마음을 편하게 만들어 줍니다. 마치 아이를 잠재울 때 토닥이는 것처럼, 기차에 탑승했을 때 기차의 움직임이 반복적이고 잔잔한 진동을 일으켜 잠이 오게 만드는 것처럼 이들과 유사한 원리로 작동합니다. 결과를 극대화하기 위해서 다른 모든 기기들을 끄고 수면 유도 진동에 집중해보세요.";
+"FAQ.Q4" = "Wethm Harmony란 무엇인가요?";
+"FAQ.T4" = "• Wethm Harmony는 Wethm의 수면 데이터 공유 서비스입니다.";
+"FAQ.A4" = "Harmony에 속한 구성원들이 어젯밤 어떻게 잤는지 서로의 수면 정보를 확인할 수 있습니다. Harmony 구성은 2인부터 가능하며, 2인의 구성은 무료로 제공되지만 수면시간을 비롯한 누적된 수면 부족/과잉, 수면 환경 등 자세한 수면 정보들은 제공되지 않습니다. 자세한 정보를 서로 공유하고 싶다면 wethm의 구독 서비스를 이용해 보세요. 혹시 더 많은 구성원들과 공유를 원하시나요? Wethm Harmony의 구독 플랜은 4인 또는 10인으로 당신의 Harmony를 확장할 수 있습니다. 당신의 Harmony에 적절한 플랜을 선택하여 서로가 서로의 밤을 지켜주세요.";
+"FAQ.Q5" = "수면 중에 어떤 정보를 추적하나요?";
+"FAQ.A5" = "Wethm은 전반적인 수면의 질, 최적의 수면 시간을 추정하기 위한 수면 부족, 심박수와 호흡수, 그리고 온도, 습도 및 소음 수준을 포함한 수면 환경을 추적합니다.";
+"FAQ.Q6" = "데이터를 보려면 스마트워치와 연결해야 하나요?";
+"FAQ.T6" = "• 아니요, 평소처럼 편히 잠들면 됩니다.";
+"FAQ.A6" = "Wethm Sleep Enhancer는 비착용형입니다. 수면을 모니터링하기 위해 스마트워치 또는 불필요한 기기 조작을 할 필요가 없으므로 매우 편리합니다.";
+"FAQ.Q7" = "Sleep Enhancer 기기(센서)는 어디에 놓아야 하나요?";
+"FAQ.A7" = "Sleep Enhancer 기기(센서)는 매트리스 커버 아래 가슴(심장) 아래에 배치합니다. Sleep Enhancer는 미끄럽지 않는 소재로 제작되어 수면 중에 사용자가 자유롭게 움직여도 최대한 처음 위치에 유지되도록 제작되었습니다.";
+"FAQ.Q8" = "Sleep Enhancer 기기(센서)는 앱에 어떻게 연결되나요?";
+"FAQ.A8" = "Sleep Enhancer 기기(센서)는 Wi-Fi 연결을 통해 직접 앱에 연결되며 스마트폰에 설치할 수 있습니다.";
+
+// INFO SHEETS
+"INFO.attributes.TEXT" =
+"• 어젯밤의 수면에 대한 추가적인 세부 정보를 여기에서 볼 수 있습니다.
+
+• 생체 신호가 정상 범위를 벗어나거나 수면 환경이 수면 품질에 적합하지 않은 경우 빨간색으로 표시됩니다.
+
+• 지난 7일간 누적된 수면 부족/과잉도 추적할 수 있습니다. 최적의 수면은 8시간 10분으로 설정되며 이를 초과하거나 미달한 부분이 부족 또는 과잉으로 누적됩니다.
+";
+
+"INFO.attributes.TITLE" = "속성";
+
+"INFO.harmony.TEXT" =
+"•My Harmony 페이지에는 Harmony에 속한 구성원들의 정보를 볼 수 있습니다.
+
+• 각 구성원의 기본적인 수면 정보들을 아래의 목록에서 확인할 수 있으며, 구독된 플랜이 있는 경우 각 구성원들을 선택하여 보다 자세한 수면 정보들을 확인할 수 있습니다.
+
+• 구성원들 중에 문제점이 감지된 경우, 가장 문제점이 많은 순으로 구성원의 프로필이 페이지 상단에 우선 노출됩니다. 구성원들의 프로필 우측 상단에는 발견된 수면 문제점의 갯수가 빨간색 뱃지로 표시됨으로 이 부분을 기억해주세요.
+
+• 구성원들은 일부 수면 정보가 노출되지 않길 원한다면 공유되지 않도록 선택할 수 있습니다.
+";
+
+"INFO.harmony.TITLE" = "My Harmony";
+
+"INFO.qrcode.TEXT" =
+"• wethm은 wethm Harmony에 구성원을 추가하기 위해 QR코드를 사용합니다.
+
+• 구성원이 되고자 하는 사용자는 메뉴 > 내 계정> 'Harmony 가입'을 통해 QR코드를 생성 할 수 있습니다. 생성된 QR은 이미지로 저장 또는 공유 할 수 있습니다.
+
+• Harmony의 관리자는 QR코드를 직접 촬영하거나 공유받은 QR 이미지를 업로드하여 구성원을 추가할 수 있습니다.
+";
+
+"INFO.qrcode.TITLE" = "QR 코드 스캔";
+
+"INFO.radar.TEXT" =
+"• 레이더 그래프는 수면의 질에 기여하는 5가지 요인들을 대표적으로 보여줍니다.
+
+• 깊은 수면: 깊은 수면은 숙면의 양을 나타냅니다. 총 수면 시간동안 깊은 수면, 숙면 시간이 8% 이상을 차지한다면 우수로 간주됩니다.
+
+• 효율성: 효율성은 침대에 누워 있는 시간동안 얼마나 잠을 취했는지를 나타냅니다. 침대에 누워있는 시간중 80%이상이 수면 시간에 해당한다면 우수로 간주됩니다.
+
+• 수면지연 시간: 수면 지연은 수면하려고 노력한 후 얼마나 빨리 잠이 들었는지를 나타냅니다. 그 시간이 5분 미만이라면 우수로 간주됩니다.
+
+• 기상 상태: 기상 상태는 수면에서 깨어났을 때의 수면 단계를 반영합니다. 기상 5분전 수면 단계의 80% 이상이 얕은 수면일 경우 우수로 간주됩니다.
+
+• 수면 시간: 수면 시간은 총 수면 시간을 나타냅니다. 그날 취한 수면이 총 7시간 30분 이상이라면 우수로 간주됩니다.
+";
+
+"INFO.radar.TITLE" = "수면 품질";
+
+"INFO.stages.TEXT" =
+"• 이 페이지에는 수면의 각 단계를 사용자가 보다 이해하기 쉽도록 다양한 시각화를 활용하여 정보를 제공합니다.
+- REM : 이때는 심박수, 호흡, 뇌 활동이 모두 증가합니다. 꿈을 꾸는 수면 단계이기 때문에 뇌가 활성화됩니다.
+- 얕은 수면: 체온이 떨어지고 뇌파가 느려지며, 호흡과 심박동수가 느려지면서 근육이 이완됩니다.
+- 깊은 수면: 깊은 단계의 수면은 낮 동안 소모된 신체기능의 회복 및 면역체계 강화와 관련됩니다.
+- 점선: 센서의 범위를 벗어난 경우 데이터가 누락될 수 있으며 점선으로 표시됩니다.
+
+• 첫번째 보여지는 원형의 그래프는 시간에 따른 수면 단계의 변화를 하루 24시간에 안에서 보여줍니다.
+
+• 두번째 보여지는 꺾인 선 형태의 그래프는 전통적인 힙노그램(Hypnogram)입니다. 이를 통해 수면 주기가 잠든 동안 어떻게 변화했는지 확인할 수 있습니다.
+
+• 세번째 보여지는 가로로 긴 바 형태의 그래프는 수면 단계들의 백분율을 나타냅니다. 총 수면 시간을 기준으로 각각의 수면 단계들의 분포를 확인하기에 용이합니다. 만약 특정 수면 단계가 정상 범위를 벗어나는 경우, 그 날은 수면의 품질이 나쁠 수 있습니다.
+
+• 마지막으로 보여지는 그래프는 위의 데이터를 토대로 학계에 보고된 전세계인들의 수면 단계 범위와 사용자의 데이터를 비교해 볼 수 있습니다.
+";
+
+"INFO.stages.TITLE" = "수면 단계";
+
+"INFO.vital.TEXT" =
+"• 수면중 생체신호는 수면 중에 Wethm이 측정한 심박수와 호흡수를 나타냅니다.
+
+• 생체신호가 정상 범위를 벗어나면 빨간색으로 표시됩니다.
+
+• 심박수의 정상 범위는 45에서 120 BPM입니다.
+
+• 호흡수의 정상 범위는 5에서 25 BPM입니다.
+";
+
+"INFO.vital.TITLE" = "수면중 생체신호";
+
+"INFO.env.TEXT" =
+"• Wethm은 수면 환경의 온도, 습도 및 소음을 측정합니다.
+
+• 이러한 요소는 질 좋은 수면 달성에 중요한 역할을 할 수 있습니다.
+
+• 최적의 수면을 위해 온도는 섭씨 16-22도, 습도는 30-50%, 소음은 40dB 미만이어야 합니다.
+
+• 환경 요인이 최적 범위를 벗어나는 경우 해당 부분은 빨간색으로 표시됩니다.
+";
+
+"INFO.env.TITLE" = "수면 환경";
+
+"INFO.alarm.TEXT" = "설정된 알람은 5분동안 울리며, 사용자에의해 설정된 강도까지 점차 강하게 울립니다.  만약 ‘다시 알림’ 기능을 켠 상태에서 알람 10분 뒤에도 사용자가 침대에 있다면, 사용자의 기상을 위해 진동 알람은 두번 더 울릴 예정입니다.";
+"INFO.alarm.TITLE" = "알람 설정";
+
+"INFO.suggestions.TEXT" = "사용자의 수면을 향상시키기 위한 제안들이 아이콘들로 요약되어 쉽게 전달합니다.";
+"INFO.suggestions.TITLE" = "숙면을 위한 제안";
+
+// main view greetings logic
+"GREETINGS_LOGIC.GOOD" = "좋음";
+"GREETINGS_LOGIC.BAD" = "나쁨";
+"GREETINGS_LOGIC.NORMAL" = "정상";
+"MAIN_VIEW.GREETINGS_LOGIC.ENOUGH" = "충분";
+"MAIN_VIEW.GREETINGS_LOGIC.NOT_ENOUGH" = "부족";
+"MAIN_VIEW.GREETINGS_LOGIC.SHORT" = "짧음";
+"MAIN_VIEW.GREETINGS_LOGIC.LONG" = "길음";
+
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_REGULAR" = "규칙적";
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_IRREGULAR" = "불규칙";
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_WELL_BALANCED" = "균형 잡힘";
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_POOR_BALANCE" = "불균형";
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_RESTORATIVE" = "회복적";
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_LOW_DEEP_SLEEP" = "숙면 부족";
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_TOO_MUCH_LS" = "선잠이 많음";
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_WOKEN_TOO_MUCH" = "자주 깸";
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_EFFICIENT" = "효율적";
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_INEFFICIENT" = "비효율적";
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_NOT_ENOUGH_REM" = "REM수면 부족";
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_FAST_TO_SLEEP" = "빨리 잠듦";
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_SLOW_TO_SLEEP" = "느리게 잠듦";
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_GOOD_WAKE_UP" = "좋은 기상";
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_BAD_WAKE_UP" = "나쁜 기상";
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_SUFFICIENT" = "충분함";
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_INSUFFICIENT" = "부족함";
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_NO_DATA" = "데이터 없음";
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_EXCELLENT" = "우수함";
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_NORMAL" = "정상";
+
+// Auth Errors
+"EMPTY_NAME" = "이름을 입력해주세요.";
+"EMPTY_EMAIL" = "이메일을 입력해주세요.";
+"INVALID_EMAIL" = "유효하지 않은 이메일 입니다.";
+"EMAIL_REGISTERED" = "이미 가입된 이메일 입니다.";
+"EMPTY_PASSWORD" = "비밀번호를 입력해주세요.";
+"PASSWORD_WARNING" = "적합하지 않는 비밀번호입니다. 비밀번호는 최소 8자리로 숫자, 대문자, 소문자, 특수문자를 포함해야합니다.";
+"PASSWORD_MISMATCH" = "입력하신 비밀번호가 일치하지 않습니다.";
+"EMPTY_CODE" = "이메일 인증 코드값이 없습니다.";
+"WRONG_CODE" = "잘못된 이메일 인증 코드입니다. 다시 시도해주세요.";
+"EXPIRED_CODE" = "만료된 이메일 인증 코드입니다. 다시 시도해주세요.";
+"WRONG_USERNAME_OR_PASSWORD" = "잘못된 사용자 이름 또는 패스워드 입니다.";
+"GENERAL_ERROR" = "에러가 발생했습니다.";
+
+"SETTINGS_HUMIDITY_DESC" = " ";
+"EDIT_ALARM" = "알람 편집";
+"REGISTRATION_SUCCESS" = "가입이 완료되었습니다.";
+"WEEK1" = "첫째주 ";
+"WEEK2" = "둘째주 ";
+"WEEK3" = "셋째주 ";
+"WEEK4" = "넷째주 ";
+"WEEK5" = "다섯째주 ";
+"WEEK6" = "여섯째주 ";
+"TODAY.MY.OPTIMIZING_WARNING" = "오늘부터 약 3일 동안 수면환경 최적화가 진행됩니다.";

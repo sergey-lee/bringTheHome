@@ -1,0 +1,61 @@
+{
+    "auth": {
+        "plugins": {
+            "awsCognitoAuthPlugin": {
+                "IdentityManager": {
+                    "Default": {}
+                },
+                "CredentialsProvider": {
+                    "CognitoIdentity": {
+                        "Default": {
+                            "PoolId": "ca-central-1:8bdba72b-aeff-4428-9d0d-9836a4d67658",
+                            "Region": "ca-central-1",
+                        }
+                    }
+                },
+                "CognitoUserPool": {
+                    "Default": {
+                        "PoolId": "ca-central-1_G9vGEsHRh",
+                        "AppClientId": "daafvtmfo835eno0vai3ih5g2",
+                        "AppClientSecret": "h53oltrr7586kdohtu32pupsju4dqsl8qboknquqv3e7fqvf8qc",
+                        "Region": "ca-central-1"
+                    }
+                },
+                "Auth": {
+                    "Default": {
+                        "authenticationFlowType": "USER_SRP_AUTH",
+                        "OAuth": {
+                            "WebDomain": "wethm.auth.ca-central-1.amazoncognito.com",
+                            "AppClientId": "daafvtmfo835eno0vai3ih5g2",
+                            "AppClientSecret": "h53oltrr7586kdohtu32pupsju4dqsl8qboknquqv3e7fqvf8qc",
+                            "SignInRedirectURI": "myapp://",
+                            "SignOutRedirectURI": "myapp://",
+                            "Scopes": [
+                                "email",
+                                "openid",
+                            ]
+                        },
+                    }
+                }
+            }
+        }
+    },
+    "api": {
+        "plugins": {
+            "awsAPIPlugin": {
+                "DeviceApi": {
+                    "endpointType": "REST",
+                    "endpoint": "https://dev.wethmfactory.com",
+                    "region": "ca-central-1",
+                    "authorizationType": "AMAZON_COGNITO_USER_POOLS"
+                },
+                "SoundApi": {
+                    "endpointType": "REST",
+                    "endpoint": "https:/frontend-api-prod.wethmfactory.com",
+                    "region": "ca-central-1",
+                    "authorizationType": "AMAZON_COGNITO_USER_POOLS"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,915 @@
+/*
+  Localizable.strings
+  mellowing-factory
+
+  Created by Florian Topf on 08.02.22.
+  Updated by 이준녕 on 13.07.22.
+  
+*/
+
+// Shared
+"EMAIL" = "メール";
+"PASSWORD" = "パスワード";
+"CONFIRM_PASSWORD" = "パスワードを確認する";
+"SIGNIN" = "サインイン";
+"SURNAME" = "姓";
+"NAME" = "名";
+"NEXT" = "次へ";
+"VERIFY" = "確認する";
+"EMAIL_ENTER" = "メールアドレスを入力してください";
+"CREATE_PASSWORD" = "パスワードを作成する";
+"SKIP" = "スキップ";
+"SKIP_C" = "スキップ";
+"STOP_C" = "ストップ";
+"TERMS_AND_CONDITIONS" = "利用規約";
+"PRIVACY_POLICY" = "プライバシーポリシー";
+"AGREE" = "同意する";
+"SIGNOUT" = "サインアウト";
+"SLOGAN" = "より素敵な夜で、よりより生活を";
+"BIRTH_YEAR" = "生年";
+"WEIGHT" = "体重";
+"KG" = "kg";
+"HEIGHT" = "身長";
+"GENDER" = "性別";
+"MALE" = "男性";
+"FEMALE" = "女性";
+"OTHER" = "その他";
+"CONFIRM" = "確認する";
+"NO" = "いいえ";
+"YES" = "はい";
+"PURCHASE" = "購入する";
+"CANCEL" = "キャンセル";
+"CONNECT" = "接続する";
+"DEBT" = "負債";
+"SURPLUS" = "余剰";
+"OPTIMAL" = "最適";
+"OPTIMAL_ZONE" = "最適ゾーン";
+"WARNING" = "忠告";
+"SUBOPTIMAL" = "2番目に最適";
+"REMOVE" = "削除する";
+"DONE" = "完了";
+"DELETE" = "削除する";
+"MEMBERS" = "会員";
+"SUBSCRIBE" = "登録する";
+"BACK" = "戻る";
+"HEART_RATE" = "心拍数";
+"BREATHING_RATE" = "呼吸数";
+"SLEEP_QUALITY" = "睡眠の質";
+"CUMULATIVE" = "累積";
+"TEMPERATURE" = "温度";
+"HUMIDITY" = "湿度";
+"NOISE" = "音";
+"ME_SUFIX" = "私";
+"DASHBOARD" = "ダッシュボード";
+"ADMIN" = "アドミン";
+"HARMONY" = "Harmony"; //"HARMONY" = "ハーモニー";
+"OK" = "Ok";
+"ALBUM" = "アルバム";
+"VIEW" = "表示";
+"READY" = "準備";
+"LIGHT_SLEEP" = "浅い睡眠";
+"DEEP_SLEEP" = "深い睡眠";
+"EFFICIENCY" = "効率";
+"LATENCY" = "入眠時間";
+"WAKEUP" = "目覚め";
+"SLEEP_LATENCY" = "睡眠潜時";
+"DURATION" = "睡眠時間";
+"TODAY" = "今日";
+"MON" = "月";
+"TUE" = "火";
+"WED" = "水";
+"THU" = "木";
+"FRI" = "金";
+"SAT" = "土";
+"SUN" = "日";
+"Mon" = "月";
+"Tue" = "火";
+"Wed" = "水";
+"Thu" = "木";
+"Fri" = "金";
+"Sat" = "土";
+"Sun" = "日";
+"Sun.SHORT" = "日";
+"Mon.SHORT" = "月";
+"Tue.SHORT" = "火";
+"Wed.SHORT" = "水";
+"Thu.SHORT" = "木";
+"Fri.SHORT" = "金";
+"Sat.SHORT" = "土";
+"SUGGESTIONS" = "おすすめ";
+"MEDITATION" = "瞑想";
+"DEEP_BREATHING" = "深呼吸";
+"SLEEP_EARLY" = "早寝";
+"AVOID_SCREENS" = "画面から離れる";
+"BAD" = "悪い";
+"NORMAL" = "普通";
+"GOOD" = "良い";
+"SLOW" = "遅い";
+"FAST" = "早い";
+"AWAKE" = "起きている";
+"REM" = "レム睡眠";
+"SLEEP_STAGES" = "睡眠段階";
+"UNDETECTED" = "未検出";
+"BENCHMARK" = "標準";
+"HOURS" = " 時間";
+"MIN" = "分";
+"MINUTES" = " 分";
+"SECONDS" = " 秒";
+"ON_BED" = "ベッドの中";
+"OUT_BED" = "ベッドの外";
+"SLEEP_VITAL" = "睡眠バイタル";
+"SLEEP_ENV" = "睡眠環境";
+"AVERAGE" = "平均";
+"COACH_COMMENT" = "コーチコメント";
+"SLEEP_TREND" = "睡眠傾向";
+"CUMULATIVE_SLEEP" = "累積睡眠";
+"ENVIRONMENT" = "環境";
+"ON" = "オン";
+"OFF" = "オフ";
+"STOP" = "ストップ";
+"START" = "スタート";
+"START_SLEEP" = "始まり";
+"END" = "終わり";
+"PERSONALIZED" = "個人用";
+"DEFAULT" = "デフォルト";
+"MANUAL" = "手動";
+"AUTO" = "自動";
+"SMART_ALARM" = "スマートアラーム";
+"ALARM" = "アラーム";
+"SAVE" = "保存";
+"TIME" = "時間";
+"EDIT" = "修正する";
+"PATTERNS" = "パターン";
+"SNOOZE" = "スヌーズ";
+"NOTICES" = "通知";
+"NOTICE" = "通知";
+"SETTINGS" = "設定";
+"ABOUT" = "情報";
+"LOGOUT" = "ログアウト";
+"JOIN" = "参加する";
+"CREATE" = "作る";
+"MY_PROFILE" = "プロフィール";
+"FEATURES" = "特徴";
+"CONGRATULATIONS" = "おめでとうございます！";
+"LANGUAGE" = "言語";
+"UNIT" = "単位";
+"SLEEP_ENHANCER" = "Sleep Enhancer";
+"PROBLEM" = "問題あり";
+"FINISH" = "終わる";
+"SORTING" = "ソート";
+"NEWEST" = "最新";
+"OLDEST" = "過去";
+"TERMS_OF_SERVICE" = "サービス利用規約";
+"SHOW" = "表示する";
+"HIDE" = "隠す";
+"CLOSE" = "閉じる";
+"SLEEP" = "寝る";
+"SLEEP_C" = "寝る";
+"READ_MORE" = "Read more";
+"WELCOME" = "ようこそ";
+"WEEKDAYS" = "平日";
+"WEEKENDS" = "週末";
+"AM" = "午前";
+"PM" = "午後";
+"ADD" = "追加する";
+
+// Bottom Menu
+"BOTTOM.TODAY" = "TODAY";
+"BOTTOM.REPORT" = "REPORT";
+"BOTTOM.ENHANCE" = "ENHANCE";
+
+// Sign in
+"REMEMBER_ME" = "記憶する";
+"AUTO_SIGN_IN" = "自動サインイン";
+"FORGOT_PASSWORD" = "パスワードを忘れた";
+"THIRD_PARTY" = "別の方法でサインインする";
+"SIGNUP_Q" = "アカウントを持っていない";
+"SIGNUP_B" = "新規登録する";
+
+// Sign up
+"SIGNUP.WELCOME" = "ようこそ";
+"SIGNUP.SUBTITLE" = "アカウントを登録し朝の生活を改善しよう";
+"SIGNUP.SURNAME_E" = "姓を入力してください";
+"SIGNUP.NAME_E" = "名を入力してください";
+
+"SIGNUP.EMAIL_V" = "メールアドレスに認証コードが送信されます。";
+"SIGNUP.TITLE" = "アカウントを作成する";
+"SIGNUP.PASSWORD_SET" = "パスワードを作成してください。次にパスワードを設定してください。";
+"SIGNUP.PASSWORD_E" = "新しいパスワードを入力してください";
+"SIGNUP.PASSWORD_C" = "パスワードを確認する";
+"SIGNUP.PASSWORD_DESC" = "セキュリティ保護のため、数字・大文字・小文字・記号を含む8-16文字のパスワードを作成してください。";
+"SIGNUP.SYMBOLS_COUNT" = "8~16文字";
+"SIGNUP.SYMBOLS_CAPITAL" = "大文字";
+"SIGNUP.SYMBOLS_LOWERCASE" = "小文字";
+"SIGNUP.NUMBERS" = "数字";
+"SIGNUP.SPECIAL" = "記号";
+
+// Verification
+"VERIFICATION.TITLE" = "認証";
+"VERIFICATION.TITLE2" = "メールで認証コードをご確認ください。";
+"VERIFICATION.CODE_R" = "コードを再送する";
+
+// Forgot Password
+"FORGOT_P.TITLE" = "パスワードをリセットする";
+"FORGOT_P.TITLE2" = "パスワードをリセットしますか？";
+"FORGOT_P.TITLE2.2" = "に登録する際に使用したメールアドレスを入力してください。";
+"FORGOT_P.HINT" = "ご登録のメールアドレスを入力してください。確認コードがメールアドレスに送られます。";
+"FORGOT_P.TITLE3" = "パスワードを作成してください。次にパスワードを設定してください。";
+"FORGOT_P.HINT2" = "セキュリティ保護のため、数字・大文字・小文字・記号を含む8-16文字のパスワードを作成してください。";
+"FORGOT_P.TITLE4" = "確認コードをメールで確認してください。";
+"FORGOT_P.UPDATE" = "パスワードを更新する";
+
+// App Onboarding
+"EFFORTLESS" = "簡単な睡眠誘導";
+"GAIN_INSIGHTS" = "自分の睡眠";
+"INTO_YOUR_SLEEP" = "について知る";
+"APP_ONB.TITLE3" = "活気ある目覚め";
+"APP_ONB.DESC1" = "なかなか眠りにつけずにお困りですか？Wethm™のスリープエンハンサーが自然に眠りにつけるようサポートしてくれます。";
+"APP_ONB.DESC2" = "睡眠段階、心拍数、呼吸、目覚めなどを分析した詳細な睡眠レポートを受け取ります。";
+"APP_ONB.DESC3" = " Wethm™のスリープエンハンサーを使えば、爽快な朝を迎えるために最適なタイミングで目を覚ますことができます。";
+
+// TermsView
+"TERMS.HINT" = "下記のリンクをタップしてサービスポリシーをご覧ください。";
+"TERMS.DESC" = "四角内を確認し下記の条件を読み同意したことを承認する。";
+"TERMS.ALL" = "すべて同意する。";
+"TERMS.PRIVACY" = "Wethm プライバシーポリシー";
+"TERMS.DATA" = "ユーザーデータポリシー";
+"TERMS.DATA_DESC" = "カスタマイズサービスを希望する。";
+"TERMS.MARKETING" = "マーケティングポリシー";
+"TERMS.MARKETING_DESC" = "マーケティング通知を受け取りたい。";
+
+// UserOnboarding
+"USER_ONB.HINT" = "サービス向上のため、ご自身の健康状態を詳しくお知らせください。";
+"USER_ONB.DESC" = "追加情報を提供することで、Wethmがより良い統計や提案を行えるようになります。Wethmはお客様の情報の保護に努めており、お客様の情報がマーケティング目的で使用されることはありません。";
+
+// DeviceOnboarding
+"DEVCICE_ONB.TITLE" = "今すぐご使用の";
+"DEVCICE_ONB.TITLE0" = "用デバイスを登録しますか。";
+"DEVCICE_ONB.SUBTITLE" = "アプリ機能の多くを使用するには接続デバイスが必要です。";
+"DEVCICE_ONB.HINT" = "一度に1台のみ接続してください。登録処理は、お近くのデバイスが1台のみ接続されていることを想定しています。";
+"DEVCICE_ONB.TITLE2" = "**スリープエンハンサー**があります！登録をお手伝いします。";
+"DEVCICE_ONB.TITLE3" = " **スリープエンハンサー**を開封し、電源を接続してください。 デバイスのライトがしっかりと点灯していることをご確認ください。";
+"DEVCICE_ONB.HINT2" = "電源を入れてから起動するまでに**5～15秒**程度かかる場合があります。";
+"DEVCICE_ONB.TITLE4" = " **スリープエンハンサー**をマットレスの上に直接置き、心臓の高さに合わせ、マットレスカバーで覆ってください。";
+"DEVCICE_ONB.HINT3" = "使用中に位置がずれる可能性があるため、マットレスカバーの下に置くことをお勧めします。";
+"DEVCICE_ONB.TITLE5" = "次に、スマートフォンで以下の項目を確認してください。❶Bluetoothがオンになっている。❷インターネットが接続されている。";
+"DEVCICE_ONB.HINT4" = "作業を進める前に、デバイスのランプを点灯させる必要があります。";
+"DEVCICE_ONB.TITLE6" = " **スリープエンハンサー**のランプが点灯していることを確認してください。";
+"DEVCICE_ONB.HINT5" = "「確認する」を押した後、**スリープエンハンサー**のライトはゆっくり点滅します。";
+"DEVCICE_ONB.TITLE7" = "ご使用の";
+"DEVCICE_ONB.TITLE7.0" = "デバイスを検索しています。少々お待ちください…";
+"DEVCICE_ONB.TITLE7.1" = "Bluetoothに接続すると、デバイスのライトがゆっくり点滅します。";
+"DEVCICE_ONB.TITLE8" = " 2.4GHzのWi-Fiネットワークが見つかりません。Wi-Fiルーターが2.4GHzのネットワークをサポートしていることを確認してください。";
+"DEVCICE_ONB.TITLE9" = " Wi-Fiネットワークを選択してください。**スリープエンハンサー**を使用するには、2.4GHzのWi-Fi接続が必要です。";
+"DEVCICE_ONB.WIFI" = "Wi-Fiを選択する";
+"DEVCICE_ONB.PASS" = "パスワードを入力する";
+"DEVCICE_ONB.HINT6" = "ご希望のネットワークがリストにない場合は、Wi-Fiルーターにデバイスを近づけて認証処理を行ってください。";
+"DEVCICE_ONB.TRY" = "もう一度試す";
+"DEVCICE_ONB.SSID" = "Wi-Fi名を直接入力してください";
+"DEVCICE_ONB.SHOW_LIST" = "Wi-Fiリストを表示";
+"DEVCICE_ONB.MANUAL_WIFI" = "Wi-Fi名を直接入力してください";
+"DEVCICE_ONB.SEARCH" = "もう一度Wi-Fiを探す";
+"DEVCICE_ONB.TITLE10" = "あなたのデバイスは接続されました。しばらくお待ちください。";
+"DEVCICE_ONB.TITLE10-1" = " デバイスが再起動中です。しばらくお待ちください。";
+"DEVCICE_ONB.HINT7" = "デバイス上のライトが早く点滅しているはずです。";
+"DEVCICE_ONB.HINT7-1" = "デバイスのライトはゆっくり点滅しているはずです。";
+"DEVCICE_ONB.TITLE11" = "デバイスに接続できません";
+"DEVCICE_ONB.TITLE12" = "現在サーバーに接続できません。";
+"DEVCICE_ONB.TEXT1" = " **スリープエンハンサー**のライトが点灯していることを確認してください。";
+"DEVCICE_ONB.TEXT2" = "ガイドラインに注意して再度お試しください。";
+"DEVCICE_ONB.HINT8" = "それでも問題が解決しない場合は、デバイスを再起動してみてください。カスタマーサポートセンターにフィードバックをご提供ください。";
+"DEVCICE_ONB.ERROR1" = "不正確なWi-Fiまたはパスワードです:\n";
+"DEVCICE_ONB.TEXT3" = "リトライしてください";
+"DEVCICE_ONB.HINT9" = "問題が解決されない場合はカスタマーセンターへフィードバックを送信してください。";
+"DEVCICE_ONB.TITLE13" = "登録が完了しました！ **スリープエンハンサー**が接続されました。";
+"DEVCICE_ONB.TEXT4" = " **スリープエンハンサー**があなたの睡眠を正確に測定しているかどうかを確認しますか？";
+"DEVCICE_ONB.TEXT5" = "生体信号";
+"DEVCICE_ONB.TEXT5.2" = " ";
+"DEVCICE_ONB.TITLE13.1" = "生体信号を測定する前に、デバイスのセットアッ プと測定準備が完了していることをご確認ください。";
+"DEVCICE_ONB.HINT9.1" = "測定の準備が完了しました。 淡い青色のライトが薄 暗く点灯します。";
+"DEVCICE_ONB.TITLE14" = "ベッドに横になり「‘」を押してください。 '";
+"DEVCICE_ONB.TITLE15" = "' 下のボタンを押してください。センサーが心臓の位置の真下にあることを確認してください。";
+"DEVCICE_ONB.HINT10" = "測定には約1分かかります。";
+"DEVCICE_ONB.TITLE16" = " **スリープエンハンサー**があなたの生体信号を測定しています。しばらくお待ちください…";
+"DEVCICE_ONB.TITLE17" = "生体信号が見つかりません";
+"DEVCICE_ONB.TEXT6" = "❶デバイスが胸部と腹部の間に置かれていることを確認してください。センサーを腹部の方向に動かすと精度が向上します。 ❷デバイスの上にある層の厚みを確認してください。厚いカバーやマットレストッパーは適切な生体信号測定の妨げになります。";
+"DEVCICE_ONB.TITLE19" = "あなたのデバイスは正しくセットアップされ、睡眠を分析する準備ができています。";
+"DEVCICE_ONB.TITLE20" = " **スリープエンハンサー**は心地よい振動であなたの睡眠をサポートします。";
+"DEVCICE_ONB.TEXT7" = "この機能を最適化するには";
+"DEVCICE_ONB.TEXT8" = "強度";
+"DEVCICE_ONB.TEXT9" = " テストする";
+"DEVCICE_ONB.TITLE21" = " **スリープエンハンサー**は、心臓再同期療法と呼ばれる原理を利用して睡眠を誘導します。";
+"DEVCICE_ONB.TEXT10" = "強度の設定方法は簡単です。";
+"DEVCICE_ONB.TEXT11" = "➊ スタートボタンを押すと、強い振動から緩やかな振動へと順番に振動します。";
+"DEVCICE_ONB.TEXT12" = "❷過度な振動は誘導効果を弱め、睡眠を妨げる可能性があるため、適切なタイミングで停止することが重要です。";
+"DEVCICE_ONB.TITLE22" = " **スリープエンハンサー**の上に横になったら、「'」を押してください。";
+"DEVCICE_ONB.TITLE23" = "「'」のボタンは下記です。.";
+"DEVCICE_ONB.HINT11" = "最良の結果を得るためには、じっとして振動に十分注意を払うことが必要です。";
+"DEVCICE_ONB.TITLE24" = "現在の振動の強度を保存しますか？";
+"DEVCICE_ONB.TITLE25" = "Press 振動がほとんど感じられなくなったら、停止ボタンを押します。";
+"DEVCICE_ONB.STOP" = "停止";
+"DEVCICE_ONB.SAVE" = "保存";
+"DEVCICE_ONB.TITLE26" = "最高の朝を迎えるために、";
+"DEVCICE_ONB.TITLE26.1" = "のアラームを使ってみてください。";
+"DEVCICE_ONB.TEXT13" = "スリープエンハンサーは、眠りが浅くなる前に、あなたを軽い眠りへと導きます。";
+"DEVCICE_ONB.TEXT14" = "そっと目を覚ます";
+"DEVCICE_ONB.TEXT15" = "起床時に爽快感を感じることができます。";
+"DEVCICE_ONB.TITLE27" = "以下のように、デバイスのLEDライトが安定した状態で点灯しない場合、電源ケーブルを抜いて再度接続してください。";
+"DEVCICE_ONB.TITLE28" = "デバイスが更新中です。約5分ほどかかる予定です。";
+"DEVCICE_ONB.TITLE29" = "更新中にデバイスをオフにしたり、電源を抜いたりしないでください。";
+
+// Advert
+"ADV.T1" = "睡眠を誘発する振動";
+"ADV.T2" = "睡眠とバイタルサインのモニタリング";
+"ADV.T3" = "スマート振動アラーム";
+"ADV.T4" = "";
+"ADV.T4.TITLE" = "SLEEP";
+"ADV.T4.TITLE2" = "ENHANCER";
+
+// TodayScreen
+"MY_SLEEP" = "My sleep";
+"MY_HARMONY" = "My Harmony";
+"TODAY.REMOVED1" = "あなたは次の場所から移動しました。";
+"TODAY.REMOVED2" = "の**Harmony**";
+"TODAY.HINT1" = "他のメンバーと睡眠情報を共有するために、Harmony に参加したり、独自のHarmony を作りましょう。";
+"TODAY.ATTRIBUTES" = "属性";
+"TODAY.DEBT_SUR" = "累積睡眠/余剰黒字";
+"TODAY.LAST7" = "7日間続ける";
+"TODAY.ALL_MEMBERS" = "すべての登録者";
+"TODAY.ADD_MEMBER" = "登録者を追加する";
+"TODAY.REMOVE_MEMBER" = "登録者を削除する";
+"TODAY.DISBAND" = "Harmony を解散させる";
+"TODAY.LEAVE" = "Harmony から抜ける";
+"TODAY.MESSAGE1" = "解散を選択した場合、すべてのメンバーが解散する。";
+"TODAY.MESSAGE2" = "Harmony を抜けると他のメンバーとの睡眠データの共有がなくなります。";
+"TODAY.MANAGE" = "Harmony を管理する";
+"TODAY.ADD.TITLE" = "あなたの大切な人をWethm Harmony メンバーに追加しましょう。";
+"TODAY.ADD.HINT" = "またHarmony 内で睡眠データを共有することで、安心してぐっすり眠ることができます。";
+"TODAY.LIMIT.TITLE" = "グループに参加者を追加するには、Wethm Harmony にご登録いただく必要があります。";
+"WETHM_HARMONY" = "Wethm Harmony ";
+"ISSUES" = "問題";
+"CHOOSE_IMAGE" = "画像を選択する";
+"DELETE_IMAGE" = "画像を削除する";
+"TODAY.DETAILED_VIEW" = "詳細表示";
+"TODAY.DETAILED_VIEW.HINT" = "メンバーの昨夜の睡眠に関する詳細な情報を見ることができます。睡眠の質、持続時間、異常を示す生体信号などの情報を確認することができます。";
+"TODAY.QR_WRONG" = "誤ったQRコードです！";
+"TODAY.QR_EXP" = "期限切れのQRコードです！ ";
+"TODAY.QR_HINT" = " QRコードを読み取るか、アルバムからQR画像を選択してください。";
+"TODAY.QR_HINT2" = "相手のQRコードを確認する方法 相手のアプリ内メニュー＞マイアカウント＞参加する";
+"TODAY.QR_TITLE" = "QRコードをスキャンする";
+"TODAY.ADD.Q" = "Harmony を追加しますか？ ";
+"TODAY.ADD.SUCESS_HINT" = "睡眠データを共有できます。";
+"TODAY.ADD.SUCESS_REMAIN" = " 残数";
+"TODAY.ADD.VIEW.HINT" = " ユーザーをHarmony メンバーに追加します。追加後も、「私のHarmony 」ページでメンバーを編集できます。";
+"TODAY.TIME_N_TOKENS.TITLE" = "睡眠の検出";
+"TODAY.TIME_N_TOKENS.INFO" = "センサーの位置がずれている可能性があります。再度位置を調整し、接続されていることを確認してください。";
+"TODAY.TIME_N_TOKENS.TITLE2" = "Wethmへようこそ";
+"TODAY.TIME_N_TOKENS.INFO2" = "デバイスが接続されました！明日最初の睡眠データをお届けします。";
+"TODAY.TIME_N_TOKENS.INFO3" = "少なくとも2時間の睡眠が分析には必要です。できるだけ長く眠るようにしてください。";
+"TODAY.TIME_N_TOKENS.INFO4" = "睡眠を分析中ですので、10分後にご確認ください。";
+"TOO_SHORT" = "短すぎる";
+"ANALYZING" = "分析中…";
+"TOTAL_DURATION" = "合計期間";
+"TODAY.VIT_N_ENV" = "活力と環境";
+"TODAY.LAST_SLEEP" = "最後の睡眠";
+"TIME.MERIDIAN.AM" = "午前 ";
+"TIME.MERIDIAN.PM" = "午後 ";
+"END_SLEEP" = "睡眠を終える";
+
+// ReportScreen
+"REPORT_OF" = "の報告";
+"REPORT.PER_DAY" = " / 日";
+"REPORT.AVG_Q" = "平均値";
+"REPORT.OOPS" = "OOPS!";
+"REPORT.COACH" = "COACH";
+"REPORT.ERROR" = "ERROR";
+"REPORT.LAST_UPDATE" = "最終更新日、";
+"REPORT.ERROR_TEXT" = "何か間違っています。";
+"REPORT.ERROR_TEXT2" = "データの取得中にエラーが発生しました。ページを下に引っ張って更新してください。";
+"REPORT.NO_DATA" = "表示するデータがありません。";
+"REPORT.NO_DATA_TEXT" = "前日の睡眠データがありません。ご使用のデバイスが合っているかを確認し、正しく接続されていることを確認してください。";
+"REPORT.WELCOME" = "ようこそ";
+"REPORT.WELCOME_TEXT" = "レポートを作成する前に、まず睡眠データを取得する必要があります！";
+"REPORT.TOTAL_DEBT" = "睡眠時間の合計";
+"REPORT.TOTAL_SURPLUS" = "余剰時間の合計";
+"REPORT.AVERAGE_ON_BED" = "ベッド上の平均";
+"REPORT.AVERAGE_OUT_BED" = "ベッド外の平均";
+"REPORT.VIT_AND_ENV.HINT" = "上記は、今週のあなたの睡眠時間をまとめたものです。グラフの横軸は、あなたの個人的な最適値を表し、この範囲より下または上の棒は、睡眠負債または余剰として表示されます。";
+"REPORT.TODAYS" = "今日";
+"REPORT.NOT_ENOUGH" = "睡眠時間が不十分";
+"REPORT.NOT_ENOUGH.HINT" = "寝返りが多かったり、頻繁に目が覚めたりする場合は、ストレスが原因かもしれません。寝る前に瞑想や深呼吸で心を落ち着かせましょう。";
+"REPORT.DETAILED_INFO" = "詳細情報";
+"REPORT.DETAILED_INFO.TITLE" = "詳細情報";
+"REPORT.STAGES.CUMULATIVE" = "段階 % (累積)";
+"REPORT.30DAY" = "30日間の平均";
+"REPORT.GLOBAL" = "世界平均との比較";
+"REPORT.TIME_SPENT" = "各段階における睡眠時間";
+"TYPICAL_RANGE" = "標準的な範囲";
+"REPORT.BR_M" = "呼吸/分";
+"REPORT.BPM" = " (bpm)";
+"REPORT.FAH" = " (°F)";
+"REPORT.PER" = " (%)";
+"REPORT.DB" = " (dB)";
+"REPORT.B_M" = "回/ 分";
+"REPORT.TIME" = "(時間)";
+"REPORT.MONTH" = "(月)";
+"REPORT.DAY" = "(曜日)";
+"REPORT.BY_HOUR" = "睡眠時間";
+"REPORT.BY_DAY.Y" = "年間日数";
+"REPORT.BY_DAY.W" = "週日数";
+"REPORT.AVERAGE_HR" = "平均時間 ";
+"REPORT.AVERAGE_BR" = "平均呼吸数";
+
+// EnhanceScreen
+"ENH.DESC2" = "スクリーンを避け、最小限の動きにとどめ、振動に耳を傾けてください。";
+"ENH.DESC1" = "微小な振動で体をリラックスさせ、アルファ波を増加させることで、眠りにつきやすくします。";
+"SLEEP_INDUCTION" = "Sleep Induction";
+"SMART_ACTIVATION" = "スマートアクティベーション";
+"BUTTON_ACTIVATION" = "ボタンアクティベーション";
+"VIBRATION" = "振動";
+"VIBRATION_INTENSITY" = "振動の激しさ";
+"VIBRATION_FREQUENCY" = "振動の頻度";
+"SLEEP_INDUCTION1" = "Sleep";
+"SLEEP_INDUCTION2" = "Induction";
+"ENH.AUTO.DESC" = "午後9時以降、または通常の睡眠時間帯に横になると、睡眠誘導機能が自動的にオンになります。この時間はWethmを使用するたびに更新されます。";
+"ENH.BTN.DESC" = " Wethmのスリープエンハンサーのボタンを押して、睡眠誘導を作動させます。ボタンをもう一度押すと、睡眠誘導の振動がオフになります。";
+"ENH.VIBRO.DESC" = "睡眠誘導の強度は、ほとんど感じない程度に調整してください。これを試すには、横になって手動で強さを調整するか、オート機能を使ってテストモードにします。";
+"ENH.VIBRO.DESC2" = "睡眠誘導のデフォルト周波数は、たいていの人を睡眠に誘導するように設定されています。個別設定オプションは、基準心拍数に基づいて周波数を変更し、あなたにとってより効果的なものになる可能性があります。";
+"DAYS_ACTIVE" = "稼働日数";
+"ENH.ALARM.DESC" = "起床時間を設定してください。最適な状態でゆっくりと目覚めます。";
+"ENH.ALARM.DESC2" = " wethmは微細な振動で軽い睡眠状態に導き、その後目覚めさせます。";
+"ENH.ADD_ALARM" = "アラームを追加する";
+"ENH.ALARM.DESC3" = " Wethmは、設定したアラーム時刻に最適な状態で目覚められるよう、優しい振動で起こします。";
+"ENH.ALARM.HINT" = "アラーム設定の曜日を選択する";
+"ENH.ALARM.HINT2" = " wethmは、あなたを最適な目覚めの状態に優しく導き、設定したパターンで振動して起こしてくれます。";
+"ENH.CURRENT_TIME" = "現在時刻";
+"ENH.ALARM_TIME" = "アラーム時刻";
+"ENH.ALARM_SETTINGS" = "アラームの設定";
+"ENH.PATTERNS.HINT" = "パターンを試すには、横になって名前をタップします。クリックしたパターンでデバイスが5秒間振動します。";
+"RAILWAY" = "Railway (Default)";
+"ROCK-A-BYE" = "Rock-a-Bye Baby";
+"WAVE" = "Wave";
+
+"SIDE.MY_ACC" = "マイアカウント";
+"SIDE.MY_ACC.HINT1" = "特定の健康関連データを共有は、「Wethm」による睡眠統計や推奨事項の提供に役立ちます。「Wethm」は個人情報の保護に努めています。以下";
+"SIDE.MY_ACC.HINT2" = "Wethmのプライバシーポリシー";
+"ACCOUNT_SETTINGS" = "アカウント設定";
+"RESET_PASSWORD" = "パスワードをリセットする";
+"DELETE_ACCOUNT" = "アカウントを削除する";
+"HARMONY_PLAN" = "Harmony プラン";
+"SIDE.HARMONY_ADMIN %@" = "%@の Harmony";
+"SIDE.HARMONY.WARNING1" = "あなたはまだ**Wethm Harmony**グループに入っていません。";
+"SIDE.QR.EXP" = "このQRコードは期限切れです。";
+"SIDE.QR.JOIN" = "他の人のHarmony に参加しますか？ ";
+"SIDE.QR.VALID" = " QRは5分間有効です。新しいQRを生成するには再度更新してください。";
+"SIDE.QR.TIMER %@" = "QRコード有効時間:  %@";
+"SIDE.QR.HINT" = " QRコードでHarmony 会員登録する。登録後も退会は「マイHarmony 」から可能です。";
+"SHARE_QR" = "QRコードを共有する";
+"SHARE_QR_CODE" = "あなたの大切な人が、共有しようとしています。";
+"SIDE.WH.TITLE" = "プランと支払い";
+"PLAN" = "プラン";
+"CANCELED" = "キャンセルされました";
+"BILLING" = "請求";
+"RENEWAL_DETAILS" = "契約データ";
+"EXPIRES_ON" = "有効期限";
+"AUTO_RENEWS_ON" = "自動更新されます";
+"SIDE.WH.HINT" = " Wethm Harmonyのプランや支払いの変更方法 スマホまたはタブレットで［支払い］→［Apple ID]";
+"SIDE.SUBS.HINT" = "Wethm Harmony を使用すると睡眠データを貴方と、貴方の大切な方との間で相互データ共有を行い、快適な睡眠環境へのアドバイスやサポ トができます。";
+"SIDE.SUBS.EMPTY" = "現在、会員登録は受け付けておりません…";
+"SIDE.SUBS.HINT2 %@" = "● 月額料金は%@で、毎月自動更新され、お支払いは現在のiTunesアカウントに請求されます。 \● 月額プランの管理、お支払いの詳細はAppleにてご確認いただけます。 \● お支払いの確認や払い戻しに関するお問い合わせは、Appleカスタマーサポートまでご連絡ください。";
+"NUMBER_OF_MEMBERS" = "共有メンバー数";
+"DETAILED_VIEW" = "詳細亍一夕共有";
+"PERIOD" = "期間";
+"NEXT_PAYMENT_DATE" = "次回お支払い日";
+"SIDE.ACC.NAME" = "他の人がわかりやすい名前を選択してください。Wethm Harmony をご利用の場合、設定した名前はHarmony メンバーにも共有されます。";
+"SIDE.ACC.HINT" = "提供された情報は、個別設定されたアルゴリズムを作成・分析するために使用されます。";
+"SIDE.ACC.JOIN_SUCCESS" = "参加しました！睡眠データを共有できます。";
+"SIDE.ACC.ADMIN %@" = "%@のHarmony ";
+"NO_SETTINGS" = "設定無し";
+"DEVICE_SETTINGS" = "デバイス設定";
+"DEVICE_INFORMATION" = "私のデバイス";
+"HOW_TO_USE" = "ご利用方法";
+"NOTIFICATIONS_SETTINGS" = "通知設定";
+"ALLOW_NOTIFICATIONS" = "通知を許可する";
+"NOTIFICATIONS" = "通知";
+"SIDE.SET.HINT" = "通知が届かない場合は、 iPhoneのWethmアプリ > 設定 > 通知 から、通知を有効にしてください。";
+"APPLICATION_SETTINGS" = "アプリの設定";
+"APPLICATION_GUIDE" = "アプリガイド";
+"VERSION" = "バージョン";
+"DEVICE_NAME" = "デバイス名";
+"SERIAL_NUMBER" = "シリアルナンバー";
+"CONNECTION_DATE" = "接続日";
+"UPDATE_WIFI_C" = " Wi-Fiの設定を更新する";
+"CONNECTION_TERMINATION" = "接続終了";
+"SIDE.SET.DIS.HINT" = "以下の注意事項をご確認ください。";
+"SIDE.SET.DIS.HINT2" = "❶接続を解除すると、登録されたデバイスが消去されます。 ❷他人に譲渡する前に接続を解除してください。❸ 解除後の再接続は可能ですが、以前の設定が維持されない可能性があります。";
+"SETUP_GUIDE" = "設定ガイド";
+"SETUP_GUIDE.HINT" = "正しい装着方法を説明する";
+"V.BASIC" = "ベーシック振動";
+"V.SLOW_PULSE" = "スローパルス振動";
+"V.HEARTBEAT" = "ハートビート振動";
+"V.TICKTOCK" = "チクタク振動";
+"V.ZIG" = "ジグザグ振動";
+"V.RAPID" = "急速振動";
+"V.STACCATO" = "スタッカート";
+"PAYMENT.MONTH" = "/ 毎月";
+"MAX" = "最大";
+
+// SETUP GUIDE
+"SETUP_GUIDE.T1" = "Set up guide";
+"SETUP_GUIDE.T2" = "スリープエンハンサーは、まさに魔法のような製品です。 生体信号の計測と信号処理に関する長年の研究の集大成です。 A.I.を始めましょう。";
+"SETUP_GUIDE.T3" = "それではまず";
+"SETUP_GUIDE.T4" = "始めに設定方法";
+"COMPONENT" = "製品構成";
+"SETUP_GUIDE.T5" = "スリープエンハンサーのセット内容は以下の通りです。スリープエンハンサーパッド・コントローラー・USB-C電源ケーブル ※ACアダプターは付属しておりません。";
+"CONTROLLER" = "コントローラー";
+"SETUP_GUIDE.T6" = "USB-C電源ケーブル\n / アダプター";
+"SETUP_GUIDE.T7" = "スリープエンハンサーパッド";
+"STEP_01" = "ステップ01";
+"SETUP_GUIDE.T8" = "スリープエンハンサーを開封し 電源を接続してください。デバイスのライトがしっかりと点灯していることをご確認ください。 ※USBアダプターは、“タイプA:５V2A”をご使用ください。";
+"SETUP_GUIDE.T9" = "電源を入れた後";
+"SETUP_GUIDE.T10" = "起動に約5秒かかる場合があります。";
+"STEP_02" = "ステップ02";
+"SETUP_GUIDE.T11" = "スリープエンハンサーをマットレスの上に直接置き、心臓の高さに合わせ、マットレスカバーで覆います。";
+"SETUP_GUIDE.T12" = "より快適にお使いいただくためには、マットレスカバーの下に設置することをおすすめします。";
+"STEP_03" = "ステップ03";
+"SETUP_GUIDE.T13" = "次にスマートフォンで下記の事項をご確認ください。\n❶Bluetoothがオンになっている。\n❷インターネットに接続されている。";
+"SETUP_GUIDE.T14" = "先にデバイスランプが点灯していることを確認してください。";
+"STEP_04" = "ステップ04";
+"SETUP_GUIDE.T15" = "デバイスとアプリの接続が完了したら、コントローラのライトの点滅が止まるか確認してください。";
+"SETUP_GUIDE.T16" = "確認するを押した後、コントローラのライトがゆっくり点滅していることをご確認ください。";
+
+// LIFESTYLE
+"LIFESTYLE" = "Lifestyle";
+"LIFESTYLE.T1" = "より良い睡眠を Wethm™の日々の習慣で！";
+"LIFESTYLE.T2" = "夕方、家に帰り、リラックスして休む準備はできましたか？\nWethm™はあなたの睡眠をより良いものにしてくれます。それでは、Wethm™が提供するさまざまな機能、効果、効能をご紹介しましょう。";
+"LIFESTYLE.T3" = "まずは";
+"LIFESTYLE.T4" = "どのように作用するのか";
+"EVENING" = "夕方";
+"LIFESTYLE.T5" = "より良い睡眠のために体をリラックスさせる";
+"LIFESTYLE.T6" = "睡眠環境を整える";
+"LIFESTYLE.T7" = "夜が近づいたら、リラックスしてぐっすりと眠れるように準備しましょう。Wethm™を使えば、あなたの安らぎの空間に静かな眠りの空間を作り出すことができます。照明、温度、周囲の音を調節して、リラックスした状態で気持ちを落ち着かせることで、1日のストレスを解消し、活力を取り戻す睡眠に向けて心と体を整えることができます。";
+"LIFESTYLE.T8" = "寝る前の準備";
+"LIFESTYLE.T9" = "個人に合わせた就眠前の習慣";
+"LIFESTYLE.T10" = "理想の睡眠習慣を見つけよう";
+"LIFESTYLE.T11" = "アスリートが最高のパフォーマンスを発揮するために独自のルーティンを持っているように、あなたも安眠のための就寝前のルーティンを作り出すことができます。Wethm™はあなたの睡眠データに基づいて、瞑想、呼吸法、ブルースクリーンの回避などを含む、あなただけの就寝前の習慣を提案します。";
+"LIFESTYLE.T12" = "ベッドに入る";
+"LIFESTYLE.T13" = "快適な就寝";
+"LIFESTYLE.T14" = "途切れることのない快適な睡眠";
+"LIFESTYLE.T15" = "何かを装着することによる懸念や 不快感から、睡眠情報の収集をためらったことはありませんか？Wethm™のスリープエンハンサーがあれば、睡眠の妨げになるような装置を身につけたり、作動させたりする必要はありません。いつものように眠りにつき、あとはスリープエンハンサーにお任せください。";
+"LIFESTYLE.T16" = "簡単な睡眠誘導";
+"LIFESTYLE.T17" = "眠りに落ちるのに苦労していませんか？スリープエンハンサーの睡眠誘導機能を使えば、より簡単に眠りにつくことができます。スリープエンハンサーは、微弱な振動技術を利用して睡眠をサポートします。効果的だと感じたら、スマートアクティベーション機能を有効にしてみてください。手動で睡眠誘導機能を作動させなくても、横になると自動的に検知します。Wethm™アプリでこれらの機能をコントロールし、振動の強さを調整することもできます。";
+"LIFESTYLE.T18" = "睡眠中";
+"LIFESTYLE.T19" = "正確な睡眠モニタリングと分析";
+"LIFESTYLE.T20" = "睡眠に関する洞察を得る";
+"LIFESTYLE.T21" = "Wethm™ のスリープエンハンサーで、穏やかで深い睡眠をお楽しみください。広範な臨床研究データに基づく正確な睡眠モニタリングと分析を活用しましょう。睡眠段階、心拍数、呼吸、覚醒、その他の睡眠指標を分析した詳細な睡眠レポートを受け取ることができます。睡眠の質を包括的に理解することで、健康増進にお役立てください。";
+"MORNING" = "朝";
+"LIFESTYLE.T22" = "すっきりした目覚め";
+"LIFESTYLE.T23" = "活力ある目覚め";
+"LIFESTYLE.T24" = "十分な睡眠をとっていても、朝すっきり目覚められないことはありませんか？煩わしいアラームのせいで、朝が台無しになった経験はありませんか？爽快な朝を迎えるチャンスです。Wethm™のスリープエンハンサーは、眠りについた瞬間からあなたの睡眠段階を分析し、最適な睡眠段階であなたを目覚めさせ、爽やかな朝を迎えます。新たなエネルギー、集中力、生産性の向上、そして全体的な充実感で朝を迎えましょう。";
+"LIFESTYLE.T25" = "一日の始まりに";
+"LIFESTYLE.T26" = "あなただけのモーニングインサイト";
+"LIFESTYLE.T27" = "モーニングインサイトの機能を活用";
+"LIFESTYLE.T28" = "Wethm™アプリで、毎朝パーソナライズされた睡眠に関する洞察を受け取りましょう。睡眠中に何が起こったかについての貴重な洞察を得て、睡眠の質を測定します。貴重なアドバイスを使って朝の時間を最大限に活用しましょう。Wethm™ があなたの睡眠のお供となることで、集中力、生産性、全身の健康状態を高めて一日を始めることができます。";
+"LIFESTYLE.T29" = "生活の改善";
+"LIFESTYLE.T30" = "Wethm ™によるより良い夜で、より良い生活を";
+"LIFESTYLE.T31" = "質の高い睡眠でより良い人生を実現";
+"LIFESTYLE.T32" = "質の高い睡眠の快適さと Wethm™ が提供する 洞察力で、あらゆる瞬間を最大限に楽しみましょう。日々の活動を通じて、生産性の向上、気分の向上、認知能力の強化を実感してください。Wethm™は質の高い睡眠を提供することで、あなたの成功への鍵となり、より良い人生へと導きます。";
+"LIFESTYLE.T33" = "人間関係と交友";
+"LIFESTYLE.T34" = "Wethm™ Harmony";
+"LIFESTYLE.T35" = "大切な人の健康を守る";
+"LIFESTYLE.T36" = "Wethm™ は、あなたとあなたの大切な人の健康を守ることに専念しています。大切な人と一緒に Wethm™ Harmony プランにご加入ください。Wethm™ Harmony はメンバー間で睡眠データを共有し、相互ケアを促進します。さらに、Wethm™ はHarmony メンバーの健康状態を常にモニターして緊急事態を未然に防ぎ、活発なライフスタイルを維持するための継続的なサポートを提供します。";
+
+"SETUP_GUIDE.LIFE" = "ライフスタイルにおけるスリープエンハンサー";
+"SETUP_GUIDE.LIFE.HINT" = "あなたのライフスタイルに自然に溶け込みます。";
+"SETUP_GUIDE.BED.TITLE" = "ベッドでの装着ガイド";
+"SETUP_GUIDE.BED.HINT" = "ベッドのサイズに合わせた装着方法をご案内いたします。そちらをご参考の上、お客様のお身体やスペースに合わせてパッドを取り付けてください。";
+"SETUP_GUIDE.BED.SIZE" = "サイズ：面積 (横x縦)";
+"SMALL_SINGLE" = "スモールシングル";
+"TWIN" = "ツイン";
+"QUEEN" = "クイーン";
+"KING" = "キング";
+"SINGLE" = "シングル";
+"COUPLE" = "カップル";
+"SLEEP_REPORT" = "睡眠レポート";
+"N.SLEEP_REPORT.DESC" = "週間/月間睡眠記録の通知。";
+"MAIN_STATUS" = "メインステータス";
+"N.MAIN_STATUS.DESC" = "デバイスのエラーや異常状態の通知。";
+"N.NOTICE.DESC" = "サーバーメンテナンスとお知らせ通知";
+"MARKETING_INFO" = "マーケティング情報";
+"N.MARKETING_INFO.DESC %@" = " %@ からの受領に同意する。";
+
+// ALERTS
+"ALERT.LOGOUT" = "本当にログアウトしますか？ ";
+"ALERT.DELETE_USER" = "本当にユーザーを削除しますか？ ";
+"ALERT.DELETE_ALARM" = "本当にアラームを削除しますか？ ";
+"ALERT.BLUETOOTH" = "続行するにはBluetoothをオンにしてください";
+"ALERT.SELECT_DAY" = "週初めの曜日を選択してください";
+"ALERT.RESET_PASSWORD_SUCCESS" = "パスワードのリセットが完了しました";
+"ALERT.REMOVE_MEMBER" = "メンバーを削除する";
+"ALERT.REMOVE_MEMBER1" = "削除する";
+"ALERT.REMOVE_MEMBER2" = " あなたのHarmony から？ ";
+"ALERT.REMOVE_MEMBER3" = "削除されました";
+"ALERT.REMOVE_MEMBER4" = " あなたのHarmony から削除されました";
+"ALERT.DELETE" = "本当にあなたのHarmony を削除しますか？ ";
+"ALERT.REMOVE_Y" = "このHarmony から自分を削除しようとしています。";
+"ALERT.ADD_ALARM" = "睡眠を最適化するため、アラームは1日1回のみ設定できます。";
+"ALERT.ADD_ALARM.ALERT_QUESTION" = "本当に変更しますか？ ";
+"ALERT.ADD_ALARM.BUTTON" = "はい、変更します";
+"ALERT.DELETE_ALARM.TITLE" = "アラームを削除する";
+"ALERT.JOIN.WARNING" = "現在会員登録されています。グループに参加すると、退会するまで自分のグループを作成することはできません。";
+"ALERT.JOIN.WARNING_Q" = "本当によろしいですか？";
+"ALERT.JOIN.QUES" = "大切な人とデータを共有しますか？ご自身の新しいHarmony を作成しましょう。";
+"ALERT.DEVICE.UNREG" = "本当にデバイスの登録を解除しますか？";
+"UNREGISTER" = "登録解除";
+"ALERT.ENDSLEEP" = "スリープを終了してもよろしいですか?";
+
+"PUSH.TITLE" = "Wethmのスマートアラーム";
+"PUSH.BODY" = "おはようございます。もうすぐ起きる時間です！";
+"GENERAL_ERROR.TITLE" = "あなたの情報を取得する際に何か問題が発生しました。ページを引いて更新してください。";
+
+//TOKENS
+"TOKEN.REGULAR" = "通常";
+"TOKEN.IRREGULAR" = "異常";
+"TOKEN.WELL_BALANCED" = "バランスが良い";
+"TOKEN.POOR_BALANCE" = "バランスが悪い";
+"TOKEN.RESTORATIVE" = "回復";
+"TOKEN.LOW_DEEP_SLEEP" = "深い眠り";
+"TOKEN.TOO_MUCH_LS" = "ほとんど眠れていない";
+"TOKEN.WOKEN_TOO_MUCH" = "頻繁に目覚める";
+"TOKEN.EFFICIENT" = "効率的";
+"TOKEN.INEFFICIENT" = "非効率的";
+"TOKEN.NOT_ENOUGH_REM" = "低レム睡眠";
+"TOKEN.FAST_TO_SLEEP" = "眠りにつくのが早い";
+"TOKEN.SLOW_TO_SLEEP" = "眠りにつくのが遅い";
+"TOKEN.GOOD_WAKE_UP" = "良い目覚め";
+"TOKEN.BAD_WAKE_UP" = "悪い目覚め";
+"TOKEN.SUFFICIENT" = "十分";
+"TOKEN.INSUFFICIENT" = "不足";
+"TOKEN.NO_DATA" = "データなし";
+"TOKEN.EXCELLENT" = "素晴らしい";
+"TOKEN.NORMAL" = "ふつう";
+"TOKEN.SOME_DEBT" = "少しの睡眠負債";
+
+"TOKEN.BAD_SQ" = "質の悪い";
+"TOKEN.NORMAL_SQ" = "通常";
+"TOKEN.GOOD_SQ" = "質の良い";
+"TOKEN.NO_DATA_SQ" = "データなし";
+"TOKEN.HIGH_LS" = "浅い睡眠";
+"TOKEN.LOW_REM" = "低レム睡眠";
+"TOKEN.BAD_DS" = "深い睡眠";
+"TOKEN.NORMAL_SE" = "低効率";
+"TOKEN.BAD_SE" = "効率が悪い";
+"TOKEN.NORMAL_SL" = "低潜伏";
+"TOKEN.BAD_SL" = "潜伏不足";
+"TOKEN.NORMAL_WS" = "目覚めがよくない";
+"TOKEN.BAD_WS" = "目覚めがよくない";
+"TOKEN.NORMAL_SD" = "持続時間が短い";
+"TOKEN.BAD_SD" = "持続時間が短い";
+"TOKEN.LOUD" = "うるさい";
+"TOKEN.WARM" = "温かい";
+"TOKEN.HOT" = "暑い";
+"TOKEN.COLD" = "寒い";
+"TOKEN.DRY" = "乾燥";
+"TOKEN.HUMID" = "湿度が高い";
+"TOKEN.NORMAL_HR" = "正常心拍数";
+"TOKEN.HIGH_HR" = "高心拍数";
+"TOKEN.LOW_HR" = "低心拍数";
+"TOKEN.EXTREMELY_LOW_HR" = "超低心拍数";
+"TOKEN.NORMAL_BR" = "正常呼吸";
+"TOKEN.HIGH_BR" = "呼吸が早い";
+"TOKEN.LOW_BR" = "呼吸が遅い";
+"TOKEN.EXTREMELY_LOW_BR" = "呼吸がかなり遅い";
+"TOKEN.STRESSED" = "ストレス";
+"TOKEN.NORMAL_BIOSIGNAL" = "正常な心拍と呼吸";
+"TOKEN.MISSING_DATA" = "データの欠損";
+"TOKEN.BAD_DEBT" = "睡眠量が不足しています";
+"TOKEN.GOOD_BALANCE" = "Good!バランス";
+"TOKEN.HR_JUMP" = "心拍数の急激な上昇";
+
+// reccomendations
+"REC.TITLE.CHECK_ENV" = "環境を確認する";
+"REC.TITLE.MEDITATION" = "瞑想";
+"REC.TITLE.NO_TV" = "スクリーン画面を遠ざける";
+"REC.TITLE.REG_WAKETIME" = "正常な目覚め";
+"REC.TITLE.REG_SLEEP" = "正常な睡眠";
+"REC.TITLE.REMOVE_NOISE" = "静かにしてください";
+"REC.TITLE.ADJUST_TEMP" = "温度を調節する";
+"REC.TITLE.ADJUST_HUMIDITY" = "湿度を調節する";
+"REC.TITLE.EXERCISE" = "運動する";
+"REC.TITLE.SEE_DOCTOR" = "病院へ行く";
+"REC.TITLE.RELAX" = "リラックスが必要";
+"REC.TITLE.NORMAL_BIOSIGNAL_RANGE" = "健康状態です";
+"REC.TITLE.ADJUST_SENSOR" = "センサーを調節する";
+"REC.TITLE.SLEEP_MORE" = "睡眠時間を増やしましょう";
+"REC.TITLE.SLEEP_ALOT_MORE" = "睡眠量注意報発生";
+"REC.TITLE.LIFESTYLE" = "ライフスタイルの変化に注意";
+
+"REC.CHECK_ENV" = "睡眠環境が悪いと、眠りが浅くなったり、睡眠が偏ったり、眠れないことがあります。部屋の温度や湿度を調節して、睡眠を改善しましょう。";
+"REC.MEDITATION" = "睡眠環境が悪いと、眠りが浅くなったり、睡眠が偏ったり、眠れないことがあります。部屋の温度や湿度を調節して、睡眠を改善しましょう。";
+"REC.NO_TV" = "眠る前のスマートフォンの使用やテレビの視聴により眠りが浅くなる可能性があります。眠る前はスクリーン画面を遠ざけ、早く眠りにつけるようにしましょう。";
+"REC.REG_WAKETIME" = "起床時間が一定でないと、目覚めが悪くなり、睡眠の質全体にも影響します。アラームを決まった時間に設定し、朝の目覚めを改善しましょう。";
+"REC.REG_SLEEP" = "規則正しい時間に睡眠をとることは、睡眠の質を高めるだけでなく、早く眠りにつき、気持ちよく目覚めるための最善の方法です。";
+"REC.REMOVE_NOISE" = "部屋の中で騒音が発生している場合は、その騒音の原因を排除するか、耳栓をすることで、より良い睡眠をとることができます。";
+"REC.ADJUST_TEMP" = "部屋の温度が暑すぎたり寒すぎたりすると睡眠が浅くなる可能性があります。理想的な温度は人によって異なりますが、統計的には23℃(73℉)前後です。";
+"REC.ADJUST_HUMIDITY" = "湿度は睡眠に影響を与えるので、エアコンや加湿器を使って30～50％の間で調節してください。";
+"REC.EXERCISE" = "運動は健康状態を改善し、睡眠の質を向上させますが、一方でパーティーは健康状態を著しく変化させ、睡眠不足を招きます。ご自身の判断でご参加ください。";
+"REC.SEE_DOCTOR" = "心拍数や呼吸数が非常に低いことは良いことでもありますが、警告のサインでもあります。問題ないかどうかは医師へご相談ください。";
+"REC.RELAX" = "Wethmが心拍数や呼吸数が異常に高く変動していることを検知しました。ストレスの多い状態は、心拍数の変動を大きくし、眠りを浅くします。眠る前に気持ちをリラックスさせてみてください。";
+"REC.NORMAL_BIOSIGNAL_RANGE" = "心拍数も呼吸数も絶好調です 👏！";
+"REC.ADJUST_SENSOR" = " Wethmがあなたを検知できない箇所があります。これはセンサーの位置がずれている可能性があります。センサーの位置を胸の高さに合わせてください。";
+
+"REC.SLEEP_MORE" = "睡眠量が不足すると、健康に深刻な悪影響を与える可能 性があります。睡眠量不足を取り除くために、規則正しく睡眠をとるよう心がけて ください。";
+"REC.SLEEP_ALOT_MORE" = "あなたは深刻な睡眠負債を抱えています。これは深刻な健康上の問題に繋がる可能性あります。これを今すぐ修正するには、毎日の 睡眠スケジュールを変更することが重要です。";
+"REC.LIFESTYLE" = "特定の平日に心拍数が突然上昇するのは、ライフスタイルの変化を示している可能性があります。不規則なライフスタイルは睡眠に悪影響を与える可能性があるため、注意してください!";
+
+"REC.TITLE2.CHECK_ENV" = "環境を確認する";
+"REC.TITLE2.MEDITATION" = "瞑想";
+"REC.TITLE2.NO_TV" = "スクリーン画面を遠ざける";
+"REC.TITLE2.REG_WAKETIME" = "正常な目覚め";
+"REC.TITLE2.REG_SLEEP" = "正常な睡眠";
+"REC.TITLE2.REMOVE_NOISE" = "静かにしてください";
+"REC.TITLE2.ADJUST_TEMP" = "温度を調節する";
+"REC.TITLE2.ADJUST_HUMIDITY" = "湿度を調節する";
+"REC.TITLE2.EXERCISE" = "運動する";
+"REC.TITLE2.SEE_DOCTOR" = "病院へ行く";
+"REC.TITLE2.RELAX" = "リラックスが必要";
+"REC.TITLE2.NORMAL_BIOSIGNAL_RANGE" = "健康状態です";
+"REC.TITLE2.ADJUST_SENSOR" = "センサーを調節する";
+"REC.TITLE2.SLEEP_MORE" = "睡眠時間を増やしましょう";
+"REC.TITLE2.SLEEP_ALOT_MORE" = "睡眠量注意報発生";
+"REC.TITLE2.LIFESTYLE" = "ライフスタイルの変化に注意";
+
+//FAQ
+"FAQ.Q1" = "Wethmアプリは無料ですか？ ";
+"FAQ.T1" = "•Wethmアプリは無料です。";
+"FAQ.A1" = "Wethm アプリは Wethm Harmony を除き、ほとんどの機能が無料で使用できます。ただし、Wethm アプリのほとんどの機能には Wethm デバイスが必要です。";
+"FAQ.Q2" = "振動による目覚まし機能とはどのようなものですか？";
+"FAQ.A2" = "人間は、入眠から目覚めるまでの間の睡眠中に複数の睡眠サイクル（睡眠段階）を繰り返します。その中で最も理想的な目覚めは、睡眠の浅い段階です。しかし毎朝その段階で目覚めることは統計的にも困難であることがわかっています。Wethmの目覚まし機能は、振動を利用して貴方を浅い睡眠段階へと導き目覚めさせます。そのため、毎朝気持ちのいい寝起き体験を得ることができます。";
+"FAQ.Q3" = "睡眠誘導とはどのようなものですか？ ";
+"FAQ.A3" = "睡眠導入機能は、電車の優しい振動が眠りを誘うように、振動で心身をリラックスさせます。効果を最大限に引き出すには、睡眠誘導を開始したら、他のすべての機器の電源を切り、振動に集中してください。";
+"FAQ.Q4" = "Wethm Harmony とは何ですか？ ";
+"FAQ.T4" = "• Wethm Harmony はWethmのデータ共有サービスです。";
+"FAQ.A4" = "グループ内の人々が昨夜どのように眠ったかを知ることができます。2人グループなら詳細情報なしで無料で使用でき、4人または10人グループなら定額料金で詳細データを見ることができます。";
+"FAQ.Q5" = "寝ている時は何を追跡しているのですか？";
+"FAQ.A5" = " Wethmは、睡眠全体、最適な睡眠時間を推定するための睡眠負債、心拍数と呼吸数、温度、湿度、騒音レベルなどの睡眠環境を追跡します。";
+"FAQ.Q6" = "データを見るには時計に接続する必要がありますか？";
+"FAQ.T6" = "• いいえ、いつも通りに横になるだけです。";
+"FAQ.A6" = "このデバイスの魅力は、何も身につけないでよいというところにあります。睡眠をモニターするために腕時計をつけたまま眠る必要がありません。";
+"FAQ.Q7" = "センサーの位置は？";
+"FAQ.A7" = "センサーはベッドをまたいで、シーツの下の胸の高さに設置します。センサーの裏側には滑り止め加工が施されているので、寝ている間に動き回ってもセンサーの位置は変わりません。";
+"FAQ.Q8" = "センサーはどのようにアプリに接続するのですか？";
+"FAQ.A8" = " Wi-Fi接続により、センサーはスマートフォンにインストールしたアプリに直接接続されます。";
+
+// INFO SHEETS
+"INFO.attributes.TEXT" =
+"• 昨夜の睡眠についての詳細は、こちらをご覧ください。
+
+• 生体信号が正常範囲を超えている場合、または睡眠環境が質の高い睡眠に最適でない場合は、赤で表示されます。
+
+• また、過去7日間の累積睡眠負債を追跡することもできます。最適な睡眠時間は8時間10分と設定されており、それ以上でも以下でも累積されます。
+";
+
+"INFO.attributes.TITLE" = "属性";
+
+"INFO.harmony.TEXT" =
+"• Wethm Harmonyのページには、グループ内の全メンバーが表示されます。
+
+• 各メンバーの基本的な睡眠情報は下記のリストで見ることができ、月額会員の場合は各メンバーをクリックして詳細を見ることができます。
+
+• グループ内のメンバーに睡眠の問題がある場合、その問題はページの上部に赤いマークで表示され、メンバーごとの問題数を表示します。 
+
+• メンバーの希望により、一部の情報を表示しないこともできます。";
+
+"INFO.harmony.TITLE" = "マイHarmony ";
+
+"INFO.qrcode.TEXT" =
+"• Wethm は QR コードを使用して Wethm Harmony のグループのメンバーを接続します。
+
+• 潜在メンバーは、設定のHarmony ページで QR コードを生成できます。
+
+• グループ管理者は携帯電話で生成された画像から直接QRコードをスキャンするか、アルバムボタンをクリックして画像をアップロードすることができます。
+
+";
+
+"INFO.qrcode.TITLE" = "QRコードをスキャンする";
+
+"INFO.radar.TEXT" =
+"• レーダーグラフは、快適な睡眠に寄与すると考えられる5つのポイントを示しています。
+
+• 深い眠りとは、深い眠りの量を示しています：この睡眠の合計時間が8%以上が優秀とされます。
+
+• 効率は、ベッドに入ってからの眠りの深さを示します：80％以上が優秀とされます。
+
+• 睡眠潜時とは、寝ようとした後、どれくらいの速さで眠りに落ちたかを示します：5分以下が優秀とされます。
+
+• 覚醒状態とは、どの段階で目が覚めたかを示します：最後の5分間のうち、80％以上が浅い睡眠段階であった場合、優秀とされます。
+
+• 睡眠時間は総睡眠時間を示します：7時間30分以上が優秀とされます。
+";
+
+"INFO.radar.TITLE" = "睡眠の質";
+
+"INFO.stages.TEXT" =
+"• このページは、あなたの睡眠のヒプノグラムつまり詳細な睡眠段階を示しています。
+- REM: このステージでは、心拍数、呼吸、脳の活動がすべて増加します。これは夢を見る睡眠のステージであり、脳が活発化します。
+- 浅い睡眠: 体温が下がり、脳波が遅くなり、呼吸と心拍数が減少し、筋肉がリラックスします。
+- 深い睡眠: 深い睡眠段階は、昼間に消耗した身体の機能の回復と免疫システムの強化と関連しています。
+- 点線: データがセンサーの範囲を超える場合、データは欠落する可能性があり、点線で表示されます。
+
+• 一番上のグラフは、1日の24時間を基準として、睡眠段階が時間とともにどのように変化するかを示しています。
+
+• 真ん中のグラフは従来のヒプノグラム形式で、一晩の睡眠サイクルの変化を見ることができます。
+
+• あなたの睡眠段階は全体のパーセンテージとして累積され、あなたの睡眠を平均範囲と比較することができます。特定の睡眠段階が正常範囲を上回ったり下回ったりする場合は、睡眠の質が低いことを示している可能性があります。
+
+• センサーの範囲を超えた場合、データが不足する可能性があり、破線で表示されます。
+";
+
+"INFO.stages.TITLE" = "睡眠設定";
+
+"INFO.vital.TEXT" =
+"• 睡眠時のバイタルとは、睡眠中にWethmによって測定された心拍数と呼吸数を指します。
+
+• あなたの睡眠バイタルが正常範囲を超えた場合、赤で表示されます。
+
+• 心拍数の正常範囲は45～120BPMです。
+
+• 呼吸数の正常範囲は5～25BPMです。
+";
+
+"INFO.vital.TITLE" = "睡眠バイタル";
+
+"INFO.env.TEXT" =
+"• Wethmは睡眠環境の温度、騒音、湿度を測定します。
+
+• これらの要素は質の高い睡眠を実現する上で重要な要素となります。
+
+• 最適な睡眠のためには、温度は16～22℃、湿度は30～50％、騒音は40dB以下が望ましいです。
+
+• 環境要因が最適な範囲を超えている場合は、赤で表示されます。
+";
+
+"INFO.env.TITLE" = "睡眠環境";
+
+"INFO.alarm.TEXT" = "振動アラームは最初は弱く、5分かけて徐々に強くなります。10分経っても起きない場合は、再度弱い振動から強くなり、最大2回まで繰り返されます。";
+"INFO.alarm.TITLE" = "アラーム設定";
+
+"INFO.suggestions.TEXT" = "ユーザーの睡眠を改善するための提案がアイコンにまとめられ、簡単に配信されます。";
+"INFO.suggestions.TITLE" = "安眠のための提案";
+
+// main view greetings logic
+"GREETINGS_LOGIC.GOOD" = "良い";
+"GREETINGS_LOGIC.BAD" = "悪い";
+"GREETINGS_LOGIC.NORMAL" = "ふつう";
+"MAIN_VIEW.GREETINGS_LOGIC.ENOUGH" = "十分";
+"MAIN_VIEW.GREETINGS_LOGIC.NOT_ENOUGH" = "不足";
+"MAIN_VIEW.GREETINGS_LOGIC.SHORT" = "短い";
+"MAIN_VIEW.GREETINGS_LOGIC.LONG" = "長い";
+
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_REGULAR" = "正常";
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_IRREGULAR" = "異常";
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_WELL_BALANCED" = "バランスが良い";
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_POOR_BALANCE" = "バランスが悪い";
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_RESTORATIVE" = "修復";
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_LOW_DEEP_SLEEP" = "深い睡眠";
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_TOO_MUCH_LS" = "ほとんど眠れていない";
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_WOKEN_TOO_MUCH" = "頻繁に目覚める";
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_EFFICIENT" = "効率的";
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_INEFFICIENT" = "非効率的";
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_NOT_ENOUGH_REM" = "低レム睡眠";
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_FAST_TO_SLEEP" = "眠りにつくのが早い";
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_SLOW_TO_SLEEP" = "眠りにつくのが遅い";
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_GOOD_WAKE_UP" = "目覚めが良い";
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_BAD_WAKE_UP" = "目覚めが悪い";
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_SUFFICIENT" = "十分";
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_INSUFFICIENT" = "不足";
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_NO_DATA" = "データ無し";
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_EXCELLENT" = "素晴らしい";
+"MAIN_VIEW.GREETINGS_LOGIC.TOKENS_NORMAL" = "ふつう";
+
+// Auth Errors
+"EMPTY_NAME" = "名前が未入力です。";
+"EMPTY_EMAIL" = "メールアドレスが未入力です。";
+"INVALID_EMAIL" = "メールアドレスが正しくありません。";
+"EMAIL_REGISTERED" = "メールアドレスはすでに登録されています。";
+"EMPTY_PASSWORD" = "パスワードが未入力です。";
+"PASSWORD_WARNING" = "パスワードが無効です。数字、英大文字、英小文字、記号を含む 8 文字以上です。";
+"PASSWORD_MISMATCH" = "パスワードが一致しません";
+"EMPTY_CODE" = "コードが未入力です。";
+"WRONG_CODE" = "コードが間違っています。もう一度お試しください。";
+"EXPIRED_CODE" = "コードの有効期限が切れました。もう一度お試しください。";
+"WRONG_USERNAME_OR_PASSWORD" = "ユーザー名またはパスワードが間違っています。";
+"GENERAL_ERROR" = "一般的なエラーです。";
+
+"SETTINGS_HUMIDITY_DESC" = "国際的には、湿度を最大湿度に対する水蒸気量の比率で表すのに「相対湿度（%RH）」、米国では、大気中の水蒸気量の実際の量を示す「絶対湿度（g/m³）」が一般的に使用されています。
+※日本では絶対湿度の単位を（kg/kg）で表します。";
+"EDIT_ALARM" = "アラームの編集";
+"REGISTRATION_SUCCESS" = "登録が完了しました！";
+"WEEK1" = "第1週 ";
+"WEEK2" = "第2週 ";
+"WEEK3" = "第3週 ";
+"WEEK4" = "第4週 ";
+"WEEK5" = "第5週 ";
+"WEEK6" = "第6週 ";
+"TODAY.MY.OPTIMIZING_WARNING" = "次の3日間の最適化が行われます。";
